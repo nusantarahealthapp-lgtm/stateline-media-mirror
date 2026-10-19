@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Stateline MEDIA — Ops Dashboard</title>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, sans-serif; background: #0f1117; color: #e0e0e0; padding: 16px; }
+  h1 { font-size: 1.4em; margin-bottom: 4px; }
+  .sub { color: #888; font-size: 0.85em; margin-bottom: 16px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px; }
+  .card { background: #1a1d27; border-radius: 12px; padding: 16px; border: 1px solid #2a2d3a; }
+  .card h2 { font-size: 1em; margin-bottom: 12px; color: #ffd700; }
+  .item { padding: 8px 0; border-bottom: 1px solid #2a2d3a; font-size: 0.9em; }
+  .item:last-child { border: none; }
+  .time { color: #888; font-size: 0.8em; }
+  .badge { display: inline-block; padding: 2px 8px; border-radius: 10px; font-size: 0.75em; margin-left: 8px; }
+  .ok { background: #1a4d2e; color: #4ade80; }
+  .warn { background: #4d3a1a; color: #fbbf24; }
+  #status { position: fixed; top: 12px; right: 12px; padding: 6px 12px; border-radius: 20px; font-size: 0.8em; }
+  .live { background: #1a4d2e; color: #4ade80; }
+  .offline { background: #4d1a1a; color: #f87171; }
+</style>
+</head>
+<body>
+<div id="gate" style="position:fixed;inset:0;background:#0f1117;display:flex;align-items:center;justify-content:center;z-index:9999;">
+<div style="text-align:center;">
+<h2 style="color:#ffd700;margin-bottom:16px;">🔒 Ops Dashboard</h2>
+<input type="password" id="pwd" placeholder="Password" style="padding:10px 16px;border-radius:8px;border:1px solid #2a2d3a;background:#1a1d27;color:#e0e0e0;font-size:1em;" onkeydown="if(event.key==='Enter')checkPwd()">
+<br><br>
+<button onclick="checkPwd()" style="padding:10px 24px;border-radius:8px;border:none;background:#ffd700;color:#000;font-weight:bold;cursor:pointer;">Masuk</button>
+<p id="err" style="color:#f87171;margin-top:12px;display:none;">Password salah</p>
+</div>
+</div>
+<script>
+const _pwd = "4PXBCxuUC7Q";
+function checkPwd() {
+  if (document.getElementById("pwd").value === _pwd) {
+    document.getElementById("gate").style.display = "none";
+    sessionStorage.setItem("ops_auth", "1");
+  } else {
+    document.getElementById("err").style.display = "block";
+  }
+}
+if (sessionStorage.getItem("ops_auth") === "1") {
+  document.getElementById("gate").style.display = "none";
+}
+</script>
+
+<div id="status" class="offline">Menghubungkan...</div>
+<h1>📊 Stateline MEDIA — Ops Dashboard</h1>
+<div class="sub">Real-time via Supabase • Auto-refresh 30 detik</div>
+
+<div class="grid">
+  <div class="card">
+    <h2>📰 Artikel Terbaru</h2>
+    <div id="articles"><div class="item">Memuat...</div></div>
+  </div>
+  <div class="card">
+    <h2>🎬 Video Terakhir</h2>
+    <div id="videos"><div class="item">Memuat...</div></div>
+  </div>
+  <div class="card">
+    <h2>💡 Learnings</h2>
+    <div id="learnings"><div class="item">Memuat...</div></div>
+  </div>
+  <div class="card">
+    <h2>🤖 Status AI Provider</h2>
+    <div id="providers"><div class="item">Cek manual via terminal</div></div>
+  </div>
+</div>
+
+<script>
+const SUPABASE_URL = "https://efgamjpnlrkarifckrip.supabase.co";
+const SUPABASE_KEY = "sb_publishable_tbZPaY4pFRwju0zNiexMXw_7T30Hxxv";
+const sb = supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
+
+async function load() {
+  try {
+    const { data: articles } = await sb.from("perf_articles")
+      .select("*").order("publish_time", { ascending: false }).limit(10);
+    document.getElementById("articles").innerHTML =
+      (articles || []).map(a =>
+        `<div class="item">${a.title}<br><span class="time">${a.category || ""} • ${new Date(a.publish_time).toLocaleString("id-ID")}</span></div>`
+      ).join("") || '<div class="item">Belum ada data</div>';
+
+    const { data: videos } = await sb.from("perf_videos")
+      .select("*").order("publish_time", { ascending: false }).limit(10);
+    document.getElementById("videos").innerHTML =
+      (videos || []).map(v =>
+        `<div class="item">${v.title}<span class="badge ok">${v.platform}</span><br><span class="time">${v.slot} • ${new Date(v.publish_time).toLocaleString("id-ID")}</span></div>`
+      ).join("") || '<div class="item">Belum ada data</div>';
+
+    const { data: learnings } = await sb.from("perf_learnings")
+      .select("*").order("created", { ascending: false }).limit(5);
+    document.getElementById("learnings").innerHTML =
+      (learnings || []).map(l =>
+        `<div class="item">${l.pattern}<br><span class="time">${l.evidence || ""}</span></div>`
+      ).join("") || '<div class="item">Belum ada learnings</div>';
+
+    document.getElementById("status").className = "live";
+    document.getElementById("status").textContent = "● Live";
+  } catch (e) {
+    document.getElementById("status").className = "offline";
+    document.getElementById("status").textContent = "○ Offline";
+  }
+}
+
+load();
+setInterval(load, 30000);
+
+// Realtime subscriptions
+sb.channel("perf")
+  .on("postgres_changes", { event: "*", schema: "public", table: "perf_articles" }, load)
+  .on("postgres_changes", { event: "*", schema: "public", table: "perf_videos" }, load)
+  .subscribe();
+</script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+# Cache statis lama (gambar, CSS, JS, font) — hemat bandwidth R2 & Pages
+/images/*
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/*.css
+  Cache-Control: public, max-age=86400
+/*.js
+  Cache-Control: public, max-age=86400
+/*.avif
+  Cache-Control: public, max-age=31536000, immutable
+/*.webp
+  Cache-Control: public, max-age=31536000, immutable
+
+# HTML artikel — cache pendek agar update cepat tayang
+/artikel/*
+  Cache-Control: public, max-age=3600
+/en/article/*
+  Cache-Control: public, max-age=3600
+
+# Security headers gratis
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
+  Referrer-Policy: strict-origin-when-cross-origin

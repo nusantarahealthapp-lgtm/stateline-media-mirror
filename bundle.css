@@ -1,0 +1,349 @@
+
+/* ===== style.css ===== */
+/* ============================================================
+   Stateline MEDIA — Tema "Editorial" ala VICE (2026-10-19)
+   Kode ORIGINAL. Pola desain terinspirasi bahasa visual VICE:
+   monokrom brutal, headline heavy, garis tebal, metadata monospace.
+   TIDAK menyalin aset/font/konten milik VICE.
+   ============================================================ */
+:root{
+  --black:#0a0a0a; --paper:#fafafa; --card:#ffffff;
+  --ink:#111111; --gray:#6b6b6b; --line:#e5e5e5;
+  --yellow:#f0cd2d; --red:#d4202c;
+  --font-head:'Archivo',Helvetica,Arial,sans-serif;
+  --font-black:'Archivo Black','Archivo',Helvetica,Arial,sans-serif;
+  --font-mono:'JetBrains Mono',ui-monospace,monospace;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{font-family:var(--font-head);background:var(--paper);color:var(--ink);
+  -webkit-font-smoothing:antialiased;line-height:1.6}
+a{color:inherit;text-decoration:none}
+img{display:block;max-width:100%;height:auto}
+.wrap{max-width:1280px;margin:0 auto;padding:0 20px}
+.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+.svg-ic{width:18px;height:18px}
+
+/* ---------- utility strip ---------- */
+.util{background:#fff;border-bottom:1px solid var(--line);font-size:11px}
+.util-inner{display:flex;justify-content:space-between;align-items:center;padding-top:7px;padding-bottom:7px}
+#today{font-family:var(--font-mono);font-size:10px;letter-spacing:.08em;color:#555;text-transform:uppercase}
+.util-right{display:flex;align-items:center;gap:18px}
+.util-right a{font-family:var(--font-mono);font-size:10px;letter-spacing:.1em;color:#444;text-transform:uppercase}
+.util-right a:hover{color:#000}
+.theme-toggle{background:none;border:1px solid var(--line);border-radius:50%;width:28px;height:28px;
+  display:inline-flex;align-items:center;justify-content:center;cursor:pointer;color:#333}
+.theme-toggle:hover{border-color:#000}
+
+/* ---------- black nav ---------- */
+.vnav{background:var(--black);color:#fff;position:sticky;top:0;z-index:60}
+.vnav-inner{display:flex;align-items:center;gap:24px;min-height:64px}
+.nav-toggle{display:none;flex-direction:column;gap:5px;background:none;border:0;cursor:pointer;padding:8px 4px}
+.nav-toggle span{display:block;width:22px;height:2px;background:#fff}
+.brand-logo{height:38px;width:auto}
+.vnav-links{display:flex;gap:24px;margin-left:6px;flex-wrap:wrap}
+.vnav-links a{font-weight:800;font-size:13px;letter-spacing:.05em;color:#fff;text-transform:uppercase;
+  padding:4px 0;position:relative;white-space:nowrap}
+.vnav-links a::after{content:"";position:absolute;left:0;bottom:0;height:3px;width:0;background:var(--yellow);transition:width .18s}
+.vnav-links a:hover::after,.vnav-links a.active::after{width:100%}
+.vnav-social{margin-left:auto;display:flex;gap:14px}
+.vnav-social a{font-family:var(--font-mono);font-size:10px;letter-spacing:.1em;color:#bbb;text-transform:uppercase}
+.vnav-social a:hover{color:var(--yellow)}
+
+/* ---------- sections ---------- */
+.section{margin-top:44px}
+h2.section-title{font-family:var(--font-black);font-size:24px;letter-spacing:.02em;text-transform:uppercase;
+  border-bottom:4px solid var(--ink);padding-bottom:10px;margin-bottom:22px;
+  display:flex;justify-content:space-between;align-items:baseline}
+.view-all{font-weight:800;font-size:13px;text-transform:uppercase;letter-spacing:.05em;border-bottom:3px solid var(--yellow)}
+.view-all:hover{background:var(--yellow)}
+
+/* ---------- hero ---------- */
+.hero-grid{display:grid;grid-template-columns:2fr 1fr;gap:24px}
+.hero-main{position:relative;display:block;background:var(--black)}
+.hero-main img{width:100%;aspect-ratio:16/9;object-fit:cover}
+.hero-overlay{background:var(--black);color:#fff;padding:26px 30px}
+.hero-overlay .badge{margin-bottom:12px}
+.hero-overlay h2{font-family:var(--font-black);font-size:clamp(26px,3.6vw,44px);line-height:1.06;letter-spacing:-.01em;margin-bottom:12px}
+.hero-overlay h2:hover{color:var(--yellow)}
+.hero-overlay .excerpt{color:#bbb;font-size:15px;max-width:60ch}
+.hero-side{display:flex;flex-direction:column;gap:18px}
+.hero-item{display:flex;gap:14px;background:var(--card);border:1px solid var(--line);padding:12px}
+.hero-item img{width:110px;height:110px;object-fit:cover;flex-shrink:0}
+.hi-body .badge{margin-bottom:8px}
+.hero-item h3{font-weight:800;font-size:16px;line-height:1.28;margin-bottom:8px}
+.hero-item h3:hover{background:var(--yellow)}
+
+/* ---------- badges & meta (monospace ala VICE) ---------- */
+.badge{display:inline-block;font-weight:800;font-size:12px;letter-spacing:.06em;text-transform:uppercase;
+  border-bottom:3px solid var(--yellow);padding-bottom:3px}
+a.badge:hover{background:var(--yellow)}
+.meta,.byline{font-family:var(--font-mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--gray)}
+.excerpt{color:#444;font-size:14px;line-height:1.55}
+
+/* ---------- card grid ---------- */
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:26px}
+.card{background:var(--card);border:1px solid var(--line);display:block}
+.card .cover{width:100%;aspect-ratio:16/10;object-fit:cover}
+.card-body{padding:16px 18px 18px}
+.card-body .badge{margin-bottom:10px}
+.card-body h3{font-weight:800;font-size:19px;line-height:1.24;letter-spacing:-.01em;margin-bottom:10px}
+.card-body h3:hover{background:var(--yellow)}
+
+/* ---------- index rows (daftar terkini) ---------- */
+.index-row{display:flex;gap:18px;padding:18px 0;border-bottom:1px solid var(--line);align-items:flex-start;background:transparent}
+.index-row img{width:120px;height:120px;object-fit:cover;flex-shrink:0;order:2;margin-left:auto}
+.index-row .badge{margin-bottom:8px}
+.index-row h3{font-weight:800;font-size:17px;line-height:1.3;margin-bottom:8px}
+.index-row h3:hover{background:var(--yellow)}
+
+/* ---------- picks ---------- */
+.picks-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:26px}
+.pick-card{background:var(--black);color:#fff;display:block}
+.pick-card img{width:100%;aspect-ratio:16/10;object-fit:cover}
+.pick-body{padding:16px 18px}
+.pick-badge{display:inline-block;background:var(--yellow);color:#000;font-weight:900;font-size:11px;
+  letter-spacing:.08em;text-transform:uppercase;padding:5px 10px;margin-bottom:10px}
+.pick-card h3{font-weight:800;font-size:18px;line-height:1.28;margin-bottom:8px}
+.pick-card h3:hover{color:var(--yellow)}
+.pick-card .meta{color:#999}
+
+/* ---------- load more ---------- */
+.load-more{display:block;margin:26px auto 0;background:var(--black);color:#fff;border:0;cursor:pointer;
+  font-weight:800;font-size:13px;letter-spacing:.06em;text-transform:uppercase;padding:13px 34px}
+.load-more:hover{background:var(--yellow);color:#000}
+.lm-hidden{display:none!important}
+
+/* ---------- article ---------- */
+.article-wrap{max-width:1280px;margin:0 auto;padding:0 20px}
+.breadcrumb{font-family:var(--font-mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;
+  color:var(--gray);margin:26px 0 14px}
+.breadcrumb a{text-decoration:underline;text-underline-offset:3px}
+.article-title{font-family:var(--font-black);font-size:clamp(30px,4.4vw,54px);line-height:1.06;
+  letter-spacing:-.01em;max-width:20ch;margin-bottom:16px}
+.article-meta{display:flex;flex-wrap:wrap;gap:14px;align-items:center;margin-bottom:26px}
+.cover-figure{margin:0 0 8px}
+.cover-figure img{width:100%;aspect-ratio:21/9;object-fit:cover}
+.cover-figure figcaption{text-align:right;font-family:var(--font-mono);font-size:10px;
+  letter-spacing:.08em;text-transform:uppercase;color:var(--gray);margin-top:8px}
+.lead{font-size:20px;font-weight:600;line-height:1.6;max-width:68ch;margin:30px auto}
+.article-body{max-width:720px;margin:0 auto;font-size:18px;line-height:1.75}
+.article-body p{margin-bottom:22px}
+.article-body h2{font-weight:900;font-size:24px;margin:36px 0 16px;letter-spacing:-.01em}
+.factbox{background:#fff;border:1px solid var(--line);border-left:6px solid var(--yellow);
+  padding:20px 24px;margin:30px auto;max-width:720px}
+.factbox h4{font-family:var(--font-mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;margin-bottom:10px}
+.facts{list-style:none;max-width:720px;margin:0 auto 30px}
+.facts li{padding:10px 0 10px 22px;border-bottom:1px solid var(--line);position:relative;font-size:16px}
+.facts li::before{content:"";position:absolute;left:0;top:18px;width:10px;height:10px;background:var(--yellow)}
+.tags{display:flex;flex-wrap:wrap;gap:10px;max-width:720px;margin:30px auto}
+.tag{font-family:var(--font-mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;
+  border:1px solid var(--ink);padding:6px 12px}
+.tag:hover{background:var(--yellow);border-color:var(--yellow)}
+.font-ctrl{display:flex;gap:8px;align-items:center}
+.font-ctrl button{background:#fff;border:1px solid var(--line);width:30px;height:30px;cursor:pointer;font-weight:800}
+.font-ctrl button:hover{background:var(--yellow)}
+
+/* ---------- footer ---------- */
+.vfooter{background:var(--black);color:#fff;margin-top:60px;padding:46px 0 28px}
+.vfoot-grid{display:grid;grid-template-columns:1fr 1fr 1fr 1fr;gap:36px;margin-bottom:34px}
+.vfoot-logo{height:52px;width:auto}
+.vfoot-links h4{font-family:var(--font-mono);font-size:11px;letter-spacing:.12em;text-transform:uppercase;
+  color:#888;margin-bottom:14px;border-bottom:3px solid var(--yellow);display:inline-block;padding-bottom:6px}
+.vfoot-links a{display:block;font-size:14px;font-weight:600;color:#ddd;padding:5px 0}
+.vfoot-links a:hover{color:var(--yellow)}
+.vfoot-links .socials a{font-family:var(--font-mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase}
+.vfoot-copy{border-top:1px solid #2a2a2a;padding-top:20px;display:flex;justify-content:space-between;
+  font-family:var(--font-mono);font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:#777}
+
+/* ---------- misc ---------- */
+.read-progress{position:fixed;top:0;left:0;height:3px;background:var(--yellow);width:0;z-index:99}
+.to-top{position:fixed;right:20px;bottom:20px;width:44px;height:44px;border-radius:50%;border:0;cursor:pointer;
+  background:var(--black);color:#fff;display:none;align-items:center;justify-content:center;z-index:60}
+.to-top.show{display:inline-flex}
+.to-top:hover{background:var(--yellow);color:#000}
+.focus-exit{display:none}
+.empty{padding:60px 0;text-align:center;color:var(--gray)}
+
+/* dark mode: tetap dukung toggle lama */
+[data-theme="dark"]{--paper:#0a0a0a;--card:#141414;--ink:#f4f4f4;--gray:#999;--line:#262626}
+[data-theme="dark"] .util{background:#111;border-color:#262626}
+[data-theme="dark"] .card,[data-theme="dark"] .hero-item{background:#141414;border-color:#262626}
+[data-theme="dark"] .factbox{background:#141414}
+
+@media(max-width:960px){
+  .hero-grid{grid-template-columns:1fr}
+  .grid,.picks-grid{grid-template-columns:1fr 1fr}
+  .vnav-links{display:none;position:absolute;top:64px;left:0;right:0;background:var(--black);
+    flex-direction:column;padding:16px 20px;gap:14px}
+  .vnav.open .vnav-links{display:flex}
+  .nav-toggle{display:flex}
+  .vfoot-grid{grid-template-columns:1fr 1fr}
+}
+@media(max-width:600px){.grid,.picks-grid{grid-template-columns:1fr}.vfoot-grid{grid-template-columns:1fr}}
+
+/* ===== feature-eeat.css ===== */
+/* ============================================================
+   feature-eeat.css — gaya untuk FITUR 2 (E-E-A-T redaksi) +
+   FITUR 5 ("Baca juga" visual). File terpisah agar style.css
+   tidak disentuh. Dimuat setelah style.css di <head>.
+   ============================================================ */
+
+/* --- Byline: link ke halaman profil redaksi (E-E-A-T) --- */
+.article-meta a.byline {
+    color: var(--ink);
+    font-weight: 700;
+    text-decoration: none;
+    border-bottom: 1px dotted var(--muted);
+}
+.article-meta a.byline:hover {
+    color: var(--accent);
+    border-bottom-color: var(--accent);
+}
+
+/* --- "Baca juga": kartu mini bergambar (FITUR 5) ---
+   Visual berbeda dari .related-grid (kartu besar "Berita Terkait"):
+   format horizontal kompak yang cocok di dalam body artikel. */
+.read-also-cards {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-top: 14px;
+}
+.read-also-card {
+    display: flex;
+    gap: 14px;
+    align-items: center;
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 10px;
+    text-decoration: none;
+    transition: border-color .15s ease, transform .15s ease;
+}
+.read-also-card:hover {
+    border-color: var(--accent);
+    transform: translateY(-2px);
+}
+.read-also-card img {
+    width: 120px;
+    height: 84px;
+    object-fit: cover;
+    border-radius: 8px;
+    flex-shrink: 0;
+}
+.read-also-body {
+    min-width: 0;
+}
+.read-also-card h3 {
+    font-size: .98rem;
+    font-weight: 700;
+    margin: 0 0 6px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+.read-also-card:hover h3 {
+    color: var(--accent);
+}
+.read-also-meta {
+    font-size: .76rem;
+    color: var(--muted);
+}
+@media (max-width: 600px) {
+    .read-also-card img {
+        width: 96px;
+        height: 70px;
+    }
+    .read-also-card h3 {
+        font-size: .9rem;
+    }
+}
+
+/* --- Halaman profil redaksi --- */
+.newsroom-contact {
+    margin: 22px 0;
+    padding: 16px 20px;
+    background: var(--bg2);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+}
+.newsroom-contact a {
+    color: var(--accent);
+    font-weight: 700;
+    text-decoration: none;
+}
+.newsroom-contact a:hover {
+    text-decoration: underline;
+}
+
+/* ===== feature-tags.css ===== */
+/* FITUR 3 — Halaman topik/tag (/topik/, /topik/<tag>/)
+   Gabungkan ke static/style.css (append di akhir) atau muat sebagai stylesheet tambahan.
+   Mengikuti variabel tema yang sudah ada: --accent, --line, --bg2, --muted, --ink. */
+
+/* Deskripsi di bawah judul halaman indeks topik */
+.topics-sub{color:var(--muted);margin:-8px 0 22px;font-size:.95rem;}
+
+/* Cloud tag di halaman indeks */
+.tag-cloud{display:flex;flex-wrap:wrap;gap:10px;align-items:center;}
+.tag-cloud .tag{margin:0;}               /* .tag bawaan punya margin; di cloud pakai gap */
+.tag-md{font-size:.84rem;}
+.tag-lg{font-size:.95rem;font-weight:600;}
+.tag-xl{font-size:1.08rem;font-weight:700;border-color:var(--accent);}
+
+/* Angka jumlah artikel pada chip cloud & judul halaman tag */
+.tag-count{display:inline-block;margin-left:8px;font-size:.75em;color:var(--muted);
+  background:var(--bg2);border:1px solid var(--line);border-radius:999px;
+  padding:1px 9px;font-weight:700;white-space:nowrap;}
+h1 .tag-count{vertical-align:middle;}
+
+/* FITUR 4 — "Sorotan Terkini": memakai ulang .grid/.card/.section-title yang
+   sudah ada, tanpa CSS baru. (File ini sengaja tidak menambah gaya sorotan
+   agar konsisten dengan kartu beranda lainnya.) */
+
+/* ===== feature-newsletter.css ===== */
+/* FITUR 6 — Newsletter via Pages Function /api/newsletter (KV).
+   Tempel/append ke static/style.css (dekat blok .newsletter yang sudah ada). */
+
+/* Form newsletter: input + pesan status di bawah tombol */
+.newsletter .nl-form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    align-items: center;
+}
+
+.newsletter .nl-form input[type="email"] {
+    flex: 1 1 10rem;
+    min-width: 0;
+}
+
+/* Pesan status: sukses (hijau) / error (merah) */
+.newsletter .nl-msg {
+    flex: 1 1 100%;
+    margin: 0.25rem 0 0;
+    font-size: 0.85rem;
+    line-height: 1.4;
+    min-height: 1.2em; /* cegah layout shift saat pesan muncul */
+}
+
+.newsletter .nl-msg.ok {
+    color: #16a34a;
+}
+
+.newsletter .nl-msg.err {
+    color: #dc2626;
+}
+
+/* Mode gelap (bila ada .dark di body/html) */
+.dark .newsletter .nl-msg.ok,
+body.dark .newsletter .nl-msg.ok {
+    color: #4ade80;
+}
+
+.dark .newsletter .nl-msg.err,
+body.dark .newsletter .nl-msg.err {
+    color: #f87171;
+}
