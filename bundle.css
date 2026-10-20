@@ -141,9 +141,10 @@ a.badge:hover{background:var(--yellow)}
 .tag{font-family:var(--font-mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;
   border:1px solid var(--ink);padding:6px 12px}
 .tag:hover{background:var(--yellow);border-color:var(--yellow)}
-.font-ctrl{display:flex;gap:8px;align-items:center}
-.font-ctrl button{background:#fff;border:1px solid var(--line);width:30px;height:30px;cursor:pointer;font-weight:800}
+.font-ctrl{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.font-ctrl button{background:#fff;border:1px solid var(--line);height:32px;min-width:32px;padding:0 9px;cursor:pointer;font-weight:800;white-space:nowrap;line-height:1}
 .font-ctrl button:hover{background:var(--yellow)}
+#focusbtn{font-family:var(--font-mono);font-size:11px;letter-spacing:.05em;font-weight:400}
 
 /* ---------- footer ---------- */
 .vfooter{background:var(--black);color:#fff;margin-top:60px;padding:46px 0 28px}
@@ -231,9 +232,19 @@ a.badge:hover{background:var(--yellow)}
 
 /* ---------- fitur baca & interaktif 2026-10-20 ---------- */
 #ttsbtn,#bookmarkbtn{font:inherit;font-family:var(--font-mono);font-size:11px;letter-spacing:.05em;
-  background:none;border:1px solid var(--line);padding:3px 8px;cursor:pointer;color:var(--ink);margin-left:6px}
+  background:#fff;border:1px solid var(--line);padding:0 10px;height:32px;cursor:pointer;color:var(--ink);
+  white-space:nowrap;display:inline-flex;align-items:center;gap:5px}
 #ttsbtn.playing{background:var(--yellow)}
 #bookmarkbtn.saved{background:var(--yellow)}
+/* ---------- bagikan ---------- */
+.share{max-width:720px;margin:34px auto}
+.share h2{font-family:var(--font-black);font-size:22px;text-transform:uppercase;letter-spacing:-.01em;margin-bottom:14px}
+.share-row{display:flex;flex-wrap:wrap;gap:10px}
+.share-btn{display:inline-flex;align-items:center;gap:8px;background:#fff;border:1px solid var(--ink);
+  padding:10px 16px;font:inherit;font-size:14px;font-weight:700;color:var(--ink);cursor:pointer;text-decoration:none;line-height:1}
+.share-btn:hover{background:var(--yellow)}
+.share-btn .svg-ic{width:18px;height:18px;flex-shrink:0}
+@media(max-width:600px){.share-btn{flex:1 1 calc(50% - 10px);justify-content:center}}
 .prevnext{display:flex;gap:16px;flex-wrap:wrap;max-width:720px;margin:36px auto 8px}
 .prevnext .pn{flex:1;min-width:240px;border:1px solid var(--line);border-top:4px solid var(--ink);
   padding:14px 18px;text-decoration:none;display:block;background:#fff}
