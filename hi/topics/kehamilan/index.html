@@ -31,7 +31,7 @@
 <link rel="alternate" hreflang="ja" href="https://www.statelinemedia.world/ja/topics/kehamilan/">
 <link rel="alternate" hreflang="ms" href="https://www.statelinemedia.world/ms/topics/kehamilan/">
 <link rel="alternate" hreflang="x-default" href="https://www.statelinemedia.world/topik/kehamilan/">
-<link rel="alternate" type="application/rss+xml" title="Stateline MEDIA" href="/feed.xml">
+<link rel="alternate" type="application/rss+xml" title="Stateline MEDIA" href="/hi/feed.xml">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
@@ -39,15 +39,14 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700;800;900&family=Archivo+Black&family=JetBrains+Mono:wght@400;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/bundle.css?v=11db3cec">
+<link rel="stylesheet" href="/bundle.css?v=252dd54c">
 
 <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
 <script>
   window.OneSignalDeferred = window.OneSignalDeferred || [];
   OneSignalDeferred.push(async function(OneSignal) {
-    var btn = document.getElementById('pushbtn');
-    var note = document.getElementById('pushnote');
-    if (!btn) return;
+    var btns = Array.prototype.slice.call(document.querySelectorAll('.pushbtn'));
+    var notes = Array.prototype.slice.call(document.querySelectorAll('.push-note'));
     var TXT_ON = "<svg class=\"svg-ic\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9\"/><path d=\"M13.73 21a2 2 0 0 1-3.46 0\"/></svg> \u0938\u0942\u091a\u0928\u093e\u090f\u0901 \u091a\u093e\u0932\u0942 \u0939\u0948\u0902 \u2713";
     var TXT_DENIED = "\u0938\u0942\u091a\u0928\u093e \u0905\u0928\u0941\u092e\u0924\u093f \u0905\u0938\u094d\u0935\u0940\u0915\u0943\u0924 \u2014 \u092c\u094d\u0930\u093e\u0909\u091c\u093c\u0930 \u0938\u0947\u091f\u093f\u0902\u0917 \u092e\u0947\u0902 \u091a\u093e\u0932\u0942 \u0915\u0930\u0947\u0902\u0964";
     var TXT_TIMEOUT = "\u0938\u0942\u091a\u0928\u093e \u0938\u0947\u0935\u093e \u0924\u0948\u092f\u093e\u0930 \u0928\u0939\u0940\u0902 \u2014 \u092a\u0947\u091c \u0930\u0940\u092b\u094d\u0930\u0947\u0936 \u0915\u0930\u0947\u0902\u0964";
@@ -56,18 +55,21 @@
         OneSignal.init({ appId: "786cadbf-c3c5-4b65-86e7-0d4730f9b9ae" }),
         new Promise(function(_, rej){ setTimeout(function(){ rej(new Error('init-timeout')); }, 10000); })
       ]);
-    } catch (e) { if (note) note.textContent = TXT_TIMEOUT; return; }
+    } catch (e) { notes.forEach(function(n){ n.textContent = TXT_TIMEOUT; }); return; }
+    try { if (OneSignal.User && OneSignal.User.setLanguage) { await OneSignal.User.setLanguage('hi'); } } catch (e) {}
     try {
       if (await OneSignal.Notifications.permission) {
-        btn.innerHTML = TXT_ON; btn.disabled = true;
+        btns.forEach(function(b){ b.innerHTML = TXT_ON; b.disabled = true; });
       }
     } catch (e) {}
-    btn.addEventListener('click', async function() {
+    btns.forEach(function(btn) {
+      btn.addEventListener('click', async function() {
       try {
         var ok = await OneSignal.Notifications.requestPermission();
-        if (ok) { btn.innerHTML = TXT_ON; btn.disabled = true; if (note) note.textContent = ''; }
-        else if (note) { note.textContent = TXT_DENIED; }
-      } catch (e) { if (note) note.textContent = TXT_DENIED; }
+        if (ok) { btns.forEach(function(b){ b.innerHTML = TXT_ON; b.disabled = true; }); notes.forEach(function(n){ n.textContent = ''; }); }
+        else { notes.forEach(function(n){ n.textContent = TXT_DENIED; }); }
+      } catch (e) { notes.forEach(function(n){ n.textContent = TXT_DENIED; }); }
+    });
     });
   });
 </script>
@@ -98,7 +100,7 @@
 <header class="vnav">
   <div class="wrap vnav-inner">
     <button class="nav-toggle" id="navtoggle" aria-label="Buka menu navigasi" aria-expanded="false" aria-controls="navmenu"><span></span><span></span><span></span></button>
-    <a class="brand" href="/"><img src="/logo-stateline.png?v=11db3cec" alt="Stateline MEDIA" class="brand-logo"></a>
+    <a class="brand" href="/"><img src="/logo-stateline.png?v=252dd54c" alt="Stateline MEDIA" class="brand-logo"></a>
     <nav class="vnav-links" id="navmenu"><a href="/hi/" class="">मुख्य पृष्ठ</a><a href="/hi/category/" class="">राष्ट्रीय</a><a href="/hi/category/" class="">विश्व</a><a href="/hi/category/" class="">राजनीति</a><a href="/hi/category/" class="">अर्थव्यवस्था</a><a href="/hi/category/" class="">खेल</a><span class="nav-dropdown"><button class="nav-dropbtn active" aria-haspopup="true">और &#9662;</button><span class="nav-menu"><a href="/hi/category/" class="">कानून</a><a href="/hi/category/" class="">आपदा</a><a href="/hi/category/" class="">प्रौद्योगिकी</a><a href="/hi/category/" class="">मनोरंजन</a><a href="/hi/category/" class="">स्वास्थ्य</a><a href="/stories/" class="">Web Stories</a><a href="/hi/topics/" class="active">विषय</a></span></span><a href="/hi/pages/search" aria-label="खोजें"><svg class="svg-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg><span>खोजें</span></a></nav>
     <div class="vnav-social">
       <a href="https://www.tiktok.com/@statelinemediaid" target="_blank" rel="noopener" aria-label="TikTok">TikTok</a>
@@ -110,7 +112,7 @@
 <main><div class="wrap section"><nav class="breadcrumb"><a href="/hi/">मुख्य पृष्ठ</a> / <a href="/hi/topics/">विषय</a> / #Kehamilan</nav><h1 class="section-title">#Kehamilan <span class="tag-count">(2)</span></h1><div class="grid"><a class="card" href="/hi/article/pantangan-ibu-hamil-hi"><picture><source type="image/avif" srcset="/images/pantangan-ibu-hamil-1-thumb.avif"><img class="cover" src="/images/pantangan-ibu-hamil-1-thumb.jpg" alt="गर्भवती महिलाओं के लिए जानने योग्य परहेज़" width="480" height="251" loading="lazy"></picture><div class="card-body"><span class="badge">स्वास्थ्य</span><h3>गर्भवती महिलाओं के लिए जानने योग्य परहेज़</h3><p class="excerpt">पारा (मरकरी) की अधिक मात्रा वाली मछलियाँ — जैसे शार्क, मार्लिन, स्वोर्डफिश और बड़ी मात्रा में टूना — से बचना चाहिए क्योंकि मरकरी भ्रूण के तंत्रिका तंत्र के विकास को बाधित कर सकता है।</p><span class="meta"><time datetime="2026-10-14">14 अक्टूबर 2026</time> &bull; 3 मिनट में पढ़ें</span></div></a><a class="card" href="/hi/article/tanda-awal-kehamilan-hi"><picture><source type="image/avif" srcset="/images/tanda-awal-kehamilan-1-thumb.avif"><img class="cover" src="/images/tanda-awal-kehamilan-1-thumb.jpg" alt="गर्भावस्था के शुरुआती लक्षण जिन्हें पहचानना जरूरी है" width="480" height="360" loading="lazy"></picture><div class="card-body"><span class="badge">स्वास्थ्य</span><h3>गर्भावस्था के शुरुआती लक्षण जिन्हें पहचानना जरूरी है</h3><p class="excerpt">गर्भावस्था का सबसे आम संकेत मासिक धर्म में देरी या माहवारी में देरी होना है।</p><span class="meta"><time datetime="2026-10-14">14 अक्टूबर 2026</time> &bull; 3 मिनट में पढ़ें</span></div></a></div></div></main>
 <footer class="vfooter">
   <div class="wrap vfoot-grid">
-    <div><img src="/logo-stateline.png?v=11db3cec" alt="Stateline MEDIA" class="vfoot-logo"></div>
+    <div><img src="/logo-stateline.png?v=252dd54c" alt="Stateline MEDIA" class="vfoot-logo"><div class="newsletter"><h4>ताज़ा खबरें आपके ईमेल में</h4><form class="nl-form" data-lang="hi" data-ok="धन्यवाद! आपका ईमेल सब्सक्राइब हो गया है।" data-invalid="अमान्य ईमेल पता।" data-err="सहेजा नहीं जा सका। बाद में पुनः प्रयास करें।" novalidate><input type="email" name="email" required placeholder="आपका ईमेल पता" aria-label="email"><button type="submit" aria-label="सब्सक्राइब करें"><svg class="svg-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg> सब्सक्राइब करें</button><p class="nl-msg" role="status" aria-live="polite"></p></form><script>(function(){var f=document.querySelector(".newsletter form.nl-form");if(!f||f.dataset.bound)return;f.dataset.bound="1";var msg=f.querySelector(".nl-msg"),em=f.querySelector("input[name=email]");f.addEventListener("submit",function(ev){ev.preventDefault();var v=(em.value||"").trim();msg.className="nl-msg";msg.textContent="";if(!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(v)){msg.textContent=f.dataset.invalid;msg.classList.add("err");return;}var b=this.querySelector("button");b.disabled=true;fetch("/api/newsletter",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({email:v,lang:f.dataset.lang||"id"})}).then(function(r){return{ok:r.ok};}).then(function(res){b.disabled=false;if(res.ok){msg.textContent=f.dataset.ok;msg.classList.add("ok");f.reset();}else{msg.textContent=f.dataset.err;msg.classList.add("err");}}).catch(function(){b.disabled=false;msg.textContent=f.dataset.err;msg.classList.add("err");});});})();</script></div><div class="pushsub"><h4>ताज़ा खबर सूचनाएँ</h4><button type="button" id="pushbtn" class="pushbtn" aria-label="Aktifkan notifikasi"><svg class="svg-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.73 21a2 2 0 0 1-3.46 0"/></svg> सूचनाएँ चालू करें</button><p class="push-note" id="pushnote"></p></div></div>
     <div class="vfoot-links"><h4>श्रेणियाँ</h4><div><a href="/hi/category/">राष्ट्रीय</a><a href="/hi/category/">विश्व</a><a href="/hi/category/">राजनीति</a><a href="/hi/category/">कानून</a><a href="/hi/category/">अर्थव्यवस्था</a><a href="/hi/category/">आपदा</a><a href="/hi/category/">प्रौद्योगिकी</a><a href="/hi/category/">खेल</a><a href="/hi/category/">मनोरंजन</a><a href="/hi/category/">स्वास्थ्य</a><a href="/hi/topics/">विषय</a></div></div>
     <div class="vfoot-links"><h4>और</h4><div><a href="/hi/pages/about">हमारे बारे में</a><a href="/hi/pages/contact">न्यूज़रूम और संपर्क</a><a href="/hi/pages/privacy">गोपनीयता नीति</a><a href="/hi/pages/search">खोज</a><a href="/hi/pages/index">समाचार सूची</a></div></div>
     <div class="vfoot-links"><h4>हमें फॉलो करें</h4><div class="socials">

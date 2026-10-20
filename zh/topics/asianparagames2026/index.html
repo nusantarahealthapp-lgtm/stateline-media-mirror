@@ -26,8 +26,9 @@
 <link rel="alternate" hreflang="ar" href="https://www.statelinemedia.world/ar/topics/asianparagames2026/">
 <link rel="alternate" hreflang="zh" href="https://www.statelinemedia.world/zh/topics/asianparagames2026/">
 <link rel="alternate" hreflang="fr" href="https://www.statelinemedia.world/fr/topics/asianparagames2026/">
-<link rel="alternate" hreflang="x-default" href="https://www.statelinemedia.world/topik/asianparagames2026/">
-<link rel="alternate" type="application/rss+xml" title="Stateline MEDIA" href="/feed.xml">
+<link rel="alternate" hreflang="ms" href="https://www.statelinemedia.world/ms/topics/asianparagames2026/">
+<link rel="alternate" hreflang="x-default" href="https://www.statelinemedia.world/en/topics/asianparagames2026/">
+<link rel="alternate" type="application/rss+xml" title="Stateline MEDIA" href="/zh/feed.xml">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
@@ -35,15 +36,14 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700;800;900&family=Archivo+Black&family=JetBrains+Mono:wght@400;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/bundle.css?v=11db3cec">
+<link rel="stylesheet" href="/bundle.css?v=252dd54c">
 
 <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
 <script>
   window.OneSignalDeferred = window.OneSignalDeferred || [];
   OneSignalDeferred.push(async function(OneSignal) {
-    var btn = document.getElementById('pushbtn');
-    var note = document.getElementById('pushnote');
-    if (!btn) return;
+    var btns = Array.prototype.slice.call(document.querySelectorAll('.pushbtn'));
+    var notes = Array.prototype.slice.call(document.querySelectorAll('.push-note'));
     var TXT_ON = "<svg class=\"svg-ic\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9\"/><path d=\"M13.73 21a2 2 0 0 1-3.46 0\"/></svg> \u901a\u77e5\u5df2\u5f00\u542f \u2713";
     var TXT_DENIED = "\u901a\u77e5\u6743\u9650\u88ab\u62d2\u7edd \u2014 \u8bf7\u5728\u6d4f\u89c8\u5668\u8bbe\u7f6e\u4e2d\u5f00\u542f\u3002";
     var TXT_TIMEOUT = "\u901a\u77e5\u670d\u52a1\u5c1a\u672a\u5c31\u7eea \u2014 \u8bf7\u5237\u65b0\u9875\u9762\u3002";
@@ -52,18 +52,21 @@
         OneSignal.init({ appId: "786cadbf-c3c5-4b65-86e7-0d4730f9b9ae" }),
         new Promise(function(_, rej){ setTimeout(function(){ rej(new Error('init-timeout')); }, 10000); })
       ]);
-    } catch (e) { if (note) note.textContent = TXT_TIMEOUT; return; }
+    } catch (e) { notes.forEach(function(n){ n.textContent = TXT_TIMEOUT; }); return; }
+    try { if (OneSignal.User && OneSignal.User.setLanguage) { await OneSignal.User.setLanguage('zh'); } } catch (e) {}
     try {
       if (await OneSignal.Notifications.permission) {
-        btn.innerHTML = TXT_ON; btn.disabled = true;
+        btns.forEach(function(b){ b.innerHTML = TXT_ON; b.disabled = true; });
       }
     } catch (e) {}
-    btn.addEventListener('click', async function() {
+    btns.forEach(function(btn) {
+      btn.addEventListener('click', async function() {
       try {
         var ok = await OneSignal.Notifications.requestPermission();
-        if (ok) { btn.innerHTML = TXT_ON; btn.disabled = true; if (note) note.textContent = ''; }
-        else if (note) { note.textContent = TXT_DENIED; }
-      } catch (e) { if (note) note.textContent = TXT_DENIED; }
+        if (ok) { btns.forEach(function(b){ b.innerHTML = TXT_ON; b.disabled = true; }); notes.forEach(function(n){ n.textContent = ''; }); }
+        else { notes.forEach(function(n){ n.textContent = TXT_DENIED; }); }
+      } catch (e) { notes.forEach(function(n){ n.textContent = TXT_DENIED; }); }
+    });
     });
   });
 </script>
@@ -88,13 +91,13 @@
 <div class="util">
   <div class="wrap util-inner">
     <span id="today"></span>
-    <span class="util-right"><a href="#">全球新闻门户</a><span class="lang-dropdown"><button type="button" class="lang-btn" aria-haspopup="true" aria-label="Pilih bahasa">中文 &#9662;</button><span class="lang-menu"><a href="https://www.statelinemedia.world/topik/asianparagames2026/" data-lang="id" class="">Indonesia</a><a href="https://www.statelinemedia.world/en/topics/asianparagames2026/" data-lang="en" class="">English</a><a href="https://www.statelinemedia.world/es/topics/asianparagames2026/" data-lang="es" class="">Español</a><a href="https://www.statelinemedia.world/ar/topics/asianparagames2026/" data-lang="ar" class="">العربية</a><a href="https://www.statelinemedia.world/zh/topics/asianparagames2026/" data-lang="zh" class="cur">中文</a><a href="https://www.statelinemedia.world/fr/topics/asianparagames2026/" data-lang="fr" class="">Français</a></span></span><script>(function(){try{var d=document.querySelectorAll('.lang-dropdown a[data-lang]');for(var i=0;i<d.length;i++){(function(a){a.addEventListener('click',function(){try{document.cookie='sl_lang='+a.getAttribute('data-lang')+'; Max-Age=31536000; Path=/; SameSite=Lax';}catch(e){}});})(d[i]);}}catch(e){}})();</script><button class="theme-toggle" id="themetoggle" aria-label="Mode gelap/terang" aria-pressed="false"><svg class="svg-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></button></span>
+    <span class="util-right"><a href="#">全球新闻门户</a><span class="lang-dropdown"><button type="button" class="lang-btn" aria-haspopup="true" aria-label="Pilih bahasa">中文 &#9662;</button><span class="lang-menu"><a href="https://www.statelinemedia.world/topik/asianparagames2026/" data-lang="id" class="">Indonesia</a><a href="https://www.statelinemedia.world/en/topics/asianparagames2026/" data-lang="en" class="">English</a><a href="https://www.statelinemedia.world/es/topics/asianparagames2026/" data-lang="es" class="">Español</a><a href="https://www.statelinemedia.world/ar/topics/asianparagames2026/" data-lang="ar" class="">العربية</a><a href="https://www.statelinemedia.world/zh/topics/asianparagames2026/" data-lang="zh" class="cur">中文</a><a href="https://www.statelinemedia.world/fr/topics/asianparagames2026/" data-lang="fr" class="">Français</a><a href="https://www.statelinemedia.world/ms/topics/asianparagames2026/" data-lang="ms" class="">Bahasa Melayu</a></span></span><script>(function(){try{var d=document.querySelectorAll('.lang-dropdown a[data-lang]');for(var i=0;i<d.length;i++){(function(a){a.addEventListener('click',function(){try{document.cookie='sl_lang='+a.getAttribute('data-lang')+'; Max-Age=31536000; Path=/; SameSite=Lax';}catch(e){}});})(d[i]);}}catch(e){}})();</script><button class="theme-toggle" id="themetoggle" aria-label="Mode gelap/terang" aria-pressed="false"><svg class="svg-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg></button></span>
   </div>
 </div>
 <header class="vnav">
   <div class="wrap vnav-inner">
     <button class="nav-toggle" id="navtoggle" aria-label="Buka menu navigasi" aria-expanded="false" aria-controls="navmenu"><span></span><span></span><span></span></button>
-    <a class="brand" href="/"><img src="/logo-stateline.png?v=11db3cec" alt="Stateline MEDIA" class="brand-logo"></a>
+    <a class="brand" href="/"><img src="/logo-stateline.png?v=252dd54c" alt="Stateline MEDIA" class="brand-logo"></a>
     <nav class="vnav-links" id="navmenu"><a href="/zh/" class="">首页</a><a href="/zh/category/" class="">国内</a><a href="/zh/category/" class="">世界</a><a href="/zh/category/" class="">政治</a><a href="/zh/category/" class="">经济</a><a href="/zh/category/" class="">体育</a><span class="nav-dropdown"><button class="nav-dropbtn active" aria-haspopup="true">更多 &#9662;</button><span class="nav-menu"><a href="/zh/category/" class="">法律</a><a href="/zh/category/" class="">灾害</a><a href="/zh/category/" class="">科技</a><a href="/zh/category/" class="">娱乐</a><a href="/zh/category/" class="">健康</a><a href="/stories/" class="">Web Stories</a><a href="/zh/topics/" class="active">话题</a></span></span><a href="/zh/pages/search" aria-label="搜索"><svg class="svg-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg><span>搜索</span></a></nav>
     <div class="vnav-social">
       <a href="https://www.tiktok.com/@statelinemediaid" target="_blank" rel="noopener" aria-label="TikTok">TikTok</a>
@@ -103,10 +106,10 @@
     </div>
   </div>
 </header>
-<main><div class="wrap section"><nav class="breadcrumb"><a href="/zh/">首页</a> / <a href="/zh/topics/">话题</a> / #AsianParaGames2026</nav><h1 class="section-title">#AsianParaGames2026 <span class="tag-count">(2)</span></h1><div class="grid"><a class="card" href="/zh/article/2026-10-20-indonesia-panen-emas-asian-para-games"><picture><source type="image/avif" srcset="/images/2026-10-20-indonesia-panen-emas-asian-para-games-1-thumb.avif"><img class="cover" src="/images/2026-10-20-indonesia-panen-emas-asian-para-games-1-thumb.jpg" alt="2026年亚残运会：印度尼西亚队斩获3金 刷新世界纪录" width="480" height="308" loading="lazy"></picture><div class="card-body"><span class="badge">体育</span><h3>2026年亚残运会：印度尼西亚队斩获3金 刷新世界纪录</h3><p class="excerpt">I Kadek Dwi Purwana Yasa (18), atlet para atletik asal Bali, merebut medali emas kedua Indonesia di Asian Para Games 2026 dari nomor lempar cakram putra klasifikasi F57, Selasa (20/10/2026) di Stadion Paloma Mizuho, Nagoya.</p><span class="meta"><time datetime="2026-10-20">20 十月 2026</time> &bull; 1 分钟阅读</span></div></a><a class="card" href="/zh/article/10320267"><picture><source type="image/avif" srcset="/images/asian-para-games-2026-kontingen-indonesia-1-thumb.avif"><img class="cover" src="/images/asian-para-games-2026-kontingen-indonesia-1-thumb.jpg" alt="103名印尼运动员出征2026年亚洲残疾人运动会，目标7枚金牌" width="480" height="270" loading="lazy"></picture><div class="card-body"><span class="badge">国内</span><h3>103名印尼运动员出征2026年亚洲残疾人运动会，目标7枚金牌</h3><p class="excerpt">青年和体育部长埃里克·托希尔于周一（2026年10月12日）在中爪哇省苏拉卡尔塔市政厅举行的仪式上，为出征2026年亚洲残疾人运动会的印尼代表团举行授旗仪式并送行。</p><span class="meta"><time datetime="2026-10-14">14 十月 2026</time> &bull; 1 分钟阅读</span></div></a></div></div></main>
+<main><div class="wrap section"><nav class="breadcrumb"><a href="/zh/">首页</a> / <a href="/zh/topics/">话题</a> / #AsianParaGames2026</nav><h1 class="section-title">#AsianParaGames2026 <span class="tag-count">(2)</span></h1><div class="grid"><a class="card" href="/zh/article/indonesia-panen-emas-asian-para-games"><picture><source type="image/avif" srcset="/images/2026-10-20-indonesia-panen-emas-asian-para-games-1-thumb.avif"><img class="cover" src="/images/2026-10-20-indonesia-panen-emas-asian-para-games-1-thumb.jpg" alt="2026年亚残运会：印度尼西亚队斩获3金 刷新世界纪录" width="480" height="308" loading="lazy"></picture><div class="card-body"><span class="badge">体育</span><h3>2026年亚残运会：印度尼西亚队斩获3金 刷新世界纪录</h3><p class="excerpt">I Kadek Dwi Purwana Yasa (18), atlet para atletik asal Bali, merebut medali emas kedua Indonesia di Asian Para Games 2026 dari nomor lempar cakram putra klasifikasi F57, Selasa (20/10/2026) di Stadion Paloma Mizuho, Nagoya.</p><span class="meta"><time datetime="2026-10-20">20 十月 2026</time> &bull; 1 分钟阅读</span></div></a><a class="card" href="/zh/article/asian-para-games-2026-kontingen-indonesia"><picture><source type="image/avif" srcset="/images/asian-para-games-2026-kontingen-indonesia-1-thumb.avif"><img class="cover" src="/images/asian-para-games-2026-kontingen-indonesia-1-thumb.jpg" alt="103名印尼运动员出征2026年亚洲残疾人运动会，目标7枚金牌" width="480" height="270" loading="lazy"></picture><div class="card-body"><span class="badge">国内</span><h3>103名印尼运动员出征2026年亚洲残疾人运动会，目标7枚金牌</h3><p class="excerpt">青年和体育部长埃里克·托希尔于周一（2026年10月12日）在中爪哇省苏拉卡尔塔市政厅举行的仪式上，为出征2026年亚洲残疾人运动会的印尼代表团举行授旗仪式并送行。</p><span class="meta"><time datetime="2026-10-14">14 十月 2026</time> &bull; 1 分钟阅读</span></div></a></div></div></main>
 <footer class="vfooter">
   <div class="wrap vfoot-grid">
-    <div><img src="/logo-stateline.png?v=11db3cec" alt="Stateline MEDIA" class="vfoot-logo"></div>
+    <div><img src="/logo-stateline.png?v=252dd54c" alt="Stateline MEDIA" class="vfoot-logo"><div class="newsletter"><h4>最新新闻发送到邮箱</h4><form class="nl-form" data-lang="zh" data-ok="谢谢！您的邮箱已订阅。" data-invalid="电子邮箱地址无效。" data-err="保存失败，请稍后再试。" novalidate><input type="email" name="email" required placeholder="您的电子邮箱" aria-label="email"><button type="submit" aria-label="订阅"><svg class="svg-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg> 订阅</button><p class="nl-msg" role="status" aria-live="polite"></p></form><script>(function(){var f=document.querySelector(".newsletter form.nl-form");if(!f||f.dataset.bound)return;f.dataset.bound="1";var msg=f.querySelector(".nl-msg"),em=f.querySelector("input[name=email]");f.addEventListener("submit",function(ev){ev.preventDefault();var v=(em.value||"").trim();msg.className="nl-msg";msg.textContent="";if(!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(v)){msg.textContent=f.dataset.invalid;msg.classList.add("err");return;}var b=this.querySelector("button");b.disabled=true;fetch("/api/newsletter",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({email:v,lang:f.dataset.lang||"id"})}).then(function(r){return{ok:r.ok};}).then(function(res){b.disabled=false;if(res.ok){msg.textContent=f.dataset.ok;msg.classList.add("ok");f.reset();}else{msg.textContent=f.dataset.err;msg.classList.add("err");}}).catch(function(){b.disabled=false;msg.textContent=f.dataset.err;msg.classList.add("err");});});})();</script></div><div class="pushsub"><h4>突发新闻通知</h4><button type="button" id="pushbtn" class="pushbtn" aria-label="Aktifkan notifikasi"><svg class="svg-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.73 21a2 2 0 0 1-3.46 0"/></svg> 开启通知</button><p class="push-note" id="pushnote"></p></div></div>
     <div class="vfoot-links"><h4>频道</h4><div><a href="/zh/category/">国内</a><a href="/zh/category/">世界</a><a href="/zh/category/">政治</a><a href="/zh/category/">法律</a><a href="/zh/category/">经济</a><a href="/zh/category/">灾害</a><a href="/zh/category/">科技</a><a href="/zh/category/">体育</a><a href="/zh/category/">娱乐</a><a href="/zh/category/">健康</a><a href="/zh/topics/">话题</a></div></div>
     <div class="vfoot-links"><h4>更多</h4><div><a href="/zh/pages/about">关于我们</a><a href="/zh/pages/contact">编辑部与联系方式</a><a href="/zh/pages/privacy">隐私政策</a><a href="/zh/pages/search">搜索</a><a href="/zh/pages/index">新闻索引</a></div></div>
     <div class="vfoot-links"><h4>关注我们</h4><div class="socials">

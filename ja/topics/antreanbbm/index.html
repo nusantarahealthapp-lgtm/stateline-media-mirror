@@ -31,8 +31,8 @@
 <link rel="alternate" hreflang="de" href="https://www.statelinemedia.world/de/topics/antreanbbm/">
 <link rel="alternate" hreflang="ja" href="https://www.statelinemedia.world/ja/topics/antreanbbm/">
 <link rel="alternate" hreflang="ms" href="https://www.statelinemedia.world/ms/topics/antreanbbm/">
-<link rel="alternate" hreflang="x-default" href="https://www.statelinemedia.world/topik/antreanbbm/">
-<link rel="alternate" type="application/rss+xml" title="Stateline MEDIA" href="/feed.xml">
+<link rel="alternate" hreflang="x-default" href="https://www.statelinemedia.world/en/topics/antreanbbm/">
+<link rel="alternate" type="application/rss+xml" title="Stateline MEDIA" href="/ja/feed.xml">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
@@ -40,15 +40,14 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700;800;900&family=Archivo+Black&family=JetBrains+Mono:wght@400;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/bundle.css?v=11db3cec">
+<link rel="stylesheet" href="/bundle.css?v=252dd54c">
 
 <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
 <script>
   window.OneSignalDeferred = window.OneSignalDeferred || [];
   OneSignalDeferred.push(async function(OneSignal) {
-    var btn = document.getElementById('pushbtn');
-    var note = document.getElementById('pushnote');
-    if (!btn) return;
+    var btns = Array.prototype.slice.call(document.querySelectorAll('.pushbtn'));
+    var notes = Array.prototype.slice.call(document.querySelectorAll('.push-note'));
     var TXT_ON = "<svg class=\"svg-ic\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9\"/><path d=\"M13.73 21a2 2 0 0 1-3.46 0\"/></svg> \u901a\u77e5\u30aa\u30f3 \u2713";
     var TXT_DENIED = "\u901a\u77e5\u306e\u8a31\u53ef\u304c\u62d2\u5426\u3055\u308c\u307e\u3057\u305f \u2014 \u30d6\u30e9\u30a6\u30b6\u306e\u8a2d\u5b9a\u3067\u6709\u52b9\u306b\u3057\u3066\u304f\u3060\u3055\u3044\u3002";
     var TXT_TIMEOUT = "\u901a\u77e5\u30b5\u30fc\u30d3\u30b9\u304c\u672a\u6e96\u5099\u3067\u3059 \u2014 \u30da\u30fc\u30b8\u3092\u66f4\u65b0\u3057\u3066\u304f\u3060\u3055\u3044\u3002";
@@ -57,18 +56,21 @@
         OneSignal.init({ appId: "786cadbf-c3c5-4b65-86e7-0d4730f9b9ae" }),
         new Promise(function(_, rej){ setTimeout(function(){ rej(new Error('init-timeout')); }, 10000); })
       ]);
-    } catch (e) { if (note) note.textContent = TXT_TIMEOUT; return; }
+    } catch (e) { notes.forEach(function(n){ n.textContent = TXT_TIMEOUT; }); return; }
+    try { if (OneSignal.User && OneSignal.User.setLanguage) { await OneSignal.User.setLanguage('ja'); } } catch (e) {}
     try {
       if (await OneSignal.Notifications.permission) {
-        btn.innerHTML = TXT_ON; btn.disabled = true;
+        btns.forEach(function(b){ b.innerHTML = TXT_ON; b.disabled = true; });
       }
     } catch (e) {}
-    btn.addEventListener('click', async function() {
+    btns.forEach(function(btn) {
+      btn.addEventListener('click', async function() {
       try {
         var ok = await OneSignal.Notifications.requestPermission();
-        if (ok) { btn.innerHTML = TXT_ON; btn.disabled = true; if (note) note.textContent = ''; }
-        else if (note) { note.textContent = TXT_DENIED; }
-      } catch (e) { if (note) note.textContent = TXT_DENIED; }
+        if (ok) { btns.forEach(function(b){ b.innerHTML = TXT_ON; b.disabled = true; }); notes.forEach(function(n){ n.textContent = ''; }); }
+        else { notes.forEach(function(n){ n.textContent = TXT_DENIED; }); }
+      } catch (e) { notes.forEach(function(n){ n.textContent = TXT_DENIED; }); }
+    });
     });
   });
 </script>
@@ -99,7 +101,7 @@
 <header class="vnav">
   <div class="wrap vnav-inner">
     <button class="nav-toggle" id="navtoggle" aria-label="Buka menu navigasi" aria-expanded="false" aria-controls="navmenu"><span></span><span></span><span></span></button>
-    <a class="brand" href="/"><img src="/logo-stateline.png?v=11db3cec" alt="Stateline MEDIA" class="brand-logo"></a>
+    <a class="brand" href="/"><img src="/logo-stateline.png?v=252dd54c" alt="Stateline MEDIA" class="brand-logo"></a>
     <nav class="vnav-links" id="navmenu"><a href="/ja/" class="">ホーム</a><a href="/ja/category/" class="">国内</a><a href="/ja/category/" class="">世界</a><a href="/ja/category/" class="">政治</a><a href="/ja/category/" class="">経済</a><a href="/ja/category/" class="">スポーツ</a><span class="nav-dropdown"><button class="nav-dropbtn active" aria-haspopup="true">その他 &#9662;</button><span class="nav-menu"><a href="/ja/category/" class="">法律</a><a href="/ja/category/" class="">災害</a><a href="/ja/category/" class="">テクノロジー</a><a href="/ja/category/" class="">エンタメ</a><a href="/ja/category/" class="">健康</a><a href="/stories/" class="">Web Stories</a><a href="/ja/topics/" class="active">トピック</a></span></span><a href="/ja/pages/search" aria-label="検索"><svg class="svg-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg><span>検索</span></a></nav>
     <div class="vnav-social">
       <a href="https://www.tiktok.com/@statelinemediaid" target="_blank" rel="noopener" aria-label="TikTok">TikTok</a>
@@ -108,10 +110,10 @@
     </div>
   </div>
 </header>
-<main><div class="wrap section"><nav class="breadcrumb"><a href="/ja/">ホーム</a> / <a href="/ja/topics/">トピック</a> / #AntreanBBM</nav><h1 class="section-title">#AntreanBBM <span class="tag-count">(2)</span></h1><div class="grid"><a class="card" href="/ja/article/bbm5445"><picture><source type="image/avif" srcset="/images/krisis-bbm-manado-1-thumb.avif"><img class="cover" src="/images/krisis-bbm-manado-1-thumb.jpg" alt="BBM危機第5日目:マナドで4キロ、45千円" width="480" height="270" loading="lazy"></picture><div class="card-body"><span class="badge">経済</span><h3>BBM危機第5日目:マナドで4キロ、45千円</h3><p class="excerpt">バリのBBM危機は5日目に入りました:バイクのトラックはデンパスールで4キロ、車は3キロ。</p><span class="meta"><time datetime="2026-10-17">17 10月 2026</time> &bull; 1 分で読めます</span></div></a><a class="card" href="/ja/article/bbm3km"><picture><source type="image/avif" srcset="/images/2026-10-16-dirut-pertamina-minta-maaf-antrean-bbm-bali-1-thumb.avif"><img class="cover" src="/images/2026-10-16-dirut-pertamina-minta-maaf-antrean-bbm-bali-1-thumb.jpg" alt="最初に謝罪したのは、バリバリのBBMが3kmを超えたことだった。" width="480" height="288" loading="lazy"></picture><div class="card-body"><span class="badge">経済</span><h3>最初に謝罪したのは、バリバリのBBMが3kmを超えたことだった。</h3><p class="excerpt">PTファーストミナ(Persero)の首席ディレクターサイモン・アロイジウス・マンティリは、数多くのSPBUで石油燃料(BBM)の長期運用について、バリの燃料ターミナルSanggaranでバリ州知事Wayan Kosterとの連携会合の後、デンパスール、火曜日(2026年10月13日)に謝罪しました。</p><span class="meta"><time datetime="2026-10-16">16 10月 2026</time> &bull; 1 分で読めます</span></div></a></div></div></main>
+<main><div class="wrap section"><nav class="breadcrumb"><a href="/ja/">ホーム</a> / <a href="/ja/topics/">トピック</a> / #AntreanBBM</nav><h1 class="section-title">#AntreanBBM <span class="tag-count">(2)</span></h1><div class="grid"><a class="card" href="/ja/article/krisis-bbm-hari-kelima-antrean-eceran-mahal-manado"><picture><source type="image/avif" srcset="/images/krisis-bbm-manado-1-thumb.avif"><img class="cover" src="/images/krisis-bbm-manado-1-thumb.jpg" alt="BBM危機第5日目:マナドで4キロ、45千円" width="480" height="270" loading="lazy"></picture><div class="card-body"><span class="badge">経済</span><h3>BBM危機第5日目:マナドで4キロ、45千円</h3><p class="excerpt">バリのBBM危機は5日目に入りました:バイクのトラックはデンパスールで4キロ、車は3キロ。</p><span class="meta"><time datetime="2026-10-17">17 10月 2026</time> &bull; 1 分で読めます</span></div></a><a class="card" href="/ja/article/dirut-pertamina-minta-maaf-antrean-bbm-bali"><picture><source type="image/avif" srcset="/images/2026-10-16-dirut-pertamina-minta-maaf-antrean-bbm-bali-1-thumb.avif"><img class="cover" src="/images/2026-10-16-dirut-pertamina-minta-maaf-antrean-bbm-bali-1-thumb.jpg" alt="最初に謝罪したのは、バリバリのBBMが3kmを超えたことだった。" width="480" height="288" loading="lazy"></picture><div class="card-body"><span class="badge">経済</span><h3>最初に謝罪したのは、バリバリのBBMが3kmを超えたことだった。</h3><p class="excerpt">PTファーストミナ(Persero)の首席ディレクターサイモン・アロイジウス・マンティリは、数多くのSPBUで石油燃料(BBM)の長期運用について、バリの燃料ターミナルSanggaranでバリ州知事Wayan Kosterとの連携会合の後、デンパスール、火曜日(2026年10月13日)に謝罪しました。</p><span class="meta"><time datetime="2026-10-16">16 10月 2026</time> &bull; 1 分で読めます</span></div></a></div></div></main>
 <footer class="vfooter">
   <div class="wrap vfoot-grid">
-    <div><img src="/logo-stateline.png?v=11db3cec" alt="Stateline MEDIA" class="vfoot-logo"></div>
+    <div><img src="/logo-stateline.png?v=252dd54c" alt="Stateline MEDIA" class="vfoot-logo"><div class="newsletter"><h4>最新ニュースをメールで</h4><form class="nl-form" data-lang="ja" data-ok="ありがとうございます！メールが登録されました。" data-invalid="メールアドレスが無効です。" data-err="保存できませんでした。後でもう一度お試しください。" novalidate><input type="email" name="email" required placeholder="メールアドレス" aria-label="email"><button type="submit" aria-label="購読する"><svg class="svg-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg> 購読する</button><p class="nl-msg" role="status" aria-live="polite"></p></form><script>(function(){var f=document.querySelector(".newsletter form.nl-form");if(!f||f.dataset.bound)return;f.dataset.bound="1";var msg=f.querySelector(".nl-msg"),em=f.querySelector("input[name=email]");f.addEventListener("submit",function(ev){ev.preventDefault();var v=(em.value||"").trim();msg.className="nl-msg";msg.textContent="";if(!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(v)){msg.textContent=f.dataset.invalid;msg.classList.add("err");return;}var b=this.querySelector("button");b.disabled=true;fetch("/api/newsletter",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({email:v,lang:f.dataset.lang||"id"})}).then(function(r){return{ok:r.ok};}).then(function(res){b.disabled=false;if(res.ok){msg.textContent=f.dataset.ok;msg.classList.add("ok");f.reset();}else{msg.textContent=f.dataset.err;msg.classList.add("err");}}).catch(function(){b.disabled=false;msg.textContent=f.dataset.err;msg.classList.add("err");});});})();</script></div><div class="pushsub"><h4>速報通知</h4><button type="button" id="pushbtn" class="pushbtn" aria-label="Aktifkan notifikasi"><svg class="svg-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.73 21a2 2 0 0 1-3.46 0"/></svg> 通知を有効にする</button><p class="push-note" id="pushnote"></p></div></div>
     <div class="vfoot-links"><h4>カテゴリー</h4><div><a href="/ja/category/">国内</a><a href="/ja/category/">世界</a><a href="/ja/category/">政治</a><a href="/ja/category/">法律</a><a href="/ja/category/">経済</a><a href="/ja/category/">災害</a><a href="/ja/category/">テクノロジー</a><a href="/ja/category/">スポーツ</a><a href="/ja/category/">エンタメ</a><a href="/ja/category/">健康</a><a href="/ja/topics/">トピック</a></div></div>
     <div class="vfoot-links"><h4>その他</h4><div><a href="/ja/pages/about">私たちについて</a><a href="/ja/pages/contact">編集部・お問い合わせ</a><a href="/ja/pages/privacy">プライバシーポリシー</a><a href="/ja/pages/search">検索</a><a href="/ja/pages/index">ニュース索引</a></div></div>
     <div class="vfoot-links"><h4>フォローする</h4><div class="socials">
