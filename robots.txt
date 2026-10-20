@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 Sitemap: https://www.statelinemedia.world/sitemap.xml
 Sitemap: https://www.statelinemedia.world/news-sitemap.xml
+Sitemap: https://www.statelinemedia.world/image-sitemap.xml

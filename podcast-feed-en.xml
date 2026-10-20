@@ -8,6 +8,12 @@
 <itunes:author>Stateline MEDIA</itunes:author>
 <itunes:category text="News"/>
 <item>
+<title>Stateline MEDIA International - podcast-en-2026-10-20</title>
+<enclosure url="https://cdn.statelinemedia.world/podcast-en/podcast-en-2026-10-20.mp3" type="audio/mpeg"/>
+<pubDate>Tue, 20 Oct 2026 07:00:00 +0700</pubDate>
+<guid>https://cdn.statelinemedia.world/podcast-en/podcast-en-2026-10-20.mp3</guid>
+</item>
+<item>
 <title>Stateline MEDIA International - podcast-en-2026-10-19</title>
 <enclosure url="https://cdn.statelinemedia.world/podcast-en/podcast-en-2026-10-19.mp3" type="audio/mpeg"/>
 <pubDate>Mon, 19 Oct 2026 07:00:00 +0700</pubDate>

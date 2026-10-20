@@ -218,6 +218,17 @@ a.badge:hover{background:var(--yellow)}
 .nav-menu a:hover{background:var(--yellow);color:#000}
 .nav-menu a.active{color:var(--yellow)}
 
+/* ---------- daftar isi artikel ---------- */
+.toc{max-width:720px;margin:28px auto;background:#fff;border:1px solid var(--line);
+  border-top:4px solid var(--ink);padding:18px 24px}
+.toc-title{font-family:var(--font-mono);font-size:12px;letter-spacing:.1em;text-transform:uppercase;
+  margin-bottom:12px;border-bottom:1px solid var(--line);padding-bottom:10px}
+.toc ol{margin-left:20px}
+.toc li{margin-bottom:7px;font-size:15px}
+.toc a{font-weight:600;text-decoration:none}
+.toc a:hover{background:var(--yellow)}
+.toc-anchor{scroll-margin-top:90px}
+
 /* ===== feature-eeat.css ===== */
 /* ============================================================
    feature-eeat.css — gaya untuk FITUR 2 (E-E-A-T redaksi) +
