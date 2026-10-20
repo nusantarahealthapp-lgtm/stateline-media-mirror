@@ -156,6 +156,61 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.statelinemedia.world/artikel/2026-10-20-iran-peringatkan-trump-jangan-serang-lagi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>Iran ke Trump: Jangan Serang Lagi, Kami Punya Urusan Belum Selesai</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/artikel/2026-10-20-greenpeace-bundaran-hi-spanduk-krisis-iklim</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>Greenpeace Panjat Monumen Bundaran HI, Bentang Spanduk Kritik Iklim</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/artikel/2026-10-20-prancis-perluas-jam-malam-kerusuhan-biaya-hidup</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>Prancis Perluas Jam Malam ke Lyon-Nice Usai Kerusuhan</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/artikel/2026-10-20-ajudan-gubernur-kaltim-senggol-demonstran-pemprov-akui-salah</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>Ajudan Gubernur Kaltim Senggol Demonstran, Pemprov Akui Salah</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/artikel/2026-10-20-mahasiswa-lanjut-demo-tugu-tani-orasi-gagal-total</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>Mahasiswa Lanjut Demo ke Tugu Tani Usai Orasi &#x27;Gagal Total&#x27;</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.statelinemedia.world/en/article/2026-10-20-kebakaran-gunung-sumbing-wonosobo-152-pendaki-dievakuasi.en</loc>
     <news:news>
       <news:publication>
@@ -295,7 +350,73 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-10-20</news:publication_date>
-      <news:title>Civil Servant Salaries via Kopdes? Ministry Clarifies</news:title>
+      <news:title>Civil Servant Salaries via Village Co-ops? Ministry Clarifies</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/en/article/japan-declares-cyber-emergency-16-south-korean-financial</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>Japan Cyber Emergency, 16 South Korean Financial Firms Hacked</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/en/article/iran-to-trump-dont-attack-again-we-have-unfinished-business</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>Iran to Trump: Don&#x27;t Attack Again, We Have Unfinished Business</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/en/article/2026-10-20-greenpeace-bundaran-hi-spanduk-krisis-iklim</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>Greenpeace Scales HI Roundabout Monument to Protest Climate Inaction</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/en/article/2026-10-20-prancis-perluas-jam-malam-kerusuhan-biaya-hidup</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>France Extends Curfews to Lyon and Nice Following Riots</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/en/article/2026-10-20-ajudan-gubernur-kaltim-senggol-demonstran-pemprov-akui-salah</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>East Kalimantan Governor&#x27;s Aide Shoves Protester, Govt Apologizes</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/en/article/2026-10-20-mahasiswa-lanjut-demo-tugu-tani-orasi-gagal-total</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>Students March to Tugu Tani After Calling Government a &#x27;Total Failure&#x27;</news:title>
     </news:news>
   </url>
   <url>
@@ -383,7 +504,62 @@
         <news:language>es</news:language>
       </news:publication>
       <news:publication_date>2026-10-20</news:publication_date>
-      <news:title>¿Sueldos de funcionarios a cooperativas? El ministerio aclara</news:title>
+      <news:title>¿Sueldos públicos a cooperativas? El ministerio aclara</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/es/article/japon-en-emergencia-cibernetica-16-instituciones-financieras-de</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>Japón en emergencia cibernética: hackean 16 financieras surcoreanas</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/es/article/2026-10-20-greenpeace-bundaran-hi-spanduk-krisis-iklim</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>Greenpeace escala el monumento Bundaran HI en protesta climática</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/es/article/2026-10-20-prancis-perluas-jam-malam-kerusuhan-biaya-hidup</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>Francia amplía el toque de queda a Lyon y Niza tras disturbios</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/es/article/2026-10-20-ajudan-gubernur-kaltim-senggol-demonstran-pemprov-akui-salah</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>Gobierno de Kaltim admite error de escolta que empujó a manifestante</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/es/article/2026-10-20-mahasiswa-lanjut-demo-tugu-tani-orasi-gagal-total</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>Estudiantes marchan a Tugu Tani tras calificar al gobierno de fracaso</news:title>
     </news:news>
   </url>
   <url>
@@ -475,6 +651,61 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.statelinemedia.world/pt/article/japao-em-estado-de-emergencia-cibernetica-16-instituicoes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>Japão em emergência cibernética; 16 financeiras sul-coreanas hackeadas</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/pt/article/2026-10-20-greenpeace-bundaran-hi-spanduk-krisis-iklim</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>Greenpeace escala monumento em Jacarta em protesto climático</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/pt/article/2026-10-20-prancis-perluas-jam-malam-kerusuhan-biaya-hidup</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>França amplia toque de recolher para Lyon e Nice após tumultos</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/pt/article/2026-10-20-ajudan-gubernur-kaltim-senggol-demonstran-pemprov-akui-salah</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>Ajudante de Governador Empurra Manifestante; Governo Admite Erro</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/pt/article/2026-10-20-mahasiswa-lanjut-demo-tugu-tani-orasi-gagal-total</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>Estudantes Protestam no Tugu Tani Após Declarar &#x27;Fracasso Total&#x27;</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.statelinemedia.world/ar/article/2026-10-20-pemimpin-sekte-kenya-divonis-191-pembunuhan-shakahola</loc>
     <news:news>
       <news:publication>
@@ -559,7 +790,62 @@
         <news:language>ar</news:language>
       </news:publication>
       <news:publication_date>2026-10-20</news:publication_date>
-      <news:title>تحويل رواتب موظفي الدولة لتعاونيات القرى؟ توضيح الوزارة</news:title>
+      <news:title>تحويل رواتب موظفي الدولة لتعاونيات القرى؟ الوزارة توضح</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ar/article/16</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>الطوارئ السيبرانية في اليابان: اختراق 16 مؤسسة مالية كورية جنوبية</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ar/article/2026-10-20-greenpeace-bundaran-hi-spanduk-krisis-iklim</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>غرينبيس تتسلق نُصب جاكرتا وترفع لافتات تنتقد سياسات المناخ</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ar/article/2026-10-20-prancis-perluas-jam-malam-kerusuhan-biaya-hidup</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>فرنسا توسع حظر التجول إلى ليون ونيس بعد أعمال الشغب</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ar/article/2026-10-20-ajudan-gubernur-kaltim-senggol-demonstran-pemprov-akui-salah</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>مساعد حاكم كالمنتان الشرقية يحتك بمتظاهر والحكومة تعترف بالخطأ</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ar/article/2026-10-20-mahasiswa-lanjut-demo-tugu-tani-orasi-gagal-total</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>الطلاب يواصلون التظاهر نحو توغو تاني بعد خطاب &#x27;فشل ذريع&#x27;</news:title>
     </news:news>
   </url>
   <url>
@@ -651,6 +937,61 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.statelinemedia.world/zh/article/2026-10-20-jepang-korsel-darurat-siber-data-bocor</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>zh</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>日本进入网络紧急状态，韩国16家金融机构遭黑客入侵</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/zh/article/2026-10-20-greenpeace-bundaran-hi-spanduk-krisis-iklim</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>zh</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>绿色和平组织攀爬大印尼环岛纪念碑 拉横幅抗议气候政策</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/zh/article/2026-10-20-prancis-perluas-jam-malam-kerusuhan-biaya-hidup</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>zh</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>骚乱发生后 法国将宵禁措施扩大至里昂与尼斯</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/zh/article/2026-10-20-ajudan-gubernur-kaltim-senggol-demonstran-pemprov-akui-salah</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>zh</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>东加里曼丹省长助理推搡示威者 省政府承认不当</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/zh/article/2026-10-20-mahasiswa-lanjut-demo-tugu-tani-orasi-gagal-total</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>zh</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>演讲直批执政“彻底失败” 印尼大学生游行挺进农民纪念碑</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.statelinemedia.world/hi/article/2026-10-20-pemimpin-sekte-kenya-divonis-191-pembunuhan-shakahola</loc>
     <news:news>
       <news:publication>
@@ -739,6 +1080,61 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.statelinemedia.world/hi/article/16</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>जापान में साइबर आपातकाल, 16 दक्षिण कोरियाई वित्तीय संस्थान हैक</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/hi/article/2026-10-20-greenpeace-bundaran-hi-spanduk-krisis-iklim</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>ग्रीनपीस ने बुंदारन एचआई स्मारक पर बैनर फहराकर की जलवायु आलोचना</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/hi/article/2026-10-20-prancis-perluas-jam-malam-kerusuhan-biaya-hidup</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>फ्रांस में दंगों के बाद ल्योन और नीस तक कर्फ्यू का विस्तार</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/hi/article/2026-10-20-ajudan-gubernur-kaltim-senggol-demonstran-pemprov-akui-salah</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>कालीमंतन: गवर्नर के अंगरक्षक ने धक्का दिया, सरकार ने मानी गलती</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/hi/article/2026-10-20-mahasiswa-lanjut-demo-tugu-tani-orasi-gagal-total</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>&#x27;पूरी तरह विफल&#x27; भाषण के बाद छात्रों का तुगु तानी की ओर मार्च</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.statelinemedia.world/fr/article/2026-10-20-pemimpin-sekte-kenya-divonis-191-pembunuhan-shakahola</loc>
     <news:news>
       <news:publication>
@@ -823,7 +1219,62 @@
         <news:language>fr</news:language>
       </news:publication>
       <news:publication_date>2026-10-20</news:publication_date>
-      <news:title>Salaires des fonctionnaires vers les coopératives : clarification</news:title>
+      <news:title>Salaires des fonctionnaires via les coopératives : clarification</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/fr/article/urgence-cybernetique-au-japon-16-institutions-financieres</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>fr</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>Japon en urgence cyber, 16 financières sud-coréennes piratées</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/fr/article/2026-10-20-greenpeace-bundaran-hi-spanduk-krisis-iklim</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>fr</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>Greenpeace déploie des banderoles pour le climat à Jakarta</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/fr/article/2026-10-20-prancis-perluas-jam-malam-kerusuhan-biaya-hidup</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>fr</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>France : le couvre-feu étendu à Lyon et Nice après les émeutes</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/fr/article/2026-10-20-ajudan-gubernur-kaltim-senggol-demonstran-pemprov-akui-salah</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>fr</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>L&#x27;aide de camp du gouverneur bouscule un manifestant, la province s&#x27;excuse</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/fr/article/2026-10-20-mahasiswa-lanjut-demo-tugu-tani-orasi-gagal-total</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>fr</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>Indonésie : les étudiants manifestent vers Tugu Tani</news:title>
     </news:news>
   </url>
   <url>
@@ -911,7 +1362,62 @@
         <news:language>de</news:language>
       </news:publication>
       <news:publication_date>2026-10-20</news:publication_date>
-      <news:title>Beamtengehälter über Dorfkooperativen? Ministerium wiegelt ab</news:title>
+      <news:title>Beamtengehälter über Dorfkooperativen? Ministerium klärt auf</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/de/article/japan-ruft-cyber-notstand-aus-16-sudkoreanische-finanzinstitute-von</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>de</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>Cyber-Notstand in Japan: 16 südkoreanische Finanzinstitute gehackt</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/de/article/2026-10-20-greenpeace-bundaran-hi-spanduk-krisis-iklim</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>de</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>Greenpeace klettert auf Monument in Jakarta für Klimaprotest</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/de/article/2026-10-20-prancis-perluas-jam-malam-kerusuhan-biaya-hidup</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>de</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>Unruhen: Frankreich weitet Ausgangssperren auf Lyon und Nizza aus</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/de/article/2026-10-20-ajudan-gubernur-kaltim-senggol-demonstran-pemprov-akui-salah</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>de</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>Gouverneurs-Adjutant rempelt Demonstranten an: Regierung räumt Fehler ein</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/de/article/2026-10-20-mahasiswa-lanjut-demo-tugu-tani-orasi-gagal-total</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>de</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>Studenten demonstrieren am Tugu Tani nach Rede über Totalversagen</news:title>
     </news:news>
   </url>
   <url>
@@ -989,6 +1495,127 @@
       </news:publication>
       <news:publication_date>2026-10-20</news:publication_date>
       <news:title>西カリマンタン森林火災でオランウータン51頭救出、生息地90％焼失</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ja/article/2026-10-20-gaji-asn-kopdes-merah-putih-wacana</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ja</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>公務員給与が村協同組合払いに？インドネシア協同組合省の説明</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ja/article/2026-10-20-jepang-korsel-darurat-siber-data-bocor</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ja</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>日本がサイバー非常事態宣言、韓国でも金融機関16社に不正侵入</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ja/article/2026-10-20-greenpeace-bundaran-hi-spanduk-krisis-iklim</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ja</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>グリーンピースがHI前広場の記念碑に登頂、気候危機対策を批判する横断幕</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ja/article/2026-10-20-prancis-perluas-jam-malam-kerusuhan-biaya-hidup</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ja</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>仏、暴動受け夜間外出禁止令をリヨンやニースなど複数地域に拡大</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ja/article/2026-10-20-ajudan-gubernur-kaltim-senggol-demonstran-pemprov-akui-salah</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ja</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>東カリマンタン州知事の副官がデモ参加者に接触、州政府は非を認める</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ja/article/2026-10-20-mahasiswa-lanjut-demo-tugu-tani-orasi-gagal-total</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ja</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>「完全な失敗」演説後、学生らはトゥグ・タニへデモ行進を継続</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ms/article/2026-10-20-prancis-perluas-jam-malam-kerusuhan-biaya-hidup</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ms</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>Prancis Perluas Jam Malam ke Lyon-Nice Usai Kerusuhan</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ms/article/2026-10-20-ajudan-gubernur-kaltim-senggol-demonstran-pemprov-akui-salah</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ms</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>Ajudan Gabenor Kaltim Senggol Demonstran, Pemprov Akui Salah</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ms/article/2026-10-20-greenpeace-bundaran-hi-spanduk-krisis-iklim</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ms</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>Greenpeace Panjat Monumen Bundaran HI, Bentang Spanduk Kritik Iklim</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ms/article/2026-10-20-iran-peringatkan-trump-jangan-serang-lagi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ms</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>Iran ke Trump: Jangan Serang Lagi, Kami Punya Urusan Belum Selesai</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ms/article/2026-10-20-jepang-korsel-darurat-siber-data-bocor</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ms</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-20</news:publication_date>
+      <news:title>Jepang Darurat Siber, 16 Lembaga Keuangan Korsel Dibobol Hacker</news:title>
     </news:news>
   </url>
   <url>

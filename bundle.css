@@ -229,6 +229,50 @@ a.badge:hover{background:var(--yellow)}
 .toc a:hover{background:var(--yellow)}
 .toc-anchor{scroll-margin-top:90px}
 
+/* ---------- fitur baca & interaktif 2026-10-20 ---------- */
+#ttsbtn,#bookmarkbtn{font:inherit;font-family:var(--font-mono);font-size:11px;letter-spacing:.05em;
+  background:none;border:1px solid var(--line);padding:3px 8px;cursor:pointer;color:var(--ink);margin-left:6px}
+#ttsbtn.playing{background:var(--yellow)}
+#bookmarkbtn.saved{background:var(--yellow)}
+.prevnext{display:flex;gap:16px;flex-wrap:wrap;max-width:720px;margin:36px auto 8px}
+.prevnext .pn{flex:1;min-width:240px;border:1px solid var(--line);border-top:4px solid var(--ink);
+  padding:14px 18px;text-decoration:none;display:block;background:#fff}
+.prevnext .pn span{font-family:var(--font-mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.prevnext .pn strong{display:block;margin-top:6px;font-size:16px;line-height:1.35}
+.prevnext .pn.next{text-align:right}
+.reactions{max-width:720px;margin:30px auto;border:1px solid var(--line);border-top:4px solid var(--ink);padding:16px 20px;background:#fff}
+.reactions-label{font-weight:700;margin-bottom:10px}
+.reactions-row{display:flex;gap:8px;flex-wrap:wrap}
+.reactions-row button{font:inherit;background:#fff;border:1px solid var(--line);padding:8px 12px;cursor:pointer}
+.reactions-row button.voted{background:var(--yellow)}
+.poll{max-width:720px;margin:26px auto;border:2px solid var(--ink);padding:18px 22px;background:#fff}
+.poll-q{font-family:var(--font-black);font-size:19px;text-transform:uppercase;margin-bottom:12px}
+.poll-opts{display:grid;gap:8px}
+.poll-opts button{font:inherit;text-align:left;background:#fff;border:1px solid var(--line);padding:10px 14px;cursor:pointer}
+.poll-opts button.voted{background:var(--yellow);font-weight:700}
+.poll-note{font-family:var(--font-mono);font-size:11px;color:var(--muted);margin-top:10px}
+.live-box{max-width:720px;margin:26px auto;border:2px solid #c8102e;padding:18px 22px;background:#fff}
+.live-dot{display:inline-block;width:10px;height:10px;border-radius:50%;background:#c8102e;animation:blink 1.2s infinite}
+@keyframes blink{50%{opacity:.25}}
+.live-item{display:flex;gap:14px;padding:12px 0;border-bottom:1px solid var(--line)}
+.live-time{font-family:var(--font-mono);font-weight:700;white-space:nowrap}
+.datastrip{display:flex;gap:18px;flex-wrap:wrap;align-items:center;border:1px solid var(--line);
+  border-left:6px solid var(--yellow);padding:10px 16px;margin:18px 0;background:#fff;
+  font-family:var(--font-mono);font-size:13px}
+.ds-label{font-weight:700;letter-spacing:.08em;text-transform:uppercase}
+.holiday-next{border:2px solid var(--ink);background:var(--yellow);padding:22px 26px;margin:20px 0;max-width:720px}
+.holiday-next h2{font-family:var(--font-black);font-size:26px;text-transform:uppercase;margin:8px 0}
+.hol-date{font-family:var(--font-black);font-size:30px;min-width:52px;text-align:center}
+/* ---------- cetak ---------- */
+@media print{
+  .vnav,.vfooter,.utilbar,.ticker,.readprogress,.to-top,#cookie-banner,.font-ctrl,
+  .share-row,.reactions,.poll,.comments-sec,.prevnext,.toc,.datastrip{display:none!important}
+  body{background:#fff!important;color:#000!important}
+  .article-wrap{max-width:100%!important}
+  a{color:#000!important;text-decoration:none!important}
+  img{max-width:100%!important}
+}
+
 /* ===== feature-eeat.css ===== */
 /* ============================================================
    feature-eeat.css — gaya untuk FITUR 2 (E-E-A-T redaksi) +
