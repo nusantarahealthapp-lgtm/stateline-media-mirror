@@ -284,6 +284,10 @@ a.badge:hover{background:var(--yellow)}
   img{max-width:100%!important}
 }
 
+/* IMGFIX 2026-10-21: kartu seragam 16/9 + picture block (perintah Abdul) */
+.card img{width:100%;aspect-ratio:16/9;object-fit:cover}
+.card picture,.hero-main picture,.cover-figure picture{display:block}
+
 /* ===== feature-eeat.css ===== */
 /* ============================================================
    feature-eeat.css — gaya untuk FITUR 2 (E-E-A-T redaksi) +

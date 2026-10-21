@@ -90,6 +90,61 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.statelinemedia.world/artikel/pt-dsi-tersangka-korporasi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21</news:publication_date>
+      <news:title>PT DSI Tersangka Korporasi, Rp2,47 T Dana Lender Belum Kembali</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/artikel/seskab-teddy-capaian-2-tahun-prabowo-gibran</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21</news:publication_date>
+      <news:title>Seskab: 2 Tahun Prabowo-Gibran, MBG 62 Juta &amp; Cadangan 5,2 Juta Ton</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/artikel/nusron-wahid-dua-kali-mangkir-kpk-ott-hgb</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21</news:publication_date>
+      <news:title>Di Balik Dua Kali Mangkirnya Nusron: OTT Rp106,3 M Kasus HGB</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/artikel/pcnu-nias-serahkan-rp250-juta-kpk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21</news:publication_date>
+      <news:title>KPK Sita Rp250 Juta dari PCNU Nias, Bisa Dikembalikan jika Tak Terkait</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/artikel/bareskrim-gelar-perkara-suket-ijazah-gibran</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21</news:publication_date>
+      <news:title>Bareskrim Gelar Perkara Dugaan Pemalsuan Suket Ijazah Gibran</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.statelinemedia.world/en/article/sabah-vs-dortmund-result</loc>
     <news:news>
       <news:publication>
@@ -178,6 +233,61 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.statelinemedia.world/en/article/pt-dsi-tersangka-korporasi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21</news:publication_date>
+      <news:title>PT DSI Named Corporate Suspect over Rp2.47T in Unreturned Lender Funds</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/en/article/seskab-teddy-capaian-2-tahun-prabowo-gibran</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21</news:publication_date>
+      <news:title>Cabinet Secretary: 2 Years of Prabowo-Gibran, Free Meals &amp; Reserves</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/en/article/nusron-wahid-dua-kali-mangkir-kpk-ott-hgb</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21</news:publication_date>
+      <news:title>Behind Nusron&#x27;s Absences: IDR 106.3B Sting in Land Title Case</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/en/article/pcnu-nias-serahkan-rp250-juta-kpk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21</news:publication_date>
+      <news:title>KPK Seizes Rp250M from PCNU Nias, Returnable if Not Linked</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/en/article/bareskrim-gelar-perkara-suket-ijazah-gibran</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21</news:publication_date>
+      <news:title>Police Case Review Examines VP Gibran Diploma Certificate Allegation</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.statelinemedia.world/es/article/fenerbahce-tira-por-la-borda-la-victoria-y-empata-2-2-con-el-slavia</loc>
     <news:news>
       <news:publication>
@@ -208,6 +318,28 @@
       </news:publication>
       <news:publication_date>2026-10-21</news:publication_date>
       <news:title>Raja Ampat, Papúa: el mejor paraíso submarino del mundo</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/es/article/pt-dsi-tersangka-korporasi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21</news:publication_date>
+      <news:title>PT DSI imputada como corporación: 2,47 billones de IDR sin devolver</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/es/article/bareskrim-gelar-perkara-suket-ijazah-gibran</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21</news:publication_date>
+      <news:title>Bareskrim analiza presunta falsificación de certificado de Gibran</news:title>
     </news:news>
   </url>
   <url>
@@ -244,6 +376,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.statelinemedia.world/pt/article/pt-dsi-tersangka-korporasi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21</news:publication_date>
+      <news:title>PT DSI Vira Ré Corporativa; R$ 2,47 Tri Seguem Sem Devolução</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/pt/article/bareskrim-gelar-perkara-suket-ijazah-gibran</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21</news:publication_date>
+      <news:title>Bareskrim apura suposta fraude em certificado de Gibran</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.statelinemedia.world/ar/article/hasil-sabah-vs-dortmund</loc>
     <news:news>
       <news:publication>
@@ -274,6 +428,28 @@
       </news:publication>
       <news:publication_date>2026-10-21</news:publication_date>
       <news:title>راجا أمبات في بابوا: أفضل جنة بحرية في العالم</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ar/article/pt-dsi-tersangka-korporasi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21</news:publication_date>
+      <news:title>اتهام شركة DSI جنائياً، وتعثر استرداد 2.47 تريليون روبية للمقرضين</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ar/article/bareskrim-gelar-perkara-suket-ijazah-gibran</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21</news:publication_date>
+      <news:title>الشرطة الإندونيسية تحقق في تزوير شهادة معادلة لجبران</news:title>
     </news:news>
   </url>
   <url>
@@ -310,6 +486,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.statelinemedia.world/zh/article/pt-dsi-tersangka-korporasi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>zh</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21</news:publication_date>
+      <news:title>PT DSI被列为企业嫌疑人，出借人2.47万亿印尼盾资金尚未追回</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/zh/article/bareskrim-gelar-perkara-suket-ijazah-gibran</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>zh</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21</news:publication_date>
+      <news:title>印尼刑侦局就副总统吉布兰学历认证证明涉嫌伪造案举行案情分析会</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.statelinemedia.world/hi/article/hasil-sabah-vs-dortmund</loc>
     <news:news>
       <news:publication>
@@ -340,6 +538,28 @@
       </news:publication>
       <news:publication_date>2026-10-21</news:publication_date>
       <news:title>राजा अम्पैट: दुनिया का सबसे बेहतरीन अंडरवाटर स्वर्ग</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/hi/article/pt-dsi-tersangka-korporasi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21</news:publication_date>
+      <news:title>PT DSI कॉर्पोरेट आरोपी, 11,151 लेंडर्स के 2.47 लाख करोड़ रु. फंसे</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/hi/article/bareskrim-gelar-perkara-suket-ijazah-gibran</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21</news:publication_date>
+      <news:title>गिबरान के डिग्री प्रमाण पत्र जालसाजी मामले में केस कॉन्फ्रेंस</news:title>
     </news:news>
   </url>
   <url>
@@ -376,6 +596,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.statelinemedia.world/fr/article/pt-dsi-tersangka-korporasi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>fr</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21</news:publication_date>
+      <news:title>PT DSI inculpée, 2 470 milliards Rp de prêteurs non remboursés</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/fr/article/bareskrim-gelar-perkara-suket-ijazah-gibran</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>fr</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21</news:publication_date>
+      <news:title>Affaire Gibran : audience spéciale sur un soupçon de faux diplôme</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.statelinemedia.world/de/article/fenerbahce-verschenkt-sieg-nur-22-gegen-slavia-prag</loc>
     <news:news>
       <news:publication>
@@ -409,6 +651,28 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.statelinemedia.world/de/article/pt-dsi-tersangka-korporasi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>de</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21</news:publication_date>
+      <news:title>PT DSI als Beschuldigte: 2,47 Bio. IDR an Anlegergeldern offen</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/de/article/bareskrim-gelar-perkara-suket-ijazah-gibran</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>de</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21</news:publication_date>
+      <news:title>Bareskrim prüft mutmaßliche Fälschung von Gibrans Bildungsnachweis</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.statelinemedia.world/ja/article/hasil-sabah-vs-dortmund</loc>
     <news:news>
       <news:publication>
@@ -439,6 +703,28 @@
       </news:publication>
       <news:publication_date>2026-10-21</news:publication_date>
       <news:title>パプアのラジャ・アンパット、世界最高峰の海中楽園</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ja/article/pt-dsi-tersangka-korporasi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ja</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21</news:publication_date>
+      <news:title>PT DSIを法人として立件、貸し手資金2.47兆ルピア未返還</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ja/article/bareskrim-gelar-perkara-suket-ijazah-gibran</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ja</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-21</news:publication_date>
+      <news:title>国家警察犯罪捜査局、ギブラン副大統領の学歴証明書偽造疑惑で事件審理を実施へ</news:title>
     </news:news>
   </url>
   <url>
@@ -5051,6 +5337,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.statelinemedia.world/en/article/4-soldiers-killed-in-fire-at-canadas-wainwright-base-39-treated</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>4 Soldiers Killed in Fire at Canada&#x27;s Wainwright Base, 39 Treated</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.statelinemedia.world/es/article/2026-10-19-4-prajurit-tni-tewas-kecelakaan-yalimo</loc>
     <news:news>
       <news:publication>
@@ -5381,6 +5678,105 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.statelinemedia.world/es/article/trump-da-su-pleno-respaldo-a-netanyahu-ante-las-elecciones-en-israel</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>Trump da su pleno respaldo a Netanyahu ante las elecciones en Israel</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/es/article/ruptura-trump-zelenskyy-acusaciones-de-no-querer-la-paz-y-el</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>Ruptura Trump-Zelenskyy: Acusaciones de no querer la paz y el…</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/es/article/4-soldados-muertos-por-un-incendio-en-la-base-wainwright-de-canada</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>4 soldados muertos por un incendio en la base Wainwright de Canadá,…</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/es/article/tras-la-paliza-al-alcalde-de-una-ciudad-francesa-10-colonos</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>Tras la paliza al alcalde de una ciudad francesa, 10 colonos…</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/es/article/ac-milan-vence-3-2-al-atalanta-y-sigue-invicto</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>AC Milan vence 3-2 al Atalanta y sigue invicto</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/es/article/lazio-aplasta-3-0-a-juventus-en-turin-el-duo-danes-brilla</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>Lazio aplasta 3-0 a Juventus en Turín, el dúo danés brilla</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/es/article/arsenal-doblega-1-0-al-nottingham-forest-el-gol-de-madueke-rompe-el</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>Arsenal doblega 1-0 al Nottingham Forest, el gol de Madueke rompe el…</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/es/article/el-real-madrid-arrolla-al-sevilla-4-1-doblete-de-mbappe-y-la</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>El Real Madrid arrolla al Sevilla 4-1: doblete de Mbappé y la…</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/es/article/incendios-forestales-en-indonesia-se-convierten-en-asunto-de-la</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>Incendios forestales en Indonesia se convierten en asunto de la…</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.statelinemedia.world/pt/article/2026-10-19-4-prajurit-tni-tewas-kecelakaan-yalimo</loc>
     <news:news>
       <news:publication>
@@ -5623,6 +6019,50 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.statelinemedia.world/pt/article/bei-reduz-limite-de-arb-de-acoes-para-7-a-partir-de-hoje</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>BEI reduz limite de ARB de ações para 7% a partir de hoje</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/pt/article/daniel-johan-florestas-de-antigas-queimadas-sao-plantadas-com</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>Daniel Johan: Florestas de antigas queimadas são plantadas com…</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/pt/article/mp-da-australia-helen-haines-critica-apos-ser-atropelada-por-carro</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>MP da Austrália Helen Haines critica após ser atropelada por carro…</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/pt/article/cidade-sagrada-torna-se-alvo-17-mortos-333-feridos-em-ataque-houthi</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>Cidade Sagrada Torna-se Alvo: 17 Mortos, 333 Feridos em Ataque Houthi</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.statelinemedia.world/ar/article/2026-10-19-4-prajurit-tni-tewas-kecelakaan-yalimo</loc>
     <news:news>
       <news:publication>
@@ -5862,6 +6302,72 @@
       </news:publication>
       <news:publication_date>2026-10-19</news:publication_date>
       <news:title>زيلينسكي يهاتف ويتكوف وكوشنر لبحث لقاء سلام هذا الأسبوع</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ar/article/2026-10-19-bei-arb-7-persen-hari-ini</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>بورصة إندونيسيا تخفض حد التداول التلقائي للأسهم إلى 7 في المئة…</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ar/article/2026-10-19-dpr-hutan-bekas-karhutla-kayu-keras</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>دانيال يوهان: زراعة الأخشاب الصلبة في الغابات المتضررة من حرائق…</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ar/article/2026-10-19-guterres-menginap-rumah-prabowo-hambalang</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>غوتيريش يبيت في منزل برابوو في هامبالانغ، ويودّع</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ar/article/2026-10-19-helen-haines-diserang-wangaratta</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>النائبة الأسترالية هيلين هاينز تتعرض لانتقادات بعد صدمها بسيارة في…</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ar/article/2026-10-19-houthi-target-makkah-madinah</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>المدينة المقدسة تحت النار: 17 قتيلاً و333 جريحاً في هجوم حوثي</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ar/article/2026-10-19-ihsg-jebol-5000-anjlok-431-persen</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>مؤشر إندونيسيا المركب ينهار دون 5000 في افتتاح الاثنين، ويهبط 4.3…</news:title>
     </news:news>
   </url>
   <url>
@@ -6184,6 +6690,116 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.statelinemedia.world/zh/article/2026-10-19-macron-pertahankan-mendagri-rusuh-prancis</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>zh</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>马克龙在骚乱中力保内政部长：2400人被捕</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/zh/article/2026-10-19-trump-dukung-netanyahu-pemilu-israel</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>zh</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>特朗普在以色列大选前全力支持内塔尼亚胡</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/zh/article/2026-10-19-trump-zelenskyy-retak-tuduhan-damai-diesel-rusia</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>zh</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>特朗普-泽连斯基关系破裂：被指不愿和平与俄罗斯柴油交易</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/zh/article/2026-10-19-update-kebakaran-maut-pangkalan-militer-wainwright-kanada</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>zh</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>加拿大温赖特基地火灾致4名士兵死亡，39人接受治疗</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/zh/article/2026-10-19-wali-kota-prancis-dipukuli-10-pemukim-ditangkap</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>zh</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>法国市长遭殴打后，10名以色列定居者被捕</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/zh/article/hasil-ac-milan-vs-atalanta</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>zh</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>AC米兰3-2力克亚特兰大，延续不败</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/zh/article/hasil-juventus-vs-lazio</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>zh</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>拉齐奥在都灵3-0大胜尤文图斯，丹麦双星闪耀</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/zh/article/hasil-nottingham-forest-vs-arsenal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>zh</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>阿森纳1-0力克诺丁汉森林，马杜埃凯破门打破僵局</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/zh/article/hasil-real-madrid-vs-sevilla</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>zh</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>皇马4-1大胜塞维利亚：姆巴佩梅开二度，居勒尔肘击引争议</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/zh/article/karhutla-ri-jadi-urusan-asean-anwar-ibrahim</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>zh</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>印尼森林火灾成东盟事务：安瓦尔·易卜拉欣提议集体机制</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.statelinemedia.world/hi/article/2026-10-19-4-prajurit-tni-tewas-kecelakaan-yalimo</loc>
     <news:news>
       <news:publication>
@@ -6412,6 +7028,61 @@
       </news:publication>
       <news:publication_date>2026-10-19</news:publication_date>
       <news:title>ज़ेलेंस्की ने विटकॉफ-कुशनर से की बात, शांति बैठक पर चर्चा</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/hi/article/2026-10-19-bei-arb-7-persen-hari-ini</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>बीईआई ने आज से शेयरों की एआरबी सीमा घटाकर 7 प्रतिशत की</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/hi/article/2026-10-19-dpr-hutan-bekas-karhutla-kayu-keras</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>डेनियल जोहान: कारहुतला के पूर्व जंगल में सागौन लगाया जाए, ताड़ का…</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/hi/article/2026-10-19-guterres-menginap-rumah-prabowo-hambalang</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>गुटेरेस ने हम्बालांग में प्रबोवो के घर पर रात बिताई, विदाई ली</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/hi/article/2026-10-19-helen-haines-diserang-wangaratta</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>एमपी ऑस्ट्रेलिया हेलेन हेन्स की वांगाराटा में कार की टक्कर के बाद…</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/hi/article/2026-10-19-houthi-target-makkah-madinah</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>पवित्र शहर निशाना: हूती हमले में 17 की मौत, 333 घायल</news:title>
     </news:news>
   </url>
   <url>
@@ -6657,6 +7328,72 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.statelinemedia.world/fr/article/la-bei-reduit-le-seuil-de-larb-sur-les-actions-a-7-pour-cent-a</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>fr</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>La BEI réduit le seuil de l&#x27;ARB sur les actions à 7 pour cent à…</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/fr/article/daniel-johan-les-forets-touchees-par-les-incendies-de-tourbieres</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>fr</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>Daniel Johan : les forêts touchées par les incendies de tourbières…</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/fr/article/guterres-a-sejourne-a-la-residence-de-prabowo-a-hambalang-avant-de</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>fr</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>Guterres a séjourné à la résidence de Prabowo à Hambalang, avant de…</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/fr/article/la-deputee-australienne-helen-haines-critiquee-apres-avoir-ete</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>fr</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>La députée australienne Helen Haines critiquée après avoir été…</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/fr/article/la-ville-sainte-prise-pour-cible-17-morts-333-blesses-dans-une</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>fr</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>La Ville sainte prise pour cible : 17 morts, 333 blessés dans une…</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/fr/article/lihsg-chute-sous-les-5-000-a-louverture-lundi-plongeant-de-43</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>fr</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>L&#x27;IHSG chute sous les 5 000 à l&#x27;ouverture lundi, plongeant de 4,3…</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.statelinemedia.world/de/article/2026-10-19-4-prajurit-tni-tewas-kecelakaan-yalimo</loc>
     <news:news>
       <news:publication>
@@ -6896,6 +7633,72 @@
       </news:publication>
       <news:publication_date>2026-10-19</news:publication_date>
       <news:title>Selenskyj telefoniert mit Witkoff und Kushner über Friedenstreffen</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/de/article/bei-senkt-die-arb-grenze-fur-aktien-ab-heute-auf-7-prozent</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>de</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>BEI senkt die ARB-Grenze für Aktien ab heute auf 7 Prozent</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/de/article/daniel-johan-abgeholzte-brandrodungsflachen-mit-hartholz-bepflanzt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>de</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>Daniel Johan: Abgeholzte Brandrodungsflächen mit Hartholz bepflanzt,…</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/de/article/guterres-ubernachtet-in-prabowos-haus-in-hambalang-verabschiedet-sich</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>de</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>Guterres übernachtet in Prabowos Haus in Hambalang, verabschiedet sich</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/de/article/mp-australien-helen-haines-in-der-kritik-nach-einem-autounfall-in</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>de</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>MP Australien Helen Haines in der Kritik nach einem Autounfall in…</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/de/article/heilige-stadt-wird-zum-ziel-17-tote-333-verletzte-bei-houthi-angriff</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>de</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>Heilige Stadt wird zum Ziel: 17 Tote, 333 Verletzte bei Houthi-Angriff</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/de/article/ihsg-bricht-zum-wochenauftakt-unter-5000-punkte-ein-minus-43</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>de</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>IHSG bricht zum Wochenauftakt unter 5.000 Punkte ein, minus 4,3…</news:title>
     </news:news>
   </url>
   <url>
@@ -7226,6 +8029,105 @@
       </news:publication>
       <news:publication_date>2026-10-19</news:publication_date>
       <news:title>マクロン氏、暴動の中で内相を留任：2,400人逮捕</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ja/article/2026-10-19-trump-dukung-netanyahu-pemilu-israel</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ja</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>トランプ、イスラエル総選挙を前にネタニヤフへ全面的支持を表明</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ja/article/2026-10-19-trump-zelenskyy-retak-tuduhan-damai-diesel-rusia</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ja</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>トランプ氏とゼレンスキー氏の亀裂：和平拒否の非難とロシア産ディーゼルの取引</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ja/article/2026-10-19-update-kebakaran-maut-pangkalan-militer-wainwright-kanada</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ja</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>カナダ・ウェインライト基地で火災、兵士4人死亡・39人治療</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ja/article/2026-10-19-wali-kota-prancis-dipukuli-10-pemukim-ditangkap</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ja</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>フランス市長暴行事件を受け、イスラエル入植者10人を逮捕</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ja/article/hasil-ac-milan-vs-atalanta</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ja</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>ACミランがアタランタを3-2で下し、無敗を継続</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ja/article/hasil-juventus-vs-lazio</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ja</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>ラツィオ、トリノでユヴェントスを3-0で粉砕、デンマーク人コンビが輝く</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ja/article/hasil-nottingham-forest-vs-arsenal</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ja</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>アーセナル、ノッティンガム・フォレストを1-0で下す　マドゥエケのゴールで均衡破る</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ja/article/hasil-real-madrid-vs-sevilla</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ja</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>レアル・マドリード、セビージャを4-1で粉砕：エムバペの2ゴールとギュレルの肘打ち論争</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ja/article/karhutla-ri-jadi-urusan-asean-anwar-ibrahim</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ja</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-19</news:publication_date>
+      <news:title>カリフトラRIがASEANの案件に：アンワル・イブラヒム氏が集団的メカニズムを提案</news:title>
     </news:news>
   </url>
   <url>
