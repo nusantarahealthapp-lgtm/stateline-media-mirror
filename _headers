@@ -1,26 +1,49 @@
-# Cache statis lama (gambar, CSS, JS, font) — hemat bandwidth R2 & Pages
+# Stateline MEDIA — header respons Cloudflare Pages.
+# Sumber: static/_headers (disalin build.py ke dist/_headers tiap build).
+# Diperbarui 2026-10-21 (Perbaikan Web v2 — audit Hermes + verifikasi Drogo).
+#
+# Catatan sintaks Pages: pola jalur memakai splat "*" di akhir; pola "/*.ext"
+# hanya mencakup file di root jalur tersebut. HTML sengaja TIDAK diberi
+# Cache-Control di sini — default Pages untuk HTML adalah
+# "public, max-age=0, must-revalidate" (berita harus selalu segar) dan itu
+# memang yang diinginkan. CSS/JS diberi max-age panjang TANPA "immutable"
+# karena nama file tidak memakai hash — file yang diperbarui harus tetap
+# bisa divalidasi ulang setelah masa cache berakhir.
+
+# Beranda (root) — cache singkat 5 menit
+/
+  Cache-Control: public, max-age=300
+
+# Gambar (direktori nyata di dist + file gambar di root) — 30 hari
 /images/*
-  Cache-Control: public, max-age=31536000, immutable
-/static/*
-  Cache-Control: public, max-age=31536000, immutable
-/*.css
-  Cache-Control: public, max-age=86400
-/*.js
-  Cache-Control: public, max-age=86400
-/*.avif
-  Cache-Control: public, max-age=31536000, immutable
+  Cache-Control: public, max-age=2592000
+/covers/*
+  Cache-Control: public, max-age=2592000
+/*.jpg
+  Cache-Control: public, max-age=2592000
+/*.png
+  Cache-Control: public, max-age=2592000
 /*.webp
-  Cache-Control: public, max-age=31536000, immutable
+  Cache-Control: public, max-age=2592000
+/*.avif
+  Cache-Control: public, max-age=2592000
 
-# HTML artikel — cache pendek agar update cepat tayang
-/artikel/*
-  Cache-Control: public, max-age=3600
-/en/article/*
-  Cache-Control: public, max-age=3600
+# Video — 7 hari
+/videos/*
+  Cache-Control: public, max-age=604800
+/*.mp4
+  Cache-Control: public, max-age=604800
 
-# Security headers gratis
+# CSS/JS — 1 tahun, tanpa immutable
+/*.css
+  Cache-Control: public, max-age=31536000
+/*.js
+  Cache-Control: public, max-age=31536000
+
+# Header keamanan — semua jalur
 /*
   X-Content-Type-Options: nosniff
   X-Frame-Options: SAMEORIGIN
   Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=(), microphone=(), camera=()
   Strict-Transport-Security: max-age=31536000; includeSubDomains
