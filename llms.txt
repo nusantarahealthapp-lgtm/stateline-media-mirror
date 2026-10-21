@@ -1,0 +1,174 @@
+# Stateline MEDIA
+
+> Portal berita independen berbahasa Indonesia dengan 11 edisi bahasa, meliput peristiwa viral, hukum, politik nasional, olahraga, dan berita internasional. Tagline: cepat, faktual, tanpa basa-basi.
+
+Stateline MEDIA (statelinemedia.world) adalah situs berita yang menerbitkan artikel dalam 11 bahasa setiap hari. Setiap artikel memiliki padanan terjemahan di bahasa lain dengan slug yang sama. Konten mencakup breaking news Indonesia, peristiwa viral, penegakan hukum, olahraga (sepak bola Eropa, MotoGP, Liga Champions), politik nasional, bencana alam, dan human interest.
+
+## Fakta Utama
+
+- Nama: Stateline MEDIA
+- Situs: https://www.statelinemedia.world
+- Bahasa: 11 edisi (id, en, ja, es, pt, de, fr, zh, hi, ms, ar)
+- Jumlah artikel: lebih dari 8.000 URL dalam sitemap
+- Model konten: artikel asli bahasa Indonesia + terjemahan otomatis semua edisi
+- Pilar dominan: olahraga, hukum & kriminal, politik nasional, berita viral
+- Penerbit: Stateline MEDIA Newsroom, Indonesia
+- Frekuensi: diperbarui setiap hari
+
+## Sumber Data Terstruktur
+
+- Sitemap utama: https://www.statelinemedia.world/sitemap.xml (8.083 URL)
+- Sitemap berita: https://www.statelinemedia.world/news-sitemap.xml (744 URL, Google News)
+- Sitemap gambar: https://www.statelinemedia.world/image-sitemap.xml (5.224 gambar)
+- robots.txt: https://www.statelinemedia.world/robots.txt
+
+## Edisi Bahasa
+
+### Bahasa Indonesia
+- Beranda: https://www.statelinemedia.world/
+- Feed RSS: https://www.statelinemedia.world/feed.xml
+- Artikel terbaru:
+  - [Dortmund Menang 2-1 atas Sabah, Dua Gol Guirassy](https://www.statelinemedia.world/artikel/hasil-sabah-vs-dortmund)
+  - [Fenerbahce Buang Kemenangan, Ditahan Slavia Praha 2-2](https://www.statelinemedia.world/artikel/hasil-fenerbahce-vs-slavia-prague)
+  - [Raja Ampat Papua, Surga Bawah Laut Terbaik Dunia](https://www.statelinemedia.world/artikel/2026-10-21-raja-ampat-surga-bawah-laut)
+  - [PSG Hancurkan Barcelona 4-2, Dembélé Cedera](https://www.statelinemedia.world/artikel/hasil-psg-vs-barcelona)
+  - [Stuttgart Tahan Imbang Atlético Madrid 1-1](https://www.statelinemedia.world/artikel/hasil-stuttgart-vs-atletico-madrid)
+  - [Napoli Menang Dramatis 4-3 atas Bodø/Glimt](https://www.statelinemedia.world/artikel/hasil-napoli-vs-bodo-glimt)
+  - [Liverpool Bangkit dari 0-2, Bekuk Villarreal 4-3](https://www.statelinemedia.world/artikel/hasil-liverpool-vs-villarreal)
+  - [Hat-trick Foden Bawa Man City Libas AEK 5-1](https://www.statelinemedia.world/artikel/hasil-man-city-vs-aek-athens)
+
+### English
+- Beranda: https://www.statelinemedia.world/en/
+- Feed RSS: https://www.statelinemedia.world/en/feed.xml
+- Artikel terbaru:
+  - [Dortmund Beat Sabah 2-1, Guirassy Scores Twice](https://www.statelinemedia.world/en/article/sabah-vs-dortmund-result)
+  - [Fenerbahce Throw Away Win, Held 2-2 by Slavia Prague](https://www.statelinemedia.world/en/article/fenerbahce-vs-slavia-prague-result)
+  - [Papua's Raja Ampat: The World's Ultimate Underwater Paradise](https://www.statelinemedia.world/en/article/2026-10-21-raja-ampat-surga-bawah-laut)
+  - [Stuttgart Held to 1-1 Draw by Atlético Madrid](https://www.statelinemedia.world/en/article/hasil-stuttgart-vs-atletico-madrid)
+  - [Napoli Edge Bodø/Glimt 4-3 in Seven-Goal Thriller](https://www.statelinemedia.world/en/article/hasil-napoli-vs-bodo-glimt)
+  - [Liverpool Fight Back from 0-2 to Beat Villarreal 4-3](https://www.statelinemedia.world/en/article/hasil-liverpool-vs-villarreal)
+  - [PSG Thrash Barcelona 4-2 as Dembélé Suffers Injury](https://www.statelinemedia.world/en/article/hasil-psg-vs-barcelona)
+  - [Foden Hat-trick Fires Man City to 5-1 Win Over AEK](https://www.statelinemedia.world/en/article/hasil-man-city-vs-aek-athens)
+
+### 日本語 (Japanese)
+- Beranda: https://www.statelinemedia.world/ja/
+- Feed RSS: https://www.statelinemedia.world/ja/feed.xml
+- Artikel terbaru:
+  - [ドルトムント、サバハに2-1で勝利　ギラシが2得点](https://www.statelinemedia.world/ja/article/hasil-sabah-vs-dortmund)
+  - [フェネルバフチェ、勝利を逃す　スラビア・プラハと2-2で引き分け](https://www.statelinemedia.world/ja/article/hasil-fenerbahce-vs-slavia-prague)
+  - [パプアのラジャ・アンパット、世界最高峰の海中楽園](https://www.statelinemedia.world/ja/article/2026-10-21-raja-ampat-surga-bawah-laut)
+  - [PT DSIを法人として立件、貸し手資金2.47兆ルピア未返還](https://www.statelinemedia.world/ja/article/pt-dsi-tersangka-korporasi)
+  - [国家警察犯罪捜査局、ギブラン副大統領の学歴証明書偽造疑惑で事件審理を実施へ](https://www.statelinemedia.world/ja/article/bareskrim-gelar-perkara-suket-ijazah-gibran)
+  - [インドネシア総合株価指数1.31%急落、中銀利上げ決定を警戒](https://www.statelinemedia.world/ja/article/ihsg-anjlok-jelang-keputusan-suku-bunga-bi)
+  - [スーダン軍無人機攻撃、係争地アビエイの市場で220人以上死亡](https://www.statelinemedia.world/ja/article/sudan-abyei-serangan-drone)
+  - [リバプール、0-2から逆転しビジャレアルを4-3で下す](https://www.statelinemedia.world/ja/article/hasil-liverpool-vs-villarreal)
+
+### Español (Spanish)
+- Beranda: https://www.statelinemedia.world/es/
+- Feed RSS: https://www.statelinemedia.world/es/feed.xml
+- Artikel terbaru:
+  - [Fenerbahce Tira por la Borda la Victoria y Empata 2-2 con el Slavia…](https://www.statelinemedia.world/es/article/fenerbahce-tira-por-la-borda-la-victoria-y-empata-2-2-con-el-slavia)
+  - [Dortmund vence 2-1 al Sabah, con dos goles de Guirassy](https://www.statelinemedia.world/es/article/dortmund-vence-2-1-al-sabah-con-dos-goles-de-guirassy)
+  - [Raja Ampat, Papúa: el mejor paraíso submarino del mundo](https://www.statelinemedia.world/es/article/2026-10-21-raja-ampat-surga-bawah-laut)
+  - [PT DSI imputada como corporación: 2,47 billones de IDR sin devolver](https://www.statelinemedia.world/es/article/pt-dsi-tersangka-korporasi)
+  - [Bareskrim analiza presunta falsificación de certificado de Gibran](https://www.statelinemedia.world/es/article/bareskrim-gelar-perkara-suket-ijazah-gibran)
+  - [IHSG cae 1,31% antes del fallo sobre tipos de Bank Indonesia](https://www.statelinemedia.world/es/article/ihsg-anjlok-jelang-keputusan-suku-bunga-bi)
+  - [Ataque con dron en Sudán deja más de 220 muertos en Abyei](https://www.statelinemedia.world/es/article/sudan-abyei-serangan-drone)
+  - [Liverpool se recupera de un 0-2 y vence 4-3 al Villarreal](https://www.statelinemedia.world/es/article/liverpool-se-recupera-de-un-0-2-y-vence-4-3-al-villarreal)
+
+### Português (Portuguese)
+- Beranda: https://www.statelinemedia.world/pt/
+- Feed RSS: https://www.statelinemedia.world/pt/feed.xml
+- Artikel terbaru:
+  - [Fenerbahçe desperdiça vitória e empata com Slavia Praha em 2 a 2](https://www.statelinemedia.world/pt/article/fenerbahce-desperdica-vitoria-e-empata-com-slavia-praha-em-2-a-2)
+  - [Dortmund vence o Sabah por 2 a 1, com dois gols de Guirassy](https://www.statelinemedia.world/pt/article/dortmund-vence-o-sabah-por-2-a-1-com-dois-gols-de-guirassy)
+  - [Raja Ampat: O Melhor Paraíso Subaquático do Mundo](https://www.statelinemedia.world/pt/article/2026-10-21-raja-ampat-surga-bawah-laut)
+  - [PT DSI Vira Ré Corporativa; R$ 2,47 Tri Seguem Sem Devolução](https://www.statelinemedia.world/pt/article/pt-dsi-tersangka-korporasi)
+  - [Bareskrim apura suposta fraude em certificado de Gibran](https://www.statelinemedia.world/pt/article/bareskrim-gelar-perkara-suket-ijazah-gibran)
+  - [Bolsa da Indonésia cai 1,31% antes de decisão sobre juros do BI](https://www.statelinemedia.world/pt/article/ihsg-anjlok-jelang-keputusan-suku-bunga-bi)
+  - [Ataque com Drone no Sudão Mata Mais de 220 em Mercado de Abyei](https://www.statelinemedia.world/pt/article/sudan-abyei-serangan-drone)
+  - [BI Mantém Juros em 5,75% e Eleva Taxa de Depósito para 5%](https://www.statelinemedia.world/pt/article/bi-tahan-suku-bunga-575-rdg-oktober-2026)
+
+### Deutsch (German)
+- Beranda: https://www.statelinemedia.world/de/
+- Feed RSS: https://www.statelinemedia.world/de/feed.xml
+- Artikel terbaru:
+  - [Fenerbahce verschenkt Sieg, nur 2:2 gegen Slavia Prag](https://www.statelinemedia.world/de/article/fenerbahce-verschenkt-sieg-nur-22-gegen-slavia-prag)
+  - [Dortmund gewinnt 2:1 gegen Sabah, zwei Tore von Guirassy](https://www.statelinemedia.world/de/article/dortmund-gewinnt-21-gegen-sabah-zwei-tore-von-guirassy)
+  - [Raja Ampat: Das weltbeste Unterwasserparadies](https://www.statelinemedia.world/de/article/2026-10-21-raja-ampat-surga-bawah-laut)
+  - [PT DSI als Beschuldigte: 2,47 Bio. IDR an Anlegergeldern offen](https://www.statelinemedia.world/de/article/pt-dsi-tersangka-korporasi)
+  - [Bareskrim prüft mutmaßliche Fälschung von Gibrans Bildungsnachweis](https://www.statelinemedia.world/de/article/bareskrim-gelar-perkara-suket-ijazah-gibran)
+  - [IHSG bricht vor Zinsentscheid der Bank Indonesia um 1,31 % ein](https://www.statelinemedia.world/de/article/ihsg-anjlok-jelang-keputusan-suku-bunga-bi)
+  - [Sudan: Drohnenangriff auf Markt in Abyei tötet über 220 Menschen](https://www.statelinemedia.world/de/article/sudan-abyei-serangan-drone)
+  - [BI hält Leitzins bei 5,75 %, Einlagenfazilität steigt auf 5 %](https://www.statelinemedia.world/de/article/bi-tahan-suku-bunga-575-rdg-oktober-2026)
+
+### Français (French)
+- Beranda: https://www.statelinemedia.world/fr/
+- Feed RSS: https://www.statelinemedia.world/fr/feed.xml
+- Artikel terbaru:
+  - [Fenerbahce Laisse Echapper la Victoire, Tenue en Echec 2-2 par le…](https://www.statelinemedia.world/fr/article/fenerbahce-laisse-echapper-la-victoire-tenue-en-echec-2-2-par-le)
+  - [Dortmund s'impose 2-1 face à Sabah, doublé de Guirassy](https://www.statelinemedia.world/fr/article/dortmund-simpose-2-1-face-a-sabah-double-de-guirassy)
+  - [Raja Ampat en Papouasie, le plus beau paradis sous-marin du monde](https://www.statelinemedia.world/fr/article/2026-10-21-raja-ampat-surga-bawah-laut)
+  - [PT DSI inculpée, 2 470 milliards Rp de prêteurs non remboursés](https://www.statelinemedia.world/fr/article/pt-dsi-tersangka-korporasi)
+  - [Affaire Gibran : audience spéciale sur un soupçon de faux diplôme](https://www.statelinemedia.world/fr/article/bareskrim-gelar-perkara-suket-ijazah-gibran)
+  - [L'IHSG chute de 1,31 % avant la décision de taux de la BI ce soir](https://www.statelinemedia.world/fr/article/ihsg-anjlok-jelang-keputusan-suku-bunga-bi)
+  - [Soudan : une frappe de drone tue plus de 220 personnes à Abyei](https://www.statelinemedia.world/fr/article/sudan-abyei-serangan-drone)
+  - [Indonésie : taux directeur maintenu à 5,75 %, facilité de dépôt à 5 %](https://www.statelinemedia.world/fr/article/bi-tahan-suku-bunga-575-rdg-oktober-2026)
+
+### العربية (Arabic)
+- Beranda: https://www.statelinemedia.world/ar/
+- Feed RSS: https://www.statelinemedia.world/ar/feed.xml
+- Artikel terbaru:
+  - [دورتموند يفوز 2-1 على صباح، غويراسي يسجل هدفين](https://www.statelinemedia.world/ar/article/hasil-sabah-vs-dortmund)
+  - [فنربخشة يهدر الفوز ويتعادل مع سلافيا براغ 2-2](https://www.statelinemedia.world/ar/article/hasil-fenerbahce-vs-slavia-prague)
+  - [راجا أمبات في بابوا: أفضل جنة بحرية في العالم](https://www.statelinemedia.world/ar/article/2026-10-21-raja-ampat-surga-bawah-laut)
+  - [اتهام شركة DSI جنائياً، وتعثر استرداد 2.47 تريليون روبية للمقرضين](https://www.statelinemedia.world/ar/article/pt-dsi-tersangka-korporasi)
+  - [الشرطة الإندونيسية تحقق في تزوير شهادة معادلة لجبران](https://www.statelinemedia.world/ar/article/bareskrim-gelar-perkara-suket-ijazah-gibran)
+  - [مؤشر جاكرتا يهوي 1.31% قبيل قرار الفائدة لبنك إندونيسيا](https://www.statelinemedia.world/ar/article/ihsg-anjlok-jelang-keputusan-suku-bunga-bi)
+  - [مسيّرة سودانية تقتل أكثر من 220 مدنياً بسوق في أبيي](https://www.statelinemedia.world/ar/article/sudan-abyei-serangan-drone)
+  - [المركزي الإندونيسي يثبت الفائدة عند 5.75% ويرفع فائدة الودائع إلى 5%](https://www.statelinemedia.world/ar/article/bi-tahan-suku-bunga-575-rdg-oktober-2026)
+
+### 中文 (Chinese)
+- Beranda: https://www.statelinemedia.world/zh/
+- Feed RSS: https://www.statelinemedia.world/zh/feed.xml
+- Artikel terbaru:
+  - [多特蒙德2-1战胜萨巴赫，吉拉西梅开二度](https://www.statelinemedia.world/zh/article/hasil-sabah-vs-dortmund)
+  - [费内巴切痛失胜局，2-2遭布拉格斯拉维亚逼平](https://www.statelinemedia.world/zh/article/hasil-fenerbahce-vs-slavia-prague)
+  - [印尼巴布亚拉贾安帕特：全球首屈一指的水下天堂](https://www.statelinemedia.world/zh/article/2026-10-21-raja-ampat-surga-bawah-laut)
+  - [PT DSI被列为企业嫌疑人，出借人2.47万亿印尼盾资金尚未追回](https://www.statelinemedia.world/zh/article/pt-dsi-tersangka-korporasi)
+  - [印尼刑侦局就副总统吉布兰学历认证证明涉嫌伪造案举行案情分析会](https://www.statelinemedia.world/zh/article/bareskrim-gelar-perkara-suket-ijazah-gibran)
+  - [印尼央行今日下午公布利率决议前夕 雅加达综指重挫1.31%](https://www.statelinemedia.world/zh/article/ihsg-anjlok-jelang-keputusan-suku-bunga-bi)
+  - [苏丹无人机袭击阿卜耶伊集市 造成逾220名平民丧生](https://www.statelinemedia.world/zh/article/sudan-abyei-serangan-drone)
+  - [利物浦从0-2落后中奋起反击，4-3击败比利亚雷亚尔](https://www.statelinemedia.world/zh/article/hasil-liverpool-vs-villarreal)
+
+### हिन्दी (Hindi)
+- Beranda: https://www.statelinemedia.world/hi/
+- Feed RSS: https://www.statelinemedia.world/hi/feed.xml
+- Artikel terbaru:
+  - [डॉर्टमुंड ने सबाह को 2-1 से हराया, गुइरासी के दो गोल](https://www.statelinemedia.world/hi/article/hasil-sabah-vs-dortmund)
+  - [फेनरबाहस ने जीत गंवाई, स्लाविया प्राहा से 2-2 की बराबरी](https://www.statelinemedia.world/hi/article/hasil-fenerbahce-vs-slavia-prague)
+  - [राजा अम्पैट: दुनिया का सबसे बेहतरीन अंडरवाटर स्वर्ग](https://www.statelinemedia.world/hi/article/2026-10-21-raja-ampat-surga-bawah-laut)
+  - [गिबरान के डिग्री प्रमाण पत्र जालसाजी मामले में केस कॉन्फ्रेंस](https://www.statelinemedia.world/hi/article/bareskrim-gelar-perkara-suket-ijazah-gibran)
+  - [PT DSI कॉर्पोरेट आरोपी, 11,151 लेंडर्स के 2.47 लाख करोड़ रु. फंसे](https://www.statelinemedia.world/hi/article/pt-dsi-tersangka-korporasi)
+  - [BI के ब्याज दर फैसले से पहले IHSG 1.31% टूटा](https://www.statelinemedia.world/hi/article/ihsg-anjlok-jelang-keputusan-suku-bunga-bi)
+  - [सूडान: अबेई के बाजार पर ड्रोन हमले में 220 से अधिक लोगों की मौत](https://www.statelinemedia.world/hi/article/sudan-abyei-serangan-drone)
+  - [BI ने ब्याज दर 5.75% पर रखी, डिपॉजिट फैसिलिटी दर बढ़कर 5% हुई](https://www.statelinemedia.world/hi/article/bi-tahan-suku-bunga-575-rdg-oktober-2026)
+
+### Bahasa Melayu
+- Beranda: https://www.statelinemedia.world/ms/
+- Feed RSS: https://www.statelinemedia.world/ms/feed.xml
+- Artikel terbaru:
+  - [Fenerbahce Lepaskan Kemenangan, Diikat Slavia Praha 2-2](https://www.statelinemedia.world/ms/article/fenerbahce-lepaskan-kemenangan-diikat-slavia-praha-2-2)
+  - [Dortmund Menang 2-1 ke atas Sabah, Dua Gol Guirassy](https://www.statelinemedia.world/ms/article/dortmund-menang-2-1-ke-atas-sabah-dua-gol-guirassy)
+  - [Raja Ampat Papua, Syurga Bawah Laut Terbaik Dunia](https://www.statelinemedia.world/ms/article/raja-ampat-papua-syurga-bawah-laut-terbaik-dunia)
+  - [Serangan Drone Sudan Tewaskan 220+ Penduduk di Pasar Abyei](https://www.statelinemedia.world/ms/article/sudan-abyei-serangan-drone)
+  - [IHSG Menjunam 1,31% Jelang Keputusan Kadar faedah BI Petang Ini](https://www.statelinemedia.world/ms/article/ihsg-anjlok-jelang-keputusan-suku-bunga-bi)
+  - [Bareskrim Gelar Perkara Sangkaan Pemalsuan Suket Ijazah Gibran](https://www.statelinemedia.world/ms/article/bareskrim-gelar-perkara-suket-ijazah-gibran)
+  - [KPK Sita Rp250 Juta dari PCNU Nias, Bisa Dikembalikan jika Tak Terkait](https://www.statelinemedia.world/ms/article/pcnu-nias-serahkan-rp250-juta-kpk)
+  - [Di Balik Dua Kali Mangkirnya Nusron: OTT Rp106,3 M Kasus HGB](https://www.statelinemedia.world/ms/article/nusron-wahid-dua-kali-mangkir-kpk-ott-hgb)
+
+## Kebijakan Kutipan
+
+- Artikel boleh dikutip dengan atribusi ke Stateline MEDIA dan tautan balik ke URL asli.
+- Untuk kutipan AI: sebutkan "menurut Stateline MEDIA" beserta URL sumber.
+- Kontak redaksi: melalui formulir di situs.
