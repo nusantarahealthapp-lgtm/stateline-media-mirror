@@ -178,14 +178,58 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.statelinemedia.world/artikel/2026-10-22-serangan-bandara-dammam-ladang-minyak-shaybah-3-tewas</loc>
+    <loc>https://www.statelinemedia.world/artikel/2026-10-22-sahroni-ukuran-korupsi-niat-jahat-bukan-rugi-negara</loc>
     <news:news>
       <news:publication>
         <news:name>Stateline MEDIA</news:name>
         <news:language>id</news:language>
       </news:publication>
       <news:publication_date>2026-10-22</news:publication_date>
-      <news:title>Minyak Melonjak ke US$110 usai Bandara Dammam dan Shaybah Diserang</news:title>
+      <news:title>Sahroni: Ukuran Korupsi Harus Niat Jahat, Bukan Sekadar Rugi Negara</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/artikel/2026-10-22-lecornu-akui-gagal-paris-larang-demo-jelang-aksi-24-okt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>Lecornu Akui Keamanan Gagal, Paris Larang Demo Jelang Aksi 24 Okt</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/artikel/2026-10-22-103-siswa-smpn-2-cisarua-diduga-keracunan-mbg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>Susu UHT Diduga Picu 103 Siswa SMPN 2 Cisarua Keracunan MBG</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/artikel/2026-10-22-lakers-hancurkan-warriors-127-105</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>Lakers Hancurkan Warriors 127-105 di Pembuka NBA</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/artikel/2026-10-22-job-fair-jakarta-12-ribu-lowongan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>id</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>Job Fair Jakarta Dibuka, 12 Ribu Lowongan dari 100 Perusahaan</news:title>
     </news:news>
   </url>
   <url>
@@ -365,14 +409,58 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.statelinemedia.world/en/article/2026-10-22-serangan-bandara-dammam-ladang-minyak-shaybah-3-tewas.en</loc>
+    <loc>https://www.statelinemedia.world/en/article/2026-10-22-sahroni-ukuran-korupsi-niat-jahat-bukan-rugi-negara</loc>
     <news:news>
       <news:publication>
         <news:name>Stateline MEDIA</news:name>
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-10-22</news:publication_date>
-      <news:title>Oil Surges to US$110 After Dammam Airport and Shaybah Attacked</news:title>
+      <news:title>Sahroni: Intent Must Define Corruption, Not Just State Losses</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/en/article/2026-10-22-lecornu-akui-gagal-paris-larang-demo-jelang-aksi-24-okt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>Lecornu Admits Security Lapses as Paris Bans Protests Ahead of Oct 24</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/en/article/2026-10-22-103-siswa-smpn-2-cisarua-diduga-keracunan-mbg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>UHT Milk Suspected as Cause of MBG Poisoning of 103 Students</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/en/article/2026-10-22-job-fair-jakarta-12-ribu-lowongan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>Jakarta Job Fair Opens With 12,000 Vacancies Across 100 Companies</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/en/article/2026-10-22-lakers-hancurkan-warriors-127-105</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>Lakers Crush Warriors 127-105 in NBA Season Opener</news:title>
     </news:news>
   </url>
   <url>
@@ -552,6 +640,61 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.statelinemedia.world/es/article/lecornu-admite-fallo-de-seguridad-paris-prohibe-manifestaciones</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>Lecornu admite fallo de seguridad, París prohíbe manifestaciones…</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/es/article/sahroni-la-medida-de-la-corrupcion-debe-ser-la-intencion-maliciosa</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>Sahroni: La medida de la corrupción debe ser la intención maliciosa,…</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/es/article/2026-10-22-103-siswa-smpn-2-cisarua-diduga-keracunan-mbg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>Leche UHT habría causado intoxicación de 103 alumnos en Cisarua</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/es/article/2026-10-22-job-fair-jakarta-12-ribu-lowongan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>Feria de Empleo de Yakarta abre con 12.000 vacantes de 100 empresas</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/es/article/2026-10-22-lakers-hancurkan-warriors-127-105</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>Lakers arrollan a Warriors 127-105 en el estreno de la NBA</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.statelinemedia.world/pt/article/2026-10-22-ikn-nusantara-investasi</loc>
     <news:news>
       <news:publication>
@@ -703,6 +846,61 @@
       </news:publication>
       <news:publication_date>2026-10-22</news:publication_date>
       <news:title>Nusron Vai a Reunião Ministerial Após Faltar Duas Vezes à KPK</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/pt/article/lecornu-admite-falha-de-seguranca-paris-proibe-manifestacoes-antes</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>Lecornu admite falha de segurança, Paris proíbe manifestações antes…</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/pt/article/sahroni-a-medida-da-corrupcao-deve-ser-a-intencao-maliciosa-nao</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>Sahroni: A medida da corrupção deve ser a intenção maliciosa, não…</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/pt/article/2026-10-22-103-siswa-smpn-2-cisarua-diduga-keracunan-mbg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>Leite UHT teria intoxicado 103 alunos em escola de Cisarua</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/pt/article/2026-10-22-job-fair-jakarta-12-ribu-lowongan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>Feira em Jacarta Abre 12 Mil Vagas em 100 Empresas</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/pt/article/2026-10-22-lakers-hancurkan-warriors-127-105</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>Lakers Arrasam Warriors por 127 a 105 na Abertura da NBA</news:title>
     </news:news>
   </url>
   <url>
@@ -882,6 +1080,61 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.statelinemedia.world/ar/article/2026-10-22-lecornu-akui-gagal-paris-larang-demo-jelang-aksi-24-okt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>ليكورنو يعترف بفشل الأمن وباريس تحظر المظاهرات قبل تحركات 24 أكتوبر</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ar/article/2026-10-22-sahroni-ukuran-korupsi-niat-jahat-bukan-rugi-negara</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>ساهروني: معيار الفساد يجب أن يكون سوء النية، لا مجرد خسارة للدولة</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ar/article/2026-10-22-103-siswa-smpn-2-cisarua-diduga-keracunan-mbg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>شبهة تلوث حليب معقم بتسمم 103 طلاب في مدرسة بسيساروا</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ar/article/2026-10-22-job-fair-jakarta-12-ribu-lowongan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>افتتاح معرض توظيف جاكرتا بـ 12 ألف وظيفة من 100 شركة</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ar/article/2026-10-22-lakers-hancurkan-warriors-127-105</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>ليكرز يسحق واريورز 127-105 في افتتاح دوري السلة الأمريكي</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.statelinemedia.world/zh/article/2026-10-22-ikn-nusantara-investasi</loc>
     <news:news>
       <news:publication>
@@ -1055,6 +1308,61 @@
       </news:publication>
       <news:publication_date>2026-10-22</news:publication_date>
       <news:title>努斯龙两度缺席肃贪会传唤后现身内阁全会</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/zh/article/2026-10-22-lecornu-akui-gagal-paris-larang-demo-jelang-aksi-24-okt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>zh</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>勒科尔努承认安保失败，巴黎在10月24日行动前禁止示威</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/zh/article/2026-10-22-sahroni-ukuran-korupsi-niat-jahat-bukan-rugi-negara</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>zh</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>萨赫罗尼：腐败的衡量标准必须是恶意意图，而非仅仅国家损失</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/zh/article/2026-10-22-103-siswa-smpn-2-cisarua-diduga-keracunan-mbg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>zh</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>疑因饮用超高温灭菌乳 印尼茂物103名中学生食用免费营养餐后中毒</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/zh/article/2026-10-22-job-fair-jakarta-12-ribu-lowongan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>zh</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>雅加达招聘会开幕：百家企业提供1.2万个就业岗位</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/zh/article/2026-10-22-lakers-hancurkan-warriors-127-105</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>zh</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>NBA揭幕战：湖人127-105大胜勇士迎后詹姆斯时代开门红</news:title>
     </news:news>
   </url>
   <url>
@@ -1236,6 +1544,61 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.statelinemedia.world/hi/article/2026-10-22-lecornu-akui-gagal-paris-larang-demo-jelang-aksi-24-okt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>लेकोर्नु ने सुरक्षा विफलता स्वीकार की, पेरिस ने 24 अक्टूबर की…</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/hi/article/2026-10-22-sahroni-ukuran-korupsi-niat-jahat-bukan-rugi-negara</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>साहरोनी: भ्रष्टाचार का मापदंड दुर्भावनापूर्ण नीयत होनी चाहिए, न कि…</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/hi/article/2026-10-22-103-siswa-smpn-2-cisarua-diduga-keracunan-mbg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>UHT दूध से सिसारुआ में 103 छात्र फूड पॉइजनिंग के शिकार</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/hi/article/2026-10-22-job-fair-jakarta-12-ribu-lowongan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>जकार्ता जॉब फेयर शुरू: 100 कंपनियों में 12 हजार रिक्तियां</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/hi/article/2026-10-22-lakers-hancurkan-warriors-127-105</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>NBA ओपनर: लेकर्स ने वॉरियर्स को 127-105 से रौंदा</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.statelinemedia.world/fr/article/2026-10-22-ikn-nusantara-investasi</loc>
     <news:news>
       <news:publication>
@@ -1412,6 +1775,61 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.statelinemedia.world/fr/article/lecornu-reconnait-un-echec-securitaire-paris-interdit-les</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>fr</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>Lecornu reconnaît un échec sécuritaire, Paris interdit les…</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/fr/article/sahroni-la-mesure-de-la-corruption-doit-reposer-sur-lintention</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>fr</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>Sahroni : La mesure de la corruption doit reposer sur l’intention…</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/fr/article/2026-10-22-103-siswa-smpn-2-cisarua-diduga-keracunan-mbg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>fr</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>Indonésie : 103 collégiens intoxiqués lors d&#x27;un repas scolaire</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/fr/article/2026-10-22-job-fair-jakarta-12-ribu-lowongan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>fr</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>Salon de l&#x27;emploi à Jakarta : 12 000 postes chez 100 entreprises</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/fr/article/2026-10-22-lakers-hancurkan-warriors-127-105</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>fr</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>NBA : Les Lakers écrasent les Warriors 127-105 pour la reprise</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.statelinemedia.world/de/article/2026-10-22-ikn-nusantara-investasi</loc>
     <news:news>
       <news:publication>
@@ -1577,6 +1995,50 @@
     </news:news>
   </url>
   <url>
+    <loc>https://www.statelinemedia.world/de/article/sahroni-korruptionsmastab-muss-bose-absicht-sein-nicht-blo-ein</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>de</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>Sahroni: Korruptionsmaßstab muss böse Absicht sein, nicht bloß ein…</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/de/article/2026-10-22-103-siswa-smpn-2-cisarua-diduga-keracunan-mbg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>de</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>H-Milch im Verdacht: 103 Schüler nach Schulspeisung vergiftet</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/de/article/2026-10-22-job-fair-jakarta-12-ribu-lowongan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>de</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>Jobmesse in Jakarta eröffnet: 12.000 Stellen von 100 Firmen</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/de/article/2026-10-22-lakers-hancurkan-warriors-127-105</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>de</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>NBA-Auftakt: Lakers fegen Warriors mit 127:105 vom Parkett</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://www.statelinemedia.world/ja/article/2026-10-22-ikn-nusantara-investasi</loc>
     <news:news>
       <news:publication>
@@ -1700,7 +2162,7 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.statelinemedia.world/ja/article/laskcp3-2</loc>
+    <loc>https://www.statelinemedia.world/ja/article/hasil-sporting-cp-vs-lask-linz</loc>
     <news:news>
       <news:publication>
         <news:name>Stateline MEDIA</news:name>
@@ -1755,14 +2217,47 @@
     </news:news>
   </url>
   <url>
-    <loc>https://www.statelinemedia.world/ja/article/2026-10-22-serangan-bandara-dammam-ladang-minyak-shaybah-3-tewas</loc>
+    <loc>https://www.statelinemedia.world/ja/article/2026-10-22-lecornu-akui-gagal-paris-larang-demo-jelang-aksi-24-okt</loc>
     <news:news>
       <news:publication>
         <news:name>Stateline MEDIA</news:name>
         <news:language>ja</news:language>
       </news:publication>
       <news:publication_date>2026-10-22</news:publication_date>
-      <news:title>ダンマーム空港とシャイバ油田攻撃受け、原油価格が110ドルに急騰</news:title>
+      <news:title>ルコルニュ氏、治安の失敗を認める　パリ、10月24日の抗議行動を前にデモ禁止</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ja/article/2026-10-22-sahroni-ukuran-korupsi-niat-jahat-bukan-rugi-negara</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ja</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>サフロニ氏：汚職の基準は悪意の意図であるべきで、単なる国家の損失ではない</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ja/article/2026-10-22-103-siswa-smpn-2-cisarua-diduga-keracunan-mbg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ja</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>UHT牛乳が原因か、チサルア第2中学校で無料給食を食べた生徒103人に食中毒の疑い</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ja/article/2026-10-22-lakers-hancurkan-warriors-127-105</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ja</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>レイカーズ、NBA開幕戦でウォリアーズを127-105で圧倒</news:title>
     </news:news>
   </url>
   <url>
@@ -1884,6 +2379,105 @@
       </news:publication>
       <news:publication_date>2026-10-22</news:publication_date>
       <news:title>Kejutan di Lisbon: LASK Linz Permalukan Sporting CP 3-2</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ms/article/hari-santri-2026-upacara-serentak-0700-tema-dan-agenda</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ms</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>Hari Santri 2026: Upacara Serentak 07.00, Tema dan Agenda</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ms/article/lecornu-akui-keamanan-gagal-paris-larang-demo-jelang-aksi-24-okt</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ms</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>Lecornu Akui Keamanan Gagal, Paris Larang Demo Jelang Aksi 24 Okt</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ms/article/lt-kol-arman-tersangka-rumah-dinas-tni-jadi-markas-judol</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ms</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>Lt Kol Arman Tersangka, Rumah Dinas TNI Jadi Markas Judol</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ms/article/mou-badr-ri-turki-qatar-pakistan-sepakat-kerja-sama-pertahanan</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ms</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>MoU Badr: RI-Turki-Qatar-Pakistan Sepakat Kerja Sama Pertahanan</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ms/article/nusron-hadir-sidang-kabinet-selepas-dua-kali-mangkir-kpk</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ms</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>Nusron Hadir Sidang Kabinet Selepas Dua Kali Mangkir KPK</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ms/article/sahroni-ukuran-korupsi-harus-niat-jahat-bukan-sekadar-rugi-negara</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ms</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>Sahroni: Ukuran Korupsi Harus Niat Jahat, Bukan Sekadar Rugi Negara</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ms/article/susu-uht-disyaki-punca-103-pelajar-smpn-2-cisarua-keracunan-mbg</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ms</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>Susu UHT Disyaki Punca 103 Pelajar SMPN 2 Cisarua Keracunan MBG</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ms/article/pelaburan-ikn-rp6-56-trilion-sasarkan-ibu-negara-politik-2028</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ms</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>Pelaburan IKN Rp6.56 Trilion, Sasarkan Ibu Negara Politik 2028</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://www.statelinemedia.world/ms/article/lakers-belasah-warriors-127-105-dalam-aksi-pembuka-nba</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Stateline MEDIA</news:name>
+        <news:language>ms</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-22</news:publication_date>
+      <news:title>Lakers Belasah Warriors 127-105 di Pembuka NBA</news:title>
     </news:news>
   </url>
   <url>

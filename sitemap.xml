@@ -121,7 +121,6 @@
   <url><loc>https://www.statelinemedia.world/topik/gunungsemeru/</loc></url>
   <url><loc>https://www.statelinemedia.world/topik/guterres/</loc></url>
   <url><loc>https://www.statelinemedia.world/topik/hargaemas/</loc></url>
-  <url><loc>https://www.statelinemedia.world/topik/hargaminyak/</loc></url>
   <url><loc>https://www.statelinemedia.world/topik/hasilpertandingan/</loc></url>
   <url><loc>https://www.statelinemedia.world/topik/herbal/</loc></url>
   <url><loc>https://www.statelinemedia.world/topik/hiburan/</loc></url>
@@ -179,6 +178,7 @@
   <url><loc>https://www.statelinemedia.world/topik/kejagung/</loc></url>
   <url><loc>https://www.statelinemedia.world/topik/kemnaker/</loc></url>
   <url><loc>https://www.statelinemedia.world/topik/kenya/</loc></url>
+  <url><loc>https://www.statelinemedia.world/topik/keracunanmbg/</loc></url>
   <url><loc>https://www.statelinemedia.world/topik/kerusuhanprancis/</loc></url>
   <url><loc>https://www.statelinemedia.world/topik/kesehatan/</loc></url>
   <url><loc>https://www.statelinemedia.world/topik/kesehatangigi/</loc></url>
@@ -221,6 +221,7 @@
   <url><loc>https://www.statelinemedia.world/topik/lingkungan/</loc></url>
   <url><loc>https://www.statelinemedia.world/topik/liverpool/</loc></url>
   <url><loc>https://www.statelinemedia.world/topik/logammulia/</loc></url>
+  <url><loc>https://www.statelinemedia.world/topik/luhut/</loc></url>
   <url><loc>https://www.statelinemedia.world/topik/macankemayoran/</loc></url>
   <url><loc>https://www.statelinemedia.world/topik/macron/</loc></url>
   <url><loc>https://www.statelinemedia.world/topik/madinah/</loc></url>
@@ -502,12 +503,14 @@
   <url><loc>https://www.statelinemedia.world/en/topics/gemini/</loc></url>
   <url><loc>https://www.statelinemedia.world/en/topics/gerd/</loc></url>
   <url><loc>https://www.statelinemedia.world/en/topics/gibran/</loc></url>
+  <url><loc>https://www.statelinemedia.world/en/topics/giroud/</loc></url>
   <url><loc>https://www.statelinemedia.world/en/topics/globaleconomy/</loc></url>
   <url><loc>https://www.statelinemedia.world/en/topics/goldprice/</loc></url>
   <url><loc>https://www.statelinemedia.world/en/topics/gout/</loc></url>
   <url><loc>https://www.statelinemedia.world/en/topics/grynspan/</loc></url>
   <url><loc>https://www.statelinemedia.world/en/topics/gunungsemeru/</loc></url>
   <url><loc>https://www.statelinemedia.world/en/topics/guterres/</loc></url>
+  <url><loc>https://www.statelinemedia.world/en/topics/gwalior/</loc></url>
   <url><loc>https://www.statelinemedia.world/en/topics/haze/</loc></url>
   <url><loc>https://www.statelinemedia.world/en/topics/health/</loc></url>
   <url><loc>https://www.statelinemedia.world/en/topics/healthydiet/</loc></url>
@@ -562,6 +565,7 @@
   <url><loc>https://www.statelinemedia.world/en/topics/kebakaran/</loc></url>
   <url><loc>https://www.statelinemedia.world/en/topics/kejagung/</loc></url>
   <url><loc>https://www.statelinemedia.world/en/topics/kenya/</loc></url>
+  <url><loc>https://www.statelinemedia.world/en/topics/keracunanmbg/</loc></url>
   <url><loc>https://www.statelinemedia.world/en/topics/kimjongun/</loc></url>
   <url><loc>https://www.statelinemedia.world/en/topics/kipkuliah/</loc></url>
   <url><loc>https://www.statelinemedia.world/en/topics/klaten/</loc></url>
@@ -592,6 +596,7 @@
   <url><loc>https://www.statelinemedia.world/en/topics/lingkungan/</loc></url>
   <url><loc>https://www.statelinemedia.world/en/topics/liverpool/</loc></url>
   <url><loc>https://www.statelinemedia.world/en/topics/losangeles/</loc></url>
+  <url><loc>https://www.statelinemedia.world/en/topics/luhut/</loc></url>
   <url><loc>https://www.statelinemedia.world/en/topics/lungcancer/</loc></url>
   <url><loc>https://www.statelinemedia.world/en/topics/macron/</loc></url>
   <url><loc>https://www.statelinemedia.world/en/topics/madinah/</loc></url>
@@ -624,6 +629,7 @@
   <url><loc>https://www.statelinemedia.world/en/topics/nasa/</loc></url>
   <url><loc>https://www.statelinemedia.world/en/topics/nasional/</loc></url>
   <url><loc>https://www.statelinemedia.world/en/topics/naturalization/</loc></url>
+  <url><loc>https://www.statelinemedia.world/en/topics/navratri/</loc></url>
   <url><loc>https://www.statelinemedia.world/en/topics/netanyahu/</loc></url>
   <url><loc>https://www.statelinemedia.world/en/topics/netflix/</loc></url>
   <url><loc>https://www.statelinemedia.world/en/topics/nfl/</loc></url>
@@ -737,6 +743,7 @@
   <url><loc>https://www.statelinemedia.world/en/topics/vape/</loc></url>
   <url><loc>https://www.statelinemedia.world/en/topics/vatican/</loc></url>
   <url><loc>https://www.statelinemedia.world/en/topics/vehicletax/</loc></url>
+  <url><loc>https://www.statelinemedia.world/en/topics/venezia/</loc></url>
   <url><loc>https://www.statelinemedia.world/en/topics/villarreal/</loc></url>
   <url><loc>https://www.statelinemedia.world/en/topics/viral/</loc></url>
   <url><loc>https://www.statelinemedia.world/en/topics/viralbogor/</loc></url>
@@ -760,6 +767,7 @@
   <url><loc>https://www.statelinemedia.world/es/topics/acltwo/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/acmilan/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/ai/</loc></url>
+  <url><loc>https://www.statelinemedia.world/es/topics/albania/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/amerikaserikat/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/andreabocelli/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/antreanbbm/</loc></url>
@@ -780,9 +788,12 @@
   <url><loc>https://www.statelinemedia.world/es/topics/bahlil/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/bakauheni/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/bali/</loc></url>
+  <url><loc>https://www.statelinemedia.world/es/topics/bandung/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/bandungbarat/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/bankindonesia/</loc></url>
+  <url><loc>https://www.statelinemedia.world/es/topics/barcelona/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/bareskrim/</loc></url>
+  <url><loc>https://www.statelinemedia.world/es/topics/basarnas/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/bbm/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/bbmbali/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/bei/</loc></url>
@@ -794,6 +805,7 @@
   <url><loc>https://www.statelinemedia.world/es/topics/beritahukum/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/beritanasional/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/beritaterkini/</loc></url>
+  <url><loc>https://www.statelinemedia.world/es/topics/biayahidup/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/birate/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/bmkg/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/bnpb/</loc></url>
@@ -803,17 +815,20 @@
   <url><loc>https://www.statelinemedia.world/es/topics/breakingbad/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/breakingnews/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/brisuperleague/</loc></url>
+  <url><loc>https://www.statelinemedia.world/es/topics/bromo/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/brownieskukus/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/bulutangkis/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/bumn/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/bupatiklaten/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/cfbwainwright/</loc></url>
+  <url><loc>https://www.statelinemedia.world/es/topics/china/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/conferenceleague/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/copadasnacoes/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/cuacaekstrem/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/dedimulyadi/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/demamtifoid/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/demomahasiswa/</loc></url>
+  <url><loc>https://www.statelinemedia.world/es/topics/demoprancis/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/denmarkopen2026/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/diabetes/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/dietsehat/</loc></url>
@@ -822,11 +837,16 @@
   <url><loc>https://www.statelinemedia.world/es/topics/drakor/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/drone/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/dunia/</loc></url>
+  <url><loc>https://www.statelinemedia.world/es/topics/durgapuja/</loc></url>
+  <url><loc>https://www.statelinemedia.world/es/topics/ebola/</loc></url>
+  <url><loc>https://www.statelinemedia.world/es/topics/edirama/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/ekonomi/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/ekonomiasia/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/ekonomiglobal/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/ekonomiindonesia/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/emasdigital/</loc></url>
+  <url><loc>https://www.statelinemedia.world/es/topics/erupsi/</loc></url>
+  <url><loc>https://www.statelinemedia.world/es/topics/erupsisemeru/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/etomidate/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/explorebandung/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/fajarfikri/</loc></url>
@@ -842,6 +862,7 @@
   <url><loc>https://www.statelinemedia.world/es/topics/gempabogor/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/gibran/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/gizianak/</loc></url>
+  <url><loc>https://www.statelinemedia.world/es/topics/gunungsemeru/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/guterres/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/hemat/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/herbal/</loc></url>
@@ -855,14 +876,17 @@
   <url><loc>https://www.statelinemedia.world/es/topics/ilhanomar/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/imf/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/imunitas/</loc></url>
+  <url><loc>https://www.statelinemedia.world/es/topics/india/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/indonesia/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/infantino/</loc></url>
+  <url><loc>https://www.statelinemedia.world/es/topics/intermiami/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/investasiemas/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/iran/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/israel/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/istanamerdeka/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/jakarta/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/jalanrusak/</loc></url>
+  <url><loc>https://www.statelinemedia.world/es/topics/jawatimur/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/jokowi/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/juventus/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/kabarduka/</loc></url>
@@ -880,7 +904,9 @@
   <url><loc>https://www.statelinemedia.world/es/topics/kebijakanpemerintah/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/kehamilan/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/kenya/</loc></url>
+  <url><loc>https://www.statelinemedia.world/es/topics/keracunanmbg/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/keretaapi/</loc></url>
+  <url><loc>https://www.statelinemedia.world/es/topics/kerusuhanprancis/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/kesehatan/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/kesehatangigi/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/kesehatanmata/</loc></url>
@@ -889,6 +915,7 @@
   <url><loc>https://www.statelinemedia.world/es/topics/keuangankeluarga/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/kimjiwon/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/klaten/</loc></url>
+  <url><loc>https://www.statelinemedia.world/es/topics/kolkata/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/komdigi/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/konserbatal/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/koreautara/</loc></url>
@@ -904,18 +931,24 @@
   <url><loc>https://www.statelinemedia.world/es/topics/kulinerbandung/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/kulinernusantara/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/labuanbajo/</loc></url>
+  <url><loc>https://www.statelinemedia.world/es/topics/laliga/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/liburan/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/liburanluarnegeri/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/ligachampions/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/ligaeuropa/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/ligaindonesia/</loc></url>
+  <url><loc>https://www.statelinemedia.world/es/topics/ligue1/</loc></url>
+  <url><loc>https://www.statelinemedia.world/es/topics/lille/</loc></url>
+  <url><loc>https://www.statelinemedia.world/es/topics/limoges/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/lingkungan/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/liverpool/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/loncar/</loc></url>
+  <url><loc>https://www.statelinemedia.world/es/topics/luhut/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/luisaadreena/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/macankemayoran/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/macron/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/malaysia/</loc></url>
+  <url><loc>https://www.statelinemedia.world/es/topics/manchesterunited/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/mancity/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/mandijunub/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/mandiwajib/</loc></url>
@@ -925,12 +958,16 @@
   <url><loc>https://www.statelinemedia.world/es/topics/megawatihangestri/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/meksiko/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/menluri/</loc></url>
+  <url><loc>https://www.statelinemedia.world/es/topics/messi/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/meutyahafid/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/minyak/</loc></url>
+  <url><loc>https://www.statelinemedia.world/es/topics/minyakdunia/</loc></url>
+  <url><loc>https://www.statelinemedia.world/es/topics/mls/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/mobilbekas/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/moto3/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/msci/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/mui/</loc></url>
+  <url><loc>https://www.statelinemedia.world/es/topics/napoli/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/narkoba/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/nasa/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/nasigoreng/</loc></url>
@@ -950,6 +987,7 @@
   <url><loc>https://www.statelinemedia.world/es/topics/packing/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/pakistan/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/papua/</loc></url>
+  <url><loc>https://www.statelinemedia.world/es/topics/paris/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/pasarmodal/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/pausleoxiv/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/pbb/</loc></url>
@@ -972,6 +1010,7 @@
   <url><loc>https://www.statelinemedia.world/es/topics/premierleague/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/psg/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/psssleman/</loc></url>
+  <url><loc>https://www.statelinemedia.world/es/topics/pvmbg/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/qris/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/realmadrid/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/rendang/</loc></url>
@@ -993,6 +1032,7 @@
   <url><loc>https://www.statelinemedia.world/es/topics/seblak/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/sekjenpbb/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/selathormuz/</loc></url>
+  <url><loc>https://www.statelinemedia.world/es/topics/semeru/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/sepakbola/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/seriea/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/sertifikasihalal/</loc></url>
@@ -1002,6 +1042,7 @@
   <url><loc>https://www.statelinemedia.world/es/topics/sidangkabinet/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/spacex/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/stablecoin/</loc></url>
+  <url><loc>https://www.statelinemedia.world/es/topics/stpetersburg/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/stunting/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/sukubunga/</loc></url>
   <url><loc>https://www.statelinemedia.world/es/topics/superleague/</loc></url>
@@ -1094,6 +1135,7 @@
   <url><loc>https://www.statelinemedia.world/pt/topics/bmkg/</loc></url>
   <url><loc>https://www.statelinemedia.world/pt/topics/bnpb/</loc></url>
   <url><loc>https://www.statelinemedia.world/pt/topics/bobotoh/</loc></url>
+  <url><loc>https://www.statelinemedia.world/pt/topics/bogor/</loc></url>
   <url><loc>https://www.statelinemedia.world/pt/topics/bpjph/</loc></url>
   <url><loc>https://www.statelinemedia.world/pt/topics/bps/</loc></url>
   <url><loc>https://www.statelinemedia.world/pt/topics/breakingnews/</loc></url>
@@ -1109,6 +1151,7 @@
   <url><loc>https://www.statelinemedia.world/pt/topics/dedimulyadi/</loc></url>
   <url><loc>https://www.statelinemedia.world/pt/topics/demamtifoid/</loc></url>
   <url><loc>https://www.statelinemedia.world/pt/topics/demomahasiswa/</loc></url>
+  <url><loc>https://www.statelinemedia.world/pt/topics/demoprancis/</loc></url>
   <url><loc>https://www.statelinemedia.world/pt/topics/denmarkopen2026/</loc></url>
   <url><loc>https://www.statelinemedia.world/pt/topics/dewaunited/</loc></url>
   <url><loc>https://www.statelinemedia.world/pt/topics/diabetes/</loc></url>
@@ -1179,6 +1222,7 @@
   <url><loc>https://www.statelinemedia.world/pt/topics/kebakaranhutan/</loc></url>
   <url><loc>https://www.statelinemedia.world/pt/topics/kebijakanpemerintah/</loc></url>
   <url><loc>https://www.statelinemedia.world/pt/topics/kehamilan/</loc></url>
+  <url><loc>https://www.statelinemedia.world/pt/topics/keracunanmbg/</loc></url>
   <url><loc>https://www.statelinemedia.world/pt/topics/keretaapi/</loc></url>
   <url><loc>https://www.statelinemedia.world/pt/topics/kesehatan/</loc></url>
   <url><loc>https://www.statelinemedia.world/pt/topics/kesehatangigi/</loc></url>
@@ -1211,6 +1255,7 @@
   <url><loc>https://www.statelinemedia.world/pt/topics/lingkungan/</loc></url>
   <url><loc>https://www.statelinemedia.world/pt/topics/liverpool/</loc></url>
   <url><loc>https://www.statelinemedia.world/pt/topics/loncar/</loc></url>
+  <url><loc>https://www.statelinemedia.world/pt/topics/luhut/</loc></url>
   <url><loc>https://www.statelinemedia.world/pt/topics/macankemayoran/</loc></url>
   <url><loc>https://www.statelinemedia.world/pt/topics/macron/</loc></url>
   <url><loc>https://www.statelinemedia.world/pt/topics/malaysia/</loc></url>
@@ -1250,6 +1295,7 @@
   <url><loc>https://www.statelinemedia.world/pt/topics/ottkpk/</loc></url>
   <url><loc>https://www.statelinemedia.world/pt/topics/pakistan/</loc></url>
   <url><loc>https://www.statelinemedia.world/pt/topics/papua/</loc></url>
+  <url><loc>https://www.statelinemedia.world/pt/topics/paris/</loc></url>
   <url><loc>https://www.statelinemedia.world/pt/topics/pasalselundupan/</loc></url>
   <url><loc>https://www.statelinemedia.world/pt/topics/pasarmodal/</loc></url>
   <url><loc>https://www.statelinemedia.world/pt/topics/pausleoxiv/</loc></url>
@@ -1393,6 +1439,7 @@
   <url><loc>https://www.statelinemedia.world/ar/topics/bmkg/</loc></url>
   <url><loc>https://www.statelinemedia.world/ar/topics/bnpb/</loc></url>
   <url><loc>https://www.statelinemedia.world/ar/topics/bobotoh/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ar/topics/bogor/</loc></url>
   <url><loc>https://www.statelinemedia.world/ar/topics/bpjph/</loc></url>
   <url><loc>https://www.statelinemedia.world/ar/topics/bps/</loc></url>
   <url><loc>https://www.statelinemedia.world/ar/topics/breakingbad/</loc></url>
@@ -1405,6 +1452,7 @@
   <url><loc>https://www.statelinemedia.world/ar/topics/copadasnacoes/</loc></url>
   <url><loc>https://www.statelinemedia.world/ar/topics/dedimulyadi/</loc></url>
   <url><loc>https://www.statelinemedia.world/ar/topics/demomahasiswa/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ar/topics/demoprancis/</loc></url>
   <url><loc>https://www.statelinemedia.world/ar/topics/denmarkopen2026/</loc></url>
   <url><loc>https://www.statelinemedia.world/ar/topics/doctorx/</loc></url>
   <url><loc>https://www.statelinemedia.world/ar/topics/donaldtrump/</loc></url>
@@ -1439,6 +1487,7 @@
   <url><loc>https://www.statelinemedia.world/ar/topics/investasiemas/</loc></url>
   <url><loc>https://www.statelinemedia.world/ar/topics/iran/</loc></url>
   <url><loc>https://www.statelinemedia.world/ar/topics/istanamerdeka/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ar/topics/jakarta/</loc></url>
   <url><loc>https://www.statelinemedia.world/ar/topics/juventus/</loc></url>
   <url><loc>https://www.statelinemedia.world/ar/topics/kabarduka/</loc></url>
   <url><loc>https://www.statelinemedia.world/ar/topics/kabinetmerahputih/</loc></url>
@@ -1451,6 +1500,7 @@
   <url><loc>https://www.statelinemedia.world/ar/topics/kebakaran/</loc></url>
   <url><loc>https://www.statelinemedia.world/ar/topics/kebakaranhutan/</loc></url>
   <url><loc>https://www.statelinemedia.world/ar/topics/kehamilan/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ar/topics/keracunanmbg/</loc></url>
   <url><loc>https://www.statelinemedia.world/ar/topics/kesehatan/</loc></url>
   <url><loc>https://www.statelinemedia.world/ar/topics/kesehatangigi/</loc></url>
   <url><loc>https://www.statelinemedia.world/ar/topics/kesehatanwanita/</loc></url>
@@ -1473,6 +1523,7 @@
   <url><loc>https://www.statelinemedia.world/ar/topics/ligaindonesia/</loc></url>
   <url><loc>https://www.statelinemedia.world/ar/topics/lingkungan/</loc></url>
   <url><loc>https://www.statelinemedia.world/ar/topics/liverpool/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ar/topics/luhut/</loc></url>
   <url><loc>https://www.statelinemedia.world/ar/topics/macankemayoran/</loc></url>
   <url><loc>https://www.statelinemedia.world/ar/topics/macron/</loc></url>
   <url><loc>https://www.statelinemedia.world/ar/topics/malaysia/</loc></url>
@@ -1502,6 +1553,7 @@
   <url><loc>https://www.statelinemedia.world/ar/topics/ottkpk/</loc></url>
   <url><loc>https://www.statelinemedia.world/ar/topics/pakistan/</loc></url>
   <url><loc>https://www.statelinemedia.world/ar/topics/papua/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ar/topics/paris/</loc></url>
   <url><loc>https://www.statelinemedia.world/ar/topics/pasarmodal/</loc></url>
   <url><loc>https://www.statelinemedia.world/ar/topics/pausleoxiv/</loc></url>
   <url><loc>https://www.statelinemedia.world/ar/topics/pbb/</loc></url>
@@ -1571,6 +1623,7 @@
   <url><loc>https://www.statelinemedia.world/zh/topics/acltwo/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/acmilan/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/ai/</loc></url>
+  <url><loc>https://www.statelinemedia.world/zh/topics/albania/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/amerikaserikat/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/andreabocelli/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/antreanbbm/</loc></url>
@@ -1586,11 +1639,14 @@
   <url><loc>https://www.statelinemedia.world/zh/topics/badmintonindonesia/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/bahlil/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/bali/</loc></url>
+  <url><loc>https://www.statelinemedia.world/zh/topics/bandung/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/bandungbarat/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/bankindonesia/</loc></url>
+  <url><loc>https://www.statelinemedia.world/zh/topics/barcelona/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/bareskrim/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/bbm/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/bbmbali/</loc></url>
+  <url><loc>https://www.statelinemedia.world/zh/topics/bbmsubsidi/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/beautypageant/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/bei/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/bekasi/</loc></url>
@@ -1599,23 +1655,28 @@
   <url><loc>https://www.statelinemedia.world/zh/topics/beritahukum/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/beritanasional/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/beritaterkini/</loc></url>
+  <url><loc>https://www.statelinemedia.world/zh/topics/biayahidup/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/birate/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/bmkg/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/bnpb/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/bobotoh/</loc></url>
+  <url><loc>https://www.statelinemedia.world/zh/topics/bogor/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/bpjph/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/bpjskesehatan/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/breakingnews/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/brisuperleague/</loc></url>
+  <url><loc>https://www.statelinemedia.world/zh/topics/bromo/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/bulutangkis/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/bumn/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/bupatiklaten/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/cfbwainwright/</loc></url>
+  <url><loc>https://www.statelinemedia.world/zh/topics/china/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/conferenceleague/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/copadasnacoes/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/cuacaekstrem/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/dedimulyadi/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/demomahasiswa/</loc></url>
+  <url><loc>https://www.statelinemedia.world/zh/topics/demoprancis/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/denmarkopen2026/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/dewaunited/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/doctorx/</loc></url>
@@ -1623,20 +1684,27 @@
   <url><loc>https://www.statelinemedia.world/zh/topics/drakor/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/drone/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/dunia/</loc></url>
+  <url><loc>https://www.statelinemedia.world/zh/topics/durgapuja/</loc></url>
+  <url><loc>https://www.statelinemedia.world/zh/topics/ebola/</loc></url>
+  <url><loc>https://www.statelinemedia.world/zh/topics/edirama/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/ekonomi/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/ekonomiglobal/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/ekonomiindonesia/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/emasdigital/</loc></url>
+  <url><loc>https://www.statelinemedia.world/zh/topics/erupsi/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/etomidate/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/fajarfikri/</loc></url>
+  <url><loc>https://www.statelinemedia.world/zh/topics/fatwaharam/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/febrieadriansyah/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/fifa/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/futsalindonesia/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/garuda/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/garudayaksafc/</loc></url>
+  <url><loc>https://www.statelinemedia.world/zh/topics/gempa/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/gerd/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/gibran/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/guladarah/</loc></url>
+  <url><loc>https://www.statelinemedia.world/zh/topics/gunungsemeru/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/guterres/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/herbal/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/hiburan/</loc></url>
@@ -1649,13 +1717,17 @@
   <url><loc>https://www.statelinemedia.world/zh/topics/ilhanomar/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/imf/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/imunitas/</loc></url>
+  <url><loc>https://www.statelinemedia.world/zh/topics/india/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/indonesia/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/infantino/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/intermiami/</loc></url>
+  <url><loc>https://www.statelinemedia.world/zh/topics/investasi/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/investasiemas/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/iran/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/israel/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/istanamerdeka/</loc></url>
+  <url><loc>https://www.statelinemedia.world/zh/topics/jakarta/</loc></url>
+  <url><loc>https://www.statelinemedia.world/zh/topics/jawatimur/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/jokowi/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/juventus/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/kabarduka/</loc></url>
@@ -1671,6 +1743,8 @@
   <url><loc>https://www.statelinemedia.world/zh/topics/kebakaranhutan/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/kehamilan/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/kenya/</loc></url>
+  <url><loc>https://www.statelinemedia.world/zh/topics/keracunanmbg/</loc></url>
+  <url><loc>https://www.statelinemedia.world/zh/topics/kerusuhanprancis/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/kesehatan/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/kesehatangigi/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/kesehatanpria/</loc></url>
@@ -1678,6 +1752,7 @@
   <url><loc>https://www.statelinemedia.world/zh/topics/keuangan/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/kimjiwon/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/klaten/</loc></url>
+  <url><loc>https://www.statelinemedia.world/zh/topics/kolkata/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/komdigi/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/konserbatal/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/koreautara/</loc></url>
@@ -1692,14 +1767,20 @@
   <url><loc>https://www.statelinemedia.world/zh/topics/kuliner/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/kulinernusantara/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/labuanbajo/</loc></url>
+  <url><loc>https://www.statelinemedia.world/zh/topics/laliga/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/ligachampions/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/ligaeuropa/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/ligaindonesia/</loc></url>
+  <url><loc>https://www.statelinemedia.world/zh/topics/ligue1/</loc></url>
+  <url><loc>https://www.statelinemedia.world/zh/topics/lille/</loc></url>
+  <url><loc>https://www.statelinemedia.world/zh/topics/limoges/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/lingkungan/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/liverpool/</loc></url>
+  <url><loc>https://www.statelinemedia.world/zh/topics/luhut/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/macankemayoran/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/macron/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/malaysia/</loc></url>
+  <url><loc>https://www.statelinemedia.world/zh/topics/manchesterunited/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/mancity/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/marulisimanjuntak/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/mbg/</loc></url>
@@ -1707,11 +1788,13 @@
   <url><loc>https://www.statelinemedia.world/zh/topics/meksiko/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/messi/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/meutyahafid/</loc></url>
+  <url><loc>https://www.statelinemedia.world/zh/topics/minyakdunia/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/missindonesia2026/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/mls/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/moto3/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/msci/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/mui/</loc></url>
+  <url><loc>https://www.statelinemedia.world/zh/topics/napoli/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/narkoba/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/nasa/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/nastar/</loc></url>
@@ -1727,6 +1810,7 @@
   <url><loc>https://www.statelinemedia.world/zh/topics/ottkpk/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/pakistan/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/papua/</loc></url>
+  <url><loc>https://www.statelinemedia.world/zh/topics/paris/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/pasarmodal/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/pausleoxiv/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/pbb/</loc></url>
@@ -1756,6 +1840,7 @@
   <url><loc>https://www.statelinemedia.world/zh/topics/sahamindonesia/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/sarwendah/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/sekjenpbb/</loc></url>
+  <url><loc>https://www.statelinemedia.world/zh/topics/selathormuz/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/sepakbola/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/seriea/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/sertifikasihalal/</loc></url>
@@ -1765,6 +1850,7 @@
   <url><loc>https://www.statelinemedia.world/zh/topics/snada2026/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/sotoayam/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/spacex/</loc></url>
+  <url><loc>https://www.statelinemedia.world/zh/topics/stpetersburg/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/sukubunga/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/sumbar/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/superleague/</loc></url>
@@ -1786,6 +1872,7 @@
   <url><loc>https://www.statelinemedia.world/zh/topics/uel/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/ukraina/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/umkm/</loc></url>
+  <url><loc>https://www.statelinemedia.world/zh/topics/vape/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/vatikan/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/viral/</loc></url>
   <url><loc>https://www.statelinemedia.world/zh/topics/viralbogor/</loc></url>
@@ -1829,6 +1916,7 @@
   <url><loc>https://www.statelinemedia.world/hi/topics/bmkg/</loc></url>
   <url><loc>https://www.statelinemedia.world/hi/topics/bnpb/</loc></url>
   <url><loc>https://www.statelinemedia.world/hi/topics/bobotoh/</loc></url>
+  <url><loc>https://www.statelinemedia.world/hi/topics/bogor/</loc></url>
   <url><loc>https://www.statelinemedia.world/hi/topics/bpjph/</loc></url>
   <url><loc>https://www.statelinemedia.world/hi/topics/breakingnews/</loc></url>
   <url><loc>https://www.statelinemedia.world/hi/topics/brisuperleague/</loc></url>
@@ -1840,6 +1928,7 @@
   <url><loc>https://www.statelinemedia.world/hi/topics/copadasnacoes/</loc></url>
   <url><loc>https://www.statelinemedia.world/hi/topics/dedimulyadi/</loc></url>
   <url><loc>https://www.statelinemedia.world/hi/topics/demomahasiswa/</loc></url>
+  <url><loc>https://www.statelinemedia.world/hi/topics/demoprancis/</loc></url>
   <url><loc>https://www.statelinemedia.world/hi/topics/denmarkopen2026/</loc></url>
   <url><loc>https://www.statelinemedia.world/hi/topics/dewaunited/</loc></url>
   <url><loc>https://www.statelinemedia.world/hi/topics/diabetes/</loc></url>
@@ -1871,6 +1960,7 @@
   <url><loc>https://www.statelinemedia.world/hi/topics/investasiemas/</loc></url>
   <url><loc>https://www.statelinemedia.world/hi/topics/iran/</loc></url>
   <url><loc>https://www.statelinemedia.world/hi/topics/istanamerdeka/</loc></url>
+  <url><loc>https://www.statelinemedia.world/hi/topics/jakarta/</loc></url>
   <url><loc>https://www.statelinemedia.world/hi/topics/juventus/</loc></url>
   <url><loc>https://www.statelinemedia.world/hi/topics/kabarduka/</loc></url>
   <url><loc>https://www.statelinemedia.world/hi/topics/kabinetmerahputih/</loc></url>
@@ -1883,6 +1973,7 @@
   <url><loc>https://www.statelinemedia.world/hi/topics/kebakaran/</loc></url>
   <url><loc>https://www.statelinemedia.world/hi/topics/kebakaranhutan/</loc></url>
   <url><loc>https://www.statelinemedia.world/hi/topics/kehamilan/</loc></url>
+  <url><loc>https://www.statelinemedia.world/hi/topics/keracunanmbg/</loc></url>
   <url><loc>https://www.statelinemedia.world/hi/topics/kesehatan/</loc></url>
   <url><loc>https://www.statelinemedia.world/hi/topics/kesehatanwanita/</loc></url>
   <url><loc>https://www.statelinemedia.world/hi/topics/keuangan/</loc></url>
@@ -1905,6 +1996,7 @@
   <url><loc>https://www.statelinemedia.world/hi/topics/ligaindonesia/</loc></url>
   <url><loc>https://www.statelinemedia.world/hi/topics/lingkungan/</loc></url>
   <url><loc>https://www.statelinemedia.world/hi/topics/liverpool/</loc></url>
+  <url><loc>https://www.statelinemedia.world/hi/topics/luhut/</loc></url>
   <url><loc>https://www.statelinemedia.world/hi/topics/macankemayoran/</loc></url>
   <url><loc>https://www.statelinemedia.world/hi/topics/macron/</loc></url>
   <url><loc>https://www.statelinemedia.world/hi/topics/malaysia/</loc></url>
@@ -1933,6 +2025,7 @@
   <url><loc>https://www.statelinemedia.world/hi/topics/ottkpk/</loc></url>
   <url><loc>https://www.statelinemedia.world/hi/topics/pakistan/</loc></url>
   <url><loc>https://www.statelinemedia.world/hi/topics/papua/</loc></url>
+  <url><loc>https://www.statelinemedia.world/hi/topics/paris/</loc></url>
   <url><loc>https://www.statelinemedia.world/hi/topics/pasarmodal/</loc></url>
   <url><loc>https://www.statelinemedia.world/hi/topics/pausleoxiv/</loc></url>
   <url><loc>https://www.statelinemedia.world/hi/topics/pbb/</loc></url>
@@ -2041,6 +2134,7 @@
   <url><loc>https://www.statelinemedia.world/fr/topics/bmkg/</loc></url>
   <url><loc>https://www.statelinemedia.world/fr/topics/bnpb/</loc></url>
   <url><loc>https://www.statelinemedia.world/fr/topics/bobotoh/</loc></url>
+  <url><loc>https://www.statelinemedia.world/fr/topics/bogor/</loc></url>
   <url><loc>https://www.statelinemedia.world/fr/topics/bpjph/</loc></url>
   <url><loc>https://www.statelinemedia.world/fr/topics/bpjs/</loc></url>
   <url><loc>https://www.statelinemedia.world/fr/topics/breakingnews/</loc></url>
@@ -2055,6 +2149,7 @@
   <url><loc>https://www.statelinemedia.world/fr/topics/dedimulyadi/</loc></url>
   <url><loc>https://www.statelinemedia.world/fr/topics/demamtifoid/</loc></url>
   <url><loc>https://www.statelinemedia.world/fr/topics/demomahasiswa/</loc></url>
+  <url><loc>https://www.statelinemedia.world/fr/topics/demoprancis/</loc></url>
   <url><loc>https://www.statelinemedia.world/fr/topics/denmarkopen2026/</loc></url>
   <url><loc>https://www.statelinemedia.world/fr/topics/dewaunited/</loc></url>
   <url><loc>https://www.statelinemedia.world/fr/topics/diabetes/</loc></url>
@@ -2104,6 +2199,7 @@
   <url><loc>https://www.statelinemedia.world/fr/topics/iran/</loc></url>
   <url><loc>https://www.statelinemedia.world/fr/topics/irlandiautara/</loc></url>
   <url><loc>https://www.statelinemedia.world/fr/topics/istanamerdeka/</loc></url>
+  <url><loc>https://www.statelinemedia.world/fr/topics/jakarta/</loc></url>
   <url><loc>https://www.statelinemedia.world/fr/topics/jeffreydonaldson/</loc></url>
   <url><loc>https://www.statelinemedia.world/fr/topics/jembatanyalu/</loc></url>
   <url><loc>https://www.statelinemedia.world/fr/topics/jeromepolin/</loc></url>
@@ -2124,6 +2220,7 @@
   <url><loc>https://www.statelinemedia.world/fr/topics/kebakaranhutan/</loc></url>
   <url><loc>https://www.statelinemedia.world/fr/topics/kebijakanpemerintah/</loc></url>
   <url><loc>https://www.statelinemedia.world/fr/topics/kehamilan/</loc></url>
+  <url><loc>https://www.statelinemedia.world/fr/topics/keracunanmbg/</loc></url>
   <url><loc>https://www.statelinemedia.world/fr/topics/keretaapi/</loc></url>
   <url><loc>https://www.statelinemedia.world/fr/topics/kesehatan/</loc></url>
   <url><loc>https://www.statelinemedia.world/fr/topics/kesehatangigi/</loc></url>
@@ -2158,6 +2255,7 @@
   <url><loc>https://www.statelinemedia.world/fr/topics/lingkungan/</loc></url>
   <url><loc>https://www.statelinemedia.world/fr/topics/liverpool/</loc></url>
   <url><loc>https://www.statelinemedia.world/fr/topics/loncar/</loc></url>
+  <url><loc>https://www.statelinemedia.world/fr/topics/luhut/</loc></url>
   <url><loc>https://www.statelinemedia.world/fr/topics/macankemayoran/</loc></url>
   <url><loc>https://www.statelinemedia.world/fr/topics/macron/</loc></url>
   <url><loc>https://www.statelinemedia.world/fr/topics/malaysia/</loc></url>
@@ -2191,6 +2289,7 @@
   <url><loc>https://www.statelinemedia.world/fr/topics/packing/</loc></url>
   <url><loc>https://www.statelinemedia.world/fr/topics/pakistan/</loc></url>
   <url><loc>https://www.statelinemedia.world/fr/topics/papua/</loc></url>
+  <url><loc>https://www.statelinemedia.world/fr/topics/paris/</loc></url>
   <url><loc>https://www.statelinemedia.world/fr/topics/pasalselundupan/</loc></url>
   <url><loc>https://www.statelinemedia.world/fr/topics/pasarmodal/</loc></url>
   <url><loc>https://www.statelinemedia.world/fr/topics/pausleoxiv/</loc></url>
@@ -2340,6 +2439,7 @@
   <url><loc>https://www.statelinemedia.world/de/topics/bmkg/</loc></url>
   <url><loc>https://www.statelinemedia.world/de/topics/bnpb/</loc></url>
   <url><loc>https://www.statelinemedia.world/de/topics/bobotoh/</loc></url>
+  <url><loc>https://www.statelinemedia.world/de/topics/bogor/</loc></url>
   <url><loc>https://www.statelinemedia.world/de/topics/borobudur/</loc></url>
   <url><loc>https://www.statelinemedia.world/de/topics/bpjph/</loc></url>
   <url><loc>https://www.statelinemedia.world/de/topics/bpjskesehatan/</loc></url>
@@ -2409,6 +2509,7 @@
   <url><loc>https://www.statelinemedia.world/de/topics/iran/</loc></url>
   <url><loc>https://www.statelinemedia.world/de/topics/irlandiautara/</loc></url>
   <url><loc>https://www.statelinemedia.world/de/topics/istanamerdeka/</loc></url>
+  <url><loc>https://www.statelinemedia.world/de/topics/jakarta/</loc></url>
   <url><loc>https://www.statelinemedia.world/de/topics/jawabarat/</loc></url>
   <url><loc>https://www.statelinemedia.world/de/topics/jeffreydonaldson/</loc></url>
   <url><loc>https://www.statelinemedia.world/de/topics/jembatanyalu/</loc></url>
@@ -2429,6 +2530,7 @@
   <url><loc>https://www.statelinemedia.world/de/topics/kebakaranhutan/</loc></url>
   <url><loc>https://www.statelinemedia.world/de/topics/kebijakanpemerintah/</loc></url>
   <url><loc>https://www.statelinemedia.world/de/topics/kehamilan/</loc></url>
+  <url><loc>https://www.statelinemedia.world/de/topics/keracunanmbg/</loc></url>
   <url><loc>https://www.statelinemedia.world/de/topics/keretaapi/</loc></url>
   <url><loc>https://www.statelinemedia.world/de/topics/kesehatan/</loc></url>
   <url><loc>https://www.statelinemedia.world/de/topics/kesehatangigi/</loc></url>
@@ -2460,6 +2562,7 @@
   <url><loc>https://www.statelinemedia.world/de/topics/ligaindonesia/</loc></url>
   <url><loc>https://www.statelinemedia.world/de/topics/lingkungan/</loc></url>
   <url><loc>https://www.statelinemedia.world/de/topics/liverpool/</loc></url>
+  <url><loc>https://www.statelinemedia.world/de/topics/luhut/</loc></url>
   <url><loc>https://www.statelinemedia.world/de/topics/macankemayoran/</loc></url>
   <url><loc>https://www.statelinemedia.world/de/topics/macron/</loc></url>
   <url><loc>https://www.statelinemedia.world/de/topics/malaysia/</loc></url>
@@ -2610,6 +2713,7 @@
   <url><loc>https://www.statelinemedia.world/ja/topics/acltwo/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/acmilan/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/ai/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/albania/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/amerikaserikat/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/andreabocelli/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/antreanbbm/</loc></url>
@@ -2625,10 +2729,13 @@
   <url><loc>https://www.statelinemedia.world/ja/topics/badmintonindonesia/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/bahlil/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/bali/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/bandung/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/bandungbarat/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/bankindonesia/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/bansos/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/barcelona/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/bareskrim/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/basarnas/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/bbm/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/bbmbali/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/beasiswa/</loc></url>
@@ -2640,22 +2747,27 @@
   <url><loc>https://www.statelinemedia.world/ja/topics/beritahukum/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/beritanasional/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/beritaterkini/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/biayahidup/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/birate/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/bmkg/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/bnpb/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/bobotoh/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/bogor/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/bpjph/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/breakingnews/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/brisuperleague/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/bromo/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/bulutangkis/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/bumn/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/bupatiklaten/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/cfbwainwright/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/china/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/conferenceleague/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/copadasnacoes/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/cuacaekstrem/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/dedimulyadi/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/demomahasiswa/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/demoprancis/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/denmarkopen2026/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/dewaunited/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/diabetes/</loc></url>
@@ -2665,20 +2777,29 @@
   <url><loc>https://www.statelinemedia.world/ja/topics/drakor/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/drone/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/dunia/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/durgapuja/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/ebola/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/edirama/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/ekonomi/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/ekonomiglobal/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/ekonomiindonesia/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/emasantam/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/emasdigital/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/erupsi/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/etomidate/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/fajarfikri/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/fatwaharam/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/fifa/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/futsalindonesia/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/garuda/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/garudajuara/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/garudayaksafc/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/gempa/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/gempabumi/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/gibran/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/gunungsemeru/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/guterres/</loc></url>
-  <url><loc>https://www.statelinemedia.world/ja/topics/hargaminyak/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/hargaemas/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/herbal/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/hiburan/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/houthi/</loc></url>
@@ -2690,15 +2811,19 @@
   <url><loc>https://www.statelinemedia.world/ja/topics/ilhanomar/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/imf/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/imunitas/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/india/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/indonesia/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/infantino/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/intermiami/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/investasi/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/investasiemas/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/iran/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/israel/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/istanamerdeka/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/jakarta/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/jakartaselatan/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/jantungsehat/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/jawatimur/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/jeromepolin/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/jokowi/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/juventus/</loc></url>
@@ -2715,6 +2840,8 @@
   <url><loc>https://www.statelinemedia.world/ja/topics/kebakaranhutan/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/kehamilan/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/kenya/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/keracunanmbg/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/kerusuhanprancis/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/kesehatan/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/kesehatangigi/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/kesehatanwanita/</loc></url>
@@ -2722,6 +2849,7 @@
   <url><loc>https://www.statelinemedia.world/ja/topics/kimjiwon/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/klaten/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/kolesterol/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/kolkata/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/komdigi/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/konserbatal/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/koreautara/</loc></url>
@@ -2736,14 +2864,21 @@
   <url><loc>https://www.statelinemedia.world/ja/topics/kuliner/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/kulinernusantara/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/labuanbajo/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/laliga/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/ligachampions/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/ligaeuropa/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/ligaindonesia/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/ligue1/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/lille/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/limoges/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/lingkungan/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/liverpool/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/logammulia/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/luhut/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/macankemayoran/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/macron/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/malaysia/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/manchesterunited/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/mancity/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/marulisimanjuntak/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/maungbandung/</loc></url>
@@ -2754,11 +2889,13 @@
   <url><loc>https://www.statelinemedia.world/ja/topics/messi/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/meutyahafid/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/minyak/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/minyakdunia/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/mls/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/moto3/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/motogp/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/msci/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/mui/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/napoli/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/narkoba/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/nasa/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/naturalisasi/</loc></url>
@@ -2774,6 +2911,7 @@
   <url><loc>https://www.statelinemedia.world/ja/topics/ottkpk/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/pakistan/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/papua/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/paris/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/pasarmodal/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/pausleoxiv/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/pbb/</loc></url>
@@ -2790,6 +2928,7 @@
   <url><loc>https://www.statelinemedia.world/ja/topics/prabowogibran/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/prabowosubianto/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/prancis/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/premierleague/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/psg/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/psssleman/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/realmadrid/</loc></url>
@@ -2810,6 +2949,7 @@
   <url><loc>https://www.statelinemedia.world/ja/topics/sidangkabinet/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/sotoayam/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/spacex/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/stpetersburg/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/sukubunga/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/superleague/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/suyudiarioseto/</loc></url>
@@ -2829,6 +2969,7 @@
   <url><loc>https://www.statelinemedia.world/ja/topics/uel/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/ukraina/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/umkm/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ja/topics/vape/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/vatikan/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/viral/</loc></url>
   <url><loc>https://www.statelinemedia.world/ja/topics/viralbogor/</loc></url>
@@ -2860,6 +3001,7 @@
   <url><loc>https://www.statelinemedia.world/ms/topics/bencananasional/</loc></url>
   <url><loc>https://www.statelinemedia.world/ms/topics/beritadunia/</loc></url>
   <url><loc>https://www.statelinemedia.world/ms/topics/beritahukum/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ms/topics/beritanasional/</loc></url>
   <url><loc>https://www.statelinemedia.world/ms/topics/beritaterkini/</loc></url>
   <url><loc>https://www.statelinemedia.world/ms/topics/birate/</loc></url>
   <url><loc>https://www.statelinemedia.world/ms/topics/bmkg/</loc></url>
@@ -2899,6 +3041,7 @@
   <url><loc>https://www.statelinemedia.world/ms/topics/karhutla/</loc></url>
   <url><loc>https://www.statelinemedia.world/ms/topics/kebakaranhutan/</loc></url>
   <url><loc>https://www.statelinemedia.world/ms/topics/kehamilan/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ms/topics/keracunanmbg/</loc></url>
   <url><loc>https://www.statelinemedia.world/ms/topics/kesehatan/</loc></url>
   <url><loc>https://www.statelinemedia.world/ms/topics/kesehatanwanita/</loc></url>
   <url><loc>https://www.statelinemedia.world/ms/topics/kimjongun/</loc></url>
@@ -2914,6 +3057,7 @@
   <url><loc>https://www.statelinemedia.world/ms/topics/ligaindonesia/</loc></url>
   <url><loc>https://www.statelinemedia.world/ms/topics/lingkungan/</loc></url>
   <url><loc>https://www.statelinemedia.world/ms/topics/liverpool/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ms/topics/luhut/</loc></url>
   <url><loc>https://www.statelinemedia.world/ms/topics/macankemayoran/</loc></url>
   <url><loc>https://www.statelinemedia.world/ms/topics/makanbergizigratis/</loc></url>
   <url><loc>https://www.statelinemedia.world/ms/topics/mbg/</loc></url>
@@ -2925,6 +3069,7 @@
   <url><loc>https://www.statelinemedia.world/ms/topics/naturalisasi/</loc></url>
   <url><loc>https://www.statelinemedia.world/ms/topics/netanyahu/</loc></url>
   <url><loc>https://www.statelinemedia.world/ms/topics/netflix/</loc></url>
+  <url><loc>https://www.statelinemedia.world/ms/topics/nusronwahid/</loc></url>
   <url><loc>https://www.statelinemedia.world/ms/topics/olahraga/</loc></url>
   <url><loc>https://www.statelinemedia.world/ms/topics/orangutan/</loc></url>
   <url><loc>https://www.statelinemedia.world/ms/topics/oregon/</loc></url>
@@ -2987,7 +3132,11 @@
   <url><loc>https://www.statelinemedia.world/artikel/2026-10-22-letkol-arman-tersangka-rumah-dinas-judol</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/artikel/2026-10-22-mou-badr-indonesia-turki-qatar-pakistan</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/artikel/2026-10-22-nusron-hadir-sidang-kabinet-usai-dua-kali-mangkir-kpk</loc><lastmod>2026-10-22</lastmod></url>
-  <url><loc>https://www.statelinemedia.world/artikel/2026-10-22-serangan-bandara-dammam-ladang-minyak-shaybah-3-tewas</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/artikel/2026-10-22-sahroni-ukuran-korupsi-niat-jahat-bukan-rugi-negara</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/artikel/2026-10-22-lecornu-akui-gagal-paris-larang-demo-jelang-aksi-24-okt</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/artikel/2026-10-22-103-siswa-smpn-2-cisarua-diduga-keracunan-mbg</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/artikel/2026-10-22-lakers-hancurkan-warriors-127-105</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/artikel/2026-10-22-job-fair-jakarta-12-ribu-lowongan</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/artikel/hasil-sabah-vs-dortmund</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://www.statelinemedia.world/artikel/hasil-fenerbahce-vs-slavia-prague</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://www.statelinemedia.world/artikel/2026-10-21-raja-ampat-surga-bawah-laut</loc><lastmod>2026-10-21</lastmod></url>
@@ -3800,7 +3949,11 @@
   <url><loc>https://www.statelinemedia.world/en/article/2026-10-22-letkol-arman-tersangka-rumah-dinas-judol</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/en/article/2026-10-22-mou-badr-indonesia-turki-qatar-pakistan</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/en/article/2026-10-22-nusron-hadir-sidang-kabinet-usai-dua-kali-mangkir-kpk</loc><lastmod>2026-10-22</lastmod></url>
-  <url><loc>https://www.statelinemedia.world/en/article/2026-10-22-serangan-bandara-dammam-ladang-minyak-shaybah-3-tewas.en</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/en/article/2026-10-22-sahroni-ukuran-korupsi-niat-jahat-bukan-rugi-negara</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/en/article/2026-10-22-lecornu-akui-gagal-paris-larang-demo-jelang-aksi-24-okt</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/en/article/2026-10-22-103-siswa-smpn-2-cisarua-diduga-keracunan-mbg</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/en/article/2026-10-22-job-fair-jakarta-12-ribu-lowongan</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/en/article/2026-10-22-lakers-hancurkan-warriors-127-105</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/en/article/sabah-vs-dortmund-result</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://www.statelinemedia.world/en/article/fenerbahce-vs-slavia-prague-result</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://www.statelinemedia.world/en/article/2026-10-21-raja-ampat-surga-bawah-laut</loc><lastmod>2026-10-21</lastmod></url>
@@ -4008,6 +4161,12 @@
   <url><loc>https://www.statelinemedia.world/en/article/venezia-vs-napoli-result</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://www.statelinemedia.world/en/article/2026-10-18-wajib-halal-berlaku-hari-ini-tanpa-sanksi</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://www.statelinemedia.world/en/article/rabies-bats-in-los-angeles-break-record-76-confirmed-residents</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/en/article/kenya-confirms-4-new-ebola-cases-3-patients-are-medical-workers</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/en/article/cost-of-living-protest-wave-spreads-to-4-european-countries</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/en/article/truck-plows-into-pilgrims-in-gwalior-12-dead</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/en/article/indonesias-forest-fire-carbon-emissions-highest-in-the-world</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/en/article/lille-vs-brest-result-giroud-penalty-saves-les-dogues-in-1-1-draw</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/en/article/venezia-vs-napoli-result-akor-adams-goal-silences-napoli-1-0</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://www.statelinemedia.world/en/article/75th-anniversary-of-prabowo-national-cultural-day</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://www.statelinemedia.world/en/article/2026-10-17-anak-krakatau-erupts-five-times-ash-banten-lampung</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://www.statelinemedia.world/en/article/2026-10-17-antam-gold-price-rises-october-17-2026</loc><lastmod>2026-10-17</lastmod></url>
@@ -4161,7 +4320,6 @@
   <url><loc>https://www.statelinemedia.world/en/article/mbg-officer-struck-in-kppg-bogor-police-reveal-identity</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://www.statelinemedia.world/en/article/megawati-hangestri-hillstate-debut-14-points-3-0-loss</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://www.statelinemedia.world/en/article/minibus-crashes-into-channel-tunnel-freight-train-calais-19-injured</loc><lastmod>2026-10-16</lastmod></url>
-  <url><loc>https://www.statelinemedia.world/en/article/morgan-gamble-a-different-world-star-killed-in-crash</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://www.statelinemedia.world/en/article/nasdaq-plummets-ai-stocks-crash-amid-hot-us-inflation</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://www.statelinemedia.world/en/article/national-police-chief-asks-mui-to-issue-fatwa-declaring-vape-haram</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://www.statelinemedia.world/en/article/netflix-cuts-1000-jobs-largest-layoffs-since-2022</loc><lastmod>2026-10-16</lastmod></url>
@@ -4197,6 +4355,7 @@
   <url><loc>https://www.statelinemedia.world/en/article/vitalik-buterin-launches-tor-based-privacy-ai-agent</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://www.statelinemedia.world/en/article/washington-post-journalist-beaten-by-israeli-settlers-in-west-bank</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://www.statelinemedia.world/en/article/yadi-timo-senior-actor-passes-away-at-66</loc><lastmod>2026-10-16</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/en/article/morgan-gamble-actor-from-a-different-world-dies-in-accident</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://www.statelinemedia.world/en/article/15-tons-of-dry-ice-dispersed-in-palembang-over-karhutla-smoke-fog</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/en/article/8-us-states-sue-openai-over-chatgpt-endangering-children</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/en/article/amaludin-syarif-icon-cover-mp3-4shared-has-died</loc><lastmod>2026-10-15</lastmod></url>
@@ -4212,7 +4371,6 @@
   <url><loc>https://www.statelinemedia.world/en/article/getty-images-bankrupt-borrowed-377-trillion</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/en/article/hayden-panettieres-911-call-recording-released-to-the-public</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/en/article/home-minister-dismisses-gowa-regent-husniah-talenrang</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://www.statelinemedia.world/en/article/ihsg-raised-133-to-5863-pulled-by-hot-us-inflation</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/en/article/imf-warns-asia-economic-slowdown</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/en/article/infantino-fixed-balogun-red-card</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/en/article/istanbul-floods-kill-3-2700-evacuated</loc><lastmod>2026-10-15</lastmod></url>
@@ -4264,6 +4422,7 @@
   <url><loc>https://www.statelinemedia.world/en/article/wisconsin-piper-plane-crash-six-killed</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/en/article/yorkshire-tiger-inquest-william-chapman</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/en/article/zelenskyy-resumes-russian-refinery-strikes-truce-collapses</loc><lastmod>2026-10-15</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/en/article/jci-plunges-133-to-5863-dragged-by-hot-us-inflation</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/en/article/ajaib-pendanaan-43-triliun</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://www.statelinemedia.world/en/article/aldeguer-patah-tangan-mandalika</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://www.statelinemedia.world/en/article/alergi-penyebab-cara-mengatasi</loc><lastmod>2026-10-14</lastmod></url>
@@ -4620,6 +4779,11 @@
   <url><loc>https://www.statelinemedia.world/es/article/2026-10-22-letkol-arman-tersangka-rumah-dinas-judol</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/es/article/2026-10-22-mou-badr-indonesia-turki-qatar-pakistan</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/es/article/2026-10-22-nusron-hadir-sidang-kabinet-usai-dua-kali-mangkir-kpk</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/lecornu-admite-fallo-de-seguridad-paris-prohibe-manifestaciones</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/sahroni-la-medida-de-la-corrupcion-debe-ser-la-intencion-maliciosa</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/2026-10-22-103-siswa-smpn-2-cisarua-diduga-keracunan-mbg</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/2026-10-22-job-fair-jakarta-12-ribu-lowongan</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/2026-10-22-lakers-hancurkan-warriors-127-105</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/es/article/fenerbahce-tira-por-la-borda-la-victoria-y-empata-2-2-con-el-slavia</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://www.statelinemedia.world/es/article/dortmund-vence-2-1-al-sabah-con-dos-goles-de-guirassy</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://www.statelinemedia.world/es/article/2026-10-21-raja-ampat-surga-bawah-laut</loc><lastmod>2026-10-21</lastmod></url>
@@ -4781,6 +4945,44 @@
   <url><loc>https://www.statelinemedia.world/es/article/record-de-murcielagos-con-rabia-en-los-angeles-76-ejemplares</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://www.statelinemedia.world/es/article/la-familia-de-sefriel-exige-a-la-policia-investigar-la-muerte-en-el</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://www.statelinemedia.world/es/article/la-niebla-toxica-de-los-incendios-forestales-y-de-turba-perturba</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/kenia-confirma-4-nuevos-casos-de-ebola-3-de-ellos-en-personal</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/disturbios-en-francia-arden-el-ayuntamiento-de-limoges-incendiado</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/19-muertos-en-una-estampida-en-un-pandal-de-durga-puja-en-kolkata</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/7-muertos-en-la-explosion-en-una-base-militar-de-canada-hospital</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/la-torre-del-ayuntamiento-de-limoges-se-derrumba-tras-ser-incendiada</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/el-sisi-listo-para-defender-a-arabia-saudita-parlamento-de-egipto</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/messi-marca-2-goles-inter-miami-vence-3-1-a-atlanta-united</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/namu-balai-kota-500-warga-asaltan-la-primera-gira-entradas-agotadas</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/el-inspector-general-de-policia-r-napoleon-bonaparte-fallecio</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/desmantelan-fabrica-ilegal-de-tramadol-en-bandung-5-detenidos</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/pdip-destituye-al-bupati-klaten-hamenang-tras-ser-nombrado</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/la-policia-de-albania-dispara-balas-de-goma-contra-los</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/los-peores-disturbios-en-francia-mas-de-1000-personas-detenidas</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/la-ola-de-protestas-por-el-costo-de-vida-se-extiende-a-4-paises-de</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/disturbios-lanzamiento-de-bengalas-marca-el-persita-vs-persija-3-2</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/salta-de-un-crucero-de-royal-caribbean-mujer-de-44-anos-sobrevive</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/semeru-entra-en-erupcion-de-forma-consecutiva-el-estado-se-mantiene</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/el-semeru-entra-en-erupcion-de-nuevo-en-la-madrugada-del-domingo-29</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/dron-ukraina-serang-st-petersburg-terminal-minyak-terbakar</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/ataque-a-buques-en-el-estrecho-de-ormuz-marca-un-record-5</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/el-horno-de-fundicion-smelter-1-de-pt-oss-en-konawe-explota-sin</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/apagon-nacional-en-sri-lanka-exceso-de-energia-solar-sospechoso-de</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/encuesta-ppi-654-de-los-encuestados-esta-satisfecho-con-el</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/presunto-blanqueador-de-75-millones-detenido-en-bangkok</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/incendios-forestales-aun-no-extinguidos-acceso-a-penanjakan-bromo</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/tragedia-en-la-playa-batu-pampang-4-turistas-muertos-operacion-sar</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/camion-arrolla-a-peregrinos-en-gwalior-12-personas-muertas</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/camion-arrolla-partido-de-futbol-infantil-en-kansas-2-muertos-y-11</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/trump-admite-que-el-asesinato-del-lider-irani-llego-demasiado-tarde</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/trump-anula-las-sanciones-contra-rusia-zelensky-decision-muy</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/resultado-bayern-vs-leipzig-hat-trick-de-luis-diaz-die-roten-ganan</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/bologna-vs-inter-remontada-3-1-nerazzurri-a-la-cima</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/resultado-leeds-vs-mu-calvert-lewin-frustra-la-victoria-del-mu</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/lille-vs-brest-penalti-giroud-salva-al-les-dogues-1-1</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/resultado-real-betis-vs-barcelona-golazo-de-yamal-el-barca-gana-5-2</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/strasbourg-vs-psg-remontada-1-3-lleva-al-psg-a-la-cima-de-la-ligue-1</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/venezia-vs-napoli-gol-de-akor-adams-silencia-al-napoli-1-0</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/la-armada-de-indonesia-tni-al-desmantela-un-sindicato-de</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://www.statelinemedia.world/es/article/ancianos-rechazados-para-recibir-atencion-medica-por-no-tener-la</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://www.statelinemedia.world/es/article/el-humo-de-karhutla-llega-hasta-jakarta-pramono-asegura-367</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://www.statelinemedia.world/es/article/crisis-bbm-dia-quinto-antrean-4-km-eceran-rp45-mil-en-manado</loc><lastmod>2026-10-17</lastmod></url>
@@ -4807,6 +5009,15 @@
   <url><loc>https://www.statelinemedia.world/es/article/sismo-de-magnitud-69-sacude-kamchatka-rusia-habitantes-se-desplazan</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://www.statelinemedia.world/es/article/viral-tras-llevarse-un-gato-persa-un-vendedor-de-fideos-con-pollo</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://www.statelinemedia.world/es/article/adolescente-noruego-condenado-a-20-anos-por-trama-asesina-en-ru</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/el-volcan-anak-krakatau-entra-en-erupcion-cinco-veces-y-la-ceniza</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/asn-pppk-di-barsel-meninggal-setelah-sesak-napas-di-tengah-kabut</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/el-jefe-de-tk-en-china-es-condenado-a-cadena-perpetua-por-envenenar</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/china-propone-controles-de-exportacion-para-tecnologias-de-ia-y-chips</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/un-terremoto-de-magnitud-57-sacude-khuzdar-pakistan-y-las</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/duo-de-iphone-se-agota-en-cuestion-de-minutos-la-preventa-se-vende</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/los-incendios-forestales-del-monte-ringgit-arden-de-nuevo-llamas</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/incendio-en-un-resort-de-coxs-bazar-bangladesh-deja-10-muertos</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/km-prima-sentosa-terbakar-di-perairan-bengkulu-26-kru-selamat</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://www.statelinemedia.world/es/article/12-montanas-rusas-cerradas-tras-el-accidente-mortal-de-goliath-en</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://www.statelinemedia.world/es/article/accion-kamisan-numero-929-el-emotivo-momento-en-que-sumarsih-abraza</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://www.statelinemedia.world/es/article/adam-copeland-anuncia-que-2027-sera-el-ultimo-ano-de-su-carrera-como</loc><lastmod>2026-10-16</lastmod></url>
@@ -4896,7 +5107,6 @@
   <url><loc>https://www.statelinemedia.world/es/article/farel-prayoga-decepcionado-su-padre-vendia3-activos-por-rp400-juta</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/es/article/getty-images-solicita-la-bancarrota-atrapada-por-una-deuda-de</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/es/article/hat-trick-de-barcola-liverpool-aplasta-al-lask-6-3-en-la-liga-de</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://www.statelinemedia.world/es/article/ihsg-cae-133-hasta-5863-arrastrado-por-la-inflacion-caliente-de</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/es/article/infantino-presuntamente-gestiono-la-anulacion-de-la-tarjeta-roja-de</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/es/article/inundaciones-costeras-amenazan-11-regiones-olas-de-4-metros-acechan</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/es/article/inundaciones-mortales-en-estambul-3-muertos-2700-evacuados</loc><lastmod>2026-10-15</lastmod></url>
@@ -4940,6 +5150,7 @@
   <url><loc>https://www.statelinemedia.world/es/article/veda-termina-sexto-en-moto3-mandalika-el-arbitro-danes</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/es/article/zelenskyy-ucrania-continua-atacando-fabricas-rusas-el-cierre-de-la</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/es/article/ue-aplaza-la-cumbre-del-golfo-en-arabia-saudi-tras-el-ataque-huti</loc><lastmod>2026-10-15</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/es/article/el-ihsg-se-desploma-un-133-hasta-5863-arrastrado-por-la</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/es/article/10-consejos-para-viajar-al-extranjero-sin-bolsillo</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://www.statelinemedia.world/es/article/10-lugares-turisticos-mas-populares-de-bali-que-hay-que-visitar</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://www.statelinemedia.world/es/article/12-destinos-turisticos-mas-recientes-de-jogja-que-estan-de-moda-y</loc><lastmod>2026-10-14</lastmod></url>
@@ -5171,6 +5382,11 @@
   <url><loc>https://www.statelinemedia.world/pt/article/surpresa-em-lisboa-lask-linz-humilha-o-sporting-cp-por-3-2</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/pt/article/2026-10-22-mou-badr-indonesia-turki-qatar-pakistan</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/pt/article/2026-10-22-nusron-hadir-sidang-kabinet-usai-dua-kali-mangkir-kpk</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/pt/article/lecornu-admite-falha-de-seguranca-paris-proibe-manifestacoes-antes</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/pt/article/sahroni-a-medida-da-corrupcao-deve-ser-a-intencao-maliciosa-nao</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/pt/article/2026-10-22-103-siswa-smpn-2-cisarua-diduga-keracunan-mbg</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/pt/article/2026-10-22-job-fair-jakarta-12-ribu-lowongan</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/pt/article/2026-10-22-lakers-hancurkan-warriors-127-105</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/pt/article/fenerbahce-desperdica-vitoria-e-empata-com-slavia-praha-em-2-a-2</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://www.statelinemedia.world/pt/article/dortmund-vence-o-sabah-por-2-a-1-com-dois-gols-de-guirassy</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://www.statelinemedia.world/pt/article/2026-10-21-raja-ampat-surga-bawah-laut</loc><lastmod>2026-10-21</lastmod></url>
@@ -5423,7 +5639,6 @@
   <url><loc>https://www.statelinemedia.world/pt/article/gravacao-de-chamada-ao-911-de-hayden-panettiere-e-divulgada</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/pt/article/gubernur-bali-implementa-wfh-3-dias-para-acelerar-a-distribuicao-de</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/pt/article/hat-trick-de-barcola-liverpool-vence-lask-por-6-a-3-na-liga-dos</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://www.statelinemedia.world/pt/article/ihsg-cai-133-para-5863-arrastado-pela-inflacao-dos-eua-acima-do</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/pt/article/infantino-teria-articulado-anulacao-do-cartao-vermelho-de-balogun</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/pt/article/inundacao-costeira-ameaca-11-regioes-ondas-de-4-metros-espreitam-o</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/pt/article/inundacoes-mortais-em-istambul-3-mortos-2700-evacuados-escolas</loc><lastmod>2026-10-15</lastmod></url>
@@ -5463,6 +5678,7 @@
   <url><loc>https://www.statelinemedia.world/pt/article/ue-adia-cupula-do-golfo-na-arabia-saudita-devido-a-ataques-houthis</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/pt/article/veda-chega-ao-sexto-lugar-na-moto3-mandalika-segundo-juiz-dinamarques</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/pt/article/zelensky-ucrania-continua-a-atacar-fabricas-russas</loc><lastmod>2026-10-15</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/pt/article/ihsg-despenca-133-para-5863-arrastado-pela-inflacao-quente-dos-eua</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/pt/article/10-alimentos-que-os-diabeticos-devem-evitar-obrigatoriamente</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://www.statelinemedia.world/pt/article/10-dicas-para-ferias-economicas-no-exterior-conforto-sem-estourar-o</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://www.statelinemedia.world/pt/article/12-destinos-turisticos-mais-recentes-de-jogja-que-estao-em-alta-e</loc><lastmod>2026-10-14</lastmod></url>
@@ -5709,6 +5925,11 @@
   <url><loc>https://www.statelinemedia.world/ar/article/2026-10-22-letkol-arman-tersangka-rumah-dinas-judol</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ar/article/2026-10-22-mou-badr-indonesia-turki-qatar-pakistan</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ar/article/2026-10-22-nusron-hadir-sidang-kabinet-usai-dua-kali-mangkir-kpk</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ar/article/2026-10-22-lecornu-akui-gagal-paris-larang-demo-jelang-aksi-24-okt</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ar/article/2026-10-22-sahroni-ukuran-korupsi-niat-jahat-bukan-rugi-negara</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ar/article/2026-10-22-103-siswa-smpn-2-cisarua-diduga-keracunan-mbg</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ar/article/2026-10-22-job-fair-jakarta-12-ribu-lowongan</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ar/article/2026-10-22-lakers-hancurkan-warriors-127-105</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ar/article/hasil-sabah-vs-dortmund</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ar/article/hasil-fenerbahce-vs-slavia-prague</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ar/article/2026-10-21-raja-ampat-surga-bawah-laut</loc><lastmod>2026-10-21</lastmod></url>
@@ -5929,7 +6150,6 @@
   <url><loc>https://www.statelinemedia.world/ar/article/eu-arab-saudi-houthi</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ar/article/gempa-beruntun-sukabumi-bogor-bmkg-ar</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ar/article/getty-images-377</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://www.statelinemedia.world/ar/article/ihsg-133-5863</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ar/article/infantino-balogun-kartu-merah-trump-ar</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ar/article/inquest-tiger-yorkshire-william-chapman-ar</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ar/article/izin-konser-andrea-bocelli-borobudur-dicabut-polisi-ar</loc><lastmod>2026-10-15</lastmod></url>
@@ -5985,6 +6205,7 @@
   <url><loc>https://www.statelinemedia.world/ar/article/as-pertimbangkan-moab-serang-nuklir-iran</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ar/article/suroso-isnandar-dirut-pln</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ar/article/spacex-luncurkan-misi-rahasia-ussf-481</loc><lastmod>2026-10-15</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ar/article/ihsg-anjlok-1-33-persen-15-oktober-2026</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ar/article/2026-35-street-fighter-14</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ar/article/alergi-penyebab-cara-mengatasi-ar</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ar/article/alternative-credit-scoring-umkm-ar</loc><lastmod>2026-10-14</lastmod></url>
@@ -6172,6 +6393,11 @@
   <url><loc>https://www.statelinemedia.world/zh/article/2026-10-22-letkol-arman-tersangka-rumah-dinas-judol</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/zh/article/2026-10-22-mou-badr-indonesia-turki-qatar-pakistan</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/zh/article/2026-10-22-nusron-hadir-sidang-kabinet-usai-dua-kali-mangkir-kpk</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-22-lecornu-akui-gagal-paris-larang-demo-jelang-aksi-24-okt</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-22-sahroni-ukuran-korupsi-niat-jahat-bukan-rugi-negara</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-22-103-siswa-smpn-2-cisarua-diduga-keracunan-mbg</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-22-job-fair-jakarta-12-ribu-lowongan</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-22-lakers-hancurkan-warriors-127-105</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/zh/article/hasil-sabah-vs-dortmund</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://www.statelinemedia.world/zh/article/hasil-fenerbahce-vs-slavia-prague</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://www.statelinemedia.world/zh/article/2026-10-21-raja-ampat-surga-bawah-laut</loc><lastmod>2026-10-21</lastmod></url>
@@ -6315,7 +6541,7 @@
   <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-as-desak-israel-tindak-kekerasan-pemukim-tepi-barat</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-badai-trudy-kategori-2-meksiko</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-bgn-sidang-etik-korwil-sppg-pencambukan</loc><lastmod>2026-10-18</lastmod></url>
-  <url><loc>https://www.statelinemedia.world/zh/article/bmkg-1018</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-bmkg-cuaca-ekstrem-hujan-lebat-angin-kencang</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://www.statelinemedia.world/zh/article/bus-chandra-jayangawi3</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-debt-collector-ormas-bentrok-bandung</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-ebola-kenya-kasus-meningkat</loc><lastmod>2026-10-18</lastmod></url>
@@ -6333,6 +6559,46 @@
   <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-kelelawar-rabies-los-angeles-pecah-rekor</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-keluarga-sefriel-desak-usut-bromo</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-kemenhub-2458-penerbangan-terdampak-karhutla</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-kenya-ebola-kasus-baru-total-7</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-kerusuhan-prancis-membara-1800-ditangkap</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-kolkata-durga-puja-terinjak-injak-19-tewas</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-ledakan-latihan-wainwright-7-tewas-rs-kewalahan</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-limoges-balai-kota-menara-runtuh-dibakar-perusuh</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-mesir-siaga-bela-arab-saudi-sidang-darurat-parlemen</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-mui-kaji-mendalam-fatwa-haram-vape</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-namu-balai-kota-diserbu-warga-tiket-ludes</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-napoleon-bonaparte-meninggal-dunia</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-pabrik-obat-ilegal-tramadol-bandung-digerebek</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-pdip-pecat-bupati-klaten-hamenang</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/itbdody-pashacianjur</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-polda-riau-gerebek-8-thm-2-positif-narkoba</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-polisi-albania-tembakkan-peluru-karet-7-petugas-dibebastugaskan</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-prancis-rusuh-terburuk-dasawarsa-1200-ditangkap</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-protes-biaya-hidup-menyebar-4-negara-eropa</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-ricuh-persita-vs-persija-suar-babak-kedua-tertunda</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-royal-caribbean-wanita-selamat-20-jam-laut-ionia</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-semeru-erupsi-beruntun-level-iii-siaga</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-semeru-erupsi-lagi-dini-hari-29-gempa-letusan</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-serangan-drone-ukraina-st-petersburg-terminal-minyak-terbakar</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-serangan-selat-hormuz-rekor-tertinggi</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-smelter-pt-oss-konawe-meledak-tak-ada-korban</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-sri-lanka-padam-listrik-se-negara-surplus-solar</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-survei-ppi-654-persen-puas-pemerintah-prabowo</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-tersangka-pencucian-uang-75-juta-ditangkap-bangkok</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-tnbts-batasi-akses-penanjakan-bromo</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-tragedi-pantai-batu-pampang-sumbawa</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-truk-seruduk-peziarah-gwalior</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-truk-terjang-laga-sepak-bola-anak-kansas-2-tewas-11-luka</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-trump-akui-bunuh-pemimpin-iran-kelewatan</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-18-trump-batalkan-sanksi-rusia-zelensky-kecewa</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/hasil-bayern-vs-leipzig</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/hasil-bologna-vs-inter</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/hasil-leeds-vs-man-united</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/hasil-lille-vs-brest</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/hasil-real-betis-vs-barcelona</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/hasil-strasbourg-vs-psg</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/hasil-venezia-vs-napoli</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/kodaeral-i-bongkar-sindikat-oplos-lpg-deli-serdang</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://www.statelinemedia.world/zh/article/antonio-raimondo-hat-trick-frosinone-serie-a-zh</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://www.statelinemedia.world/zh/article/2026-10-17-asap-karhutla-masuk-jakarta-pramono-siagakan-faskes</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://www.statelinemedia.world/zh/article/iphone-duo7500</loc><lastmod>2026-10-17</lastmod></url>
@@ -6349,6 +6615,17 @@
   <url><loc>https://www.statelinemedia.world/zh/article/krisis-bbm-hari-kelima-antrean-eceran-mahal-manado</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://www.statelinemedia.world/zh/article/grynspan-unggul-jajak-pendapat-sekjen-pbb</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://www.statelinemedia.world/zh/article/2026-10-17-msci-usulkan-indonesia-standalone-market</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-17-anak-krakatau-erupsi-lima-kali-abu-banten-lampung</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-17-asn-pppk-barsel-meninggal-kabut-asap</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-17-bos-tk-china-seumur-hidup-racuni-247-anak</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/bpk27kip-kuliah320</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-17-china-usulkan-kontrol-ekspor-teknologi-ai-chip</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-17-garudayaksa-comeback-arema-3-1-pakansari</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-17-gempa-m57-guncang-khuzdar-pakistan</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-17-gempa-m69-kamchatka-rusia</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/antam700025720002387000</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-17-karhutla-gunung-ringgit-pasuruan-api-terlihat-sidoarjo</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/2026-10-17-kebakaran-resort-cox-bazar-bangladesh-10-tewas</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://www.statelinemedia.world/zh/article/12six-flags-goliath</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://www.statelinemedia.world/zh/article/ac-hattrick-cisse-rossoneri-4-0</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://www.statelinemedia.world/zh/article/anthropicipo15</loc><lastmod>2026-10-16</lastmod></url>
@@ -6422,7 +6699,6 @@
   <url><loc>https://www.statelinemedia.world/zh/article/getty-imagesrp377</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/zh/article/gowahusniah-talenrang</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/zh/article/gubernur-bali-wfh-3-hari-bbm-zh</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://www.statelinemedia.world/zh/article/ihsg-5863-133</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/zh/article/infantino-balogun-kartu-merah-trump-zh</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/zh/article/inquest-tiger-yorkshire-william-chapman-zh</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/zh/article/izin-konser-andrea-bocelli-borobudur-dicabut-polisi-zh</loc><lastmod>2026-10-15</lastmod></url>
@@ -6430,7 +6706,6 @@
   <url><loc>https://www.statelinemedia.world/zh/article/janice-tjen-16-ann-li</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/zh/article/japto-again-leads-pancasila-youth-through-acclamation</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/zh/article/jeffrey-donaldson15</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://www.statelinemedia.world/zh/article/jerome-polinkalimantan</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/zh/article/kasus-ice-new-york-peluru-bersarang-leher-korban-zh</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/zh/article/les-parisiens4-2</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/zh/article/m41pamijahan</loc><lastmod>2026-10-15</lastmod></url>
@@ -6474,6 +6749,8 @@
   <url><loc>https://www.statelinemedia.world/zh/article/veda-ega-pratama-finis-keenam-moto3-mandalika</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/zh/article/suroso-isnandar-dirut-pln</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/zh/article/smrc-mdkdm</loc><lastmod>2026-10-15</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/ihsg-anjlok-1-33-persen-15-oktober-2026</loc><lastmod>2026-10-15</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/zh/article/jerome-polin-murka-pejabat-kalimantan-karhutla</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/zh/article/2026a1-a-es15ace-a-tm-c1</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://www.statelinemedia.world/zh/article/2026bbm-qr-codemypertamina</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://www.statelinemedia.world/zh/article/2026fifa35</loc><lastmod>2026-10-14</lastmod></url>
@@ -6664,6 +6941,11 @@
   <url><loc>https://www.statelinemedia.world/hi/article/2026-10-22-letkol-arman-tersangka-rumah-dinas-judol</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/hi/article/2026-10-22-mou-badr-indonesia-turki-qatar-pakistan</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/hi/article/2026-10-22-nusron-hadir-sidang-kabinet-usai-dua-kali-mangkir-kpk</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/hi/article/2026-10-22-lecornu-akui-gagal-paris-larang-demo-jelang-aksi-24-okt</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/hi/article/2026-10-22-sahroni-ukuran-korupsi-niat-jahat-bukan-rugi-negara</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/hi/article/2026-10-22-103-siswa-smpn-2-cisarua-diduga-keracunan-mbg</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/hi/article/2026-10-22-job-fair-jakarta-12-ribu-lowongan</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/hi/article/2026-10-22-lakers-hancurkan-warriors-127-105</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/hi/article/hasil-sabah-vs-dortmund</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://www.statelinemedia.world/hi/article/hasil-fenerbahce-vs-slavia-prague</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://www.statelinemedia.world/hi/article/2026-10-21-raja-ampat-surga-bawah-laut</loc><lastmod>2026-10-21</lastmod></url>
@@ -6751,7 +7033,7 @@
   <url><loc>https://www.statelinemedia.world/hi/article/2026-10-19-helen-haines-diserang-wangaratta</loc><lastmod>2026-10-19</lastmod></url>
   <url><loc>https://www.statelinemedia.world/hi/article/2026-10-19-houthi-target-makkah-madinah</loc><lastmod>2026-10-19</lastmod></url>
   <url><loc>https://www.statelinemedia.world/hi/article/ihsg-5000-43</loc><lastmod>2026-10-19</lastmod></url>
-  <url><loc>https://www.statelinemedia.world/hi/article/kpk-bnpb</loc><lastmod>2026-10-19</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/hi/article/2026-10-19-kpk-alasan-tak-kenakan-hukuman-mati-bnpb</loc><lastmod>2026-10-19</lastmod></url>
   <url><loc>https://www.statelinemedia.world/hi/article/2026-10-19-macron-pertahankan-mendagri-rusuh-prancis</loc><lastmod>2026-10-19</lastmod></url>
   <url><loc>https://www.statelinemedia.world/hi/article/2026-10-19-orang-utan-kalteng-dievakuasi-bksda</loc><lastmod>2026-10-19</lastmod></url>
   <url><loc>https://www.statelinemedia.world/hi/article/2026-10-19-trump-dukung-netanyahu-pemilu-israel</loc><lastmod>2026-10-19</lastmod></url>
@@ -6885,7 +7167,6 @@
   <url><loc>https://www.statelinemedia.world/hi/article/farel-prayoga-40</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/hi/article/gempa-beruntun-sukabumi-bogor-bmkg-hi</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/hi/article/getty-images-377</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://www.statelinemedia.world/hi/article/ihsg-133-5863</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/hi/article/imf-2027-44</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/hi/article/infantino-balogun-kartu-merah-trump-hi</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/hi/article/infantino-trump-balogun</loc><lastmod>2026-10-15</lastmod></url>
@@ -6893,11 +7174,8 @@
   <url><loc>https://www.statelinemedia.world/hi/article/izin-konser-andrea-bocelli-borobudur-dicabut-polisi-hi</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/hi/article/janice-tjen-wuhan-16-ann-li</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/hi/article/jeffrey-donaldson-15</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://www.statelinemedia.world/hi/article/kabut-asap-kualanamu-penerbangan-terganggu-hi</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://www.statelinemedia.world/hi/article/kantor-atr-bpn-karawang-terbakar-shm-habis-hi</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/hi/article/kasus-ice-new-york-peluru-bersarang-leher-korban-hi</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/hi/article/kemendagri-pecat-bupati-gowa-husniah-talenrang-hi</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://www.statelinemedia.world/hi/article/mahasiswa-sultra-lapor-dugaan-nikel-ilegal-bareskrim-hi</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/hi/article/moto3-mandalika-6</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/hi/article/motogp-2026-2</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/hi/article/nycfc-2-0-mls</loc><lastmod>2026-10-15</lastmod></url>
@@ -6940,6 +7218,10 @@
   <url><loc>https://www.statelinemedia.world/hi/article/survei-smrc-mahfud-md-puncaki-kepemimpinan-nasional</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/hi/article/jaleswari-soroti-dedi-mulyadi-barak-tni</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/hi/article/spacex-luncurkan-misi-rahasia-ussf-481</loc><lastmod>2026-10-15</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/hi/article/ihsg-133-ke-5863</loc><lastmod>2026-10-15</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/hi/article/kabut-asap-kualanamu-penerbangan-terganggu</loc><lastmod>2026-10-15</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/hi/article/kantor-atr-bpn-karawang-terbakar-shm-habis</loc><lastmod>2026-10-15</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/hi/article/mahasiswa-sultra-lapor-dugaan-nikel-ilegal-bareskrim</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/hi/article/12-tempat-wisata-jogja-terbaru-yang-lagi-hits-dan-populer</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://www.statelinemedia.world/hi/article/ajaib-sbi-holdings-jepang-rp43-triliun</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://www.statelinemedia.world/hi/article/alergi-penyebab-cara-mengatasi-hi</loc><lastmod>2026-10-14</lastmod></url>
@@ -7119,6 +7401,11 @@
   <url><loc>https://www.statelinemedia.world/fr/article/2026-10-22-letkol-arman-tersangka-rumah-dinas-judol</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/fr/article/2026-10-22-mou-badr-indonesia-turki-qatar-pakistan</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/fr/article/2026-10-22-nusron-hadir-sidang-kabinet-usai-dua-kali-mangkir-kpk</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/fr/article/lecornu-reconnait-un-echec-securitaire-paris-interdit-les</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/fr/article/sahroni-la-mesure-de-la-corruption-doit-reposer-sur-lintention</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/fr/article/2026-10-22-103-siswa-smpn-2-cisarua-diduga-keracunan-mbg</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/fr/article/2026-10-22-job-fair-jakarta-12-ribu-lowongan</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/fr/article/2026-10-22-lakers-hancurkan-warriors-127-105</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/fr/article/fenerbahce-laisse-echapper-la-victoire-tenue-en-echec-2-2-par-le</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://www.statelinemedia.world/fr/article/dortmund-simpose-2-1-face-a-sabah-double-de-guirassy</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://www.statelinemedia.world/fr/article/2026-10-21-raja-ampat-surga-bawah-laut</loc><lastmod>2026-10-21</lastmod></url>
@@ -7372,7 +7659,6 @@
   <url><loc>https://www.statelinemedia.world/fr/article/les-etats-unis-envisagent-dassouplir-les-sanctions-contre-les</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/fr/article/les-etats-unis-envisagent-dutiliser-la-bombe-geante-moab-pour</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/fr/article/les-frappes-russes-visent-lenergie-ukrainienne-malgre-la-treve</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://www.statelinemedia.world/fr/article/lihsg-chute-de-133-a-5863-entraine-par-une-inflation</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/fr/article/lindonesie-ouvre-lexpo-2026-avec-175-milliards-de-dollars</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/fr/article/linondation-rob-menace-11-regions-des-vagues-de-4-metres-scrutees</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/fr/article/lue-reporte-le-sommet-du-golfe-en-arabie-saoudite-a-la-suite-des</loc><lastmod>2026-10-15</lastmod></url>
@@ -7401,6 +7687,7 @@
   <url><loc>https://www.statelinemedia.world/fr/article/un-brouillard-de-fumee-vous-couvre-votre-vol-est-perturbe</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/fr/article/veda-a-termine-sixieme-en-moto3-mandalika</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/fr/article/zelensky-lukraine-continue-dattaquer-une-usine-russe-le</loc><lastmod>2026-10-15</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/fr/article/lihsg-chute-de-133-a-5-863-entraine-par-linflation-americaine</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/fr/article/10-aliments-a-proscrire-absolument-pour-les-diabetiques</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://www.statelinemedia.world/fr/article/10-aliments-interdits-que-les-diabetiques-doivent-absolument-eviter</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://www.statelinemedia.world/fr/article/10-conseils-pour-voyager-a-letranger-avec-un-petit-budget</loc><lastmod>2026-10-14</lastmod></url>
@@ -7650,6 +7937,10 @@
   <url><loc>https://www.statelinemedia.world/de/article/2026-10-22-letkol-arman-tersangka-rumah-dinas-judol</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/de/article/2026-10-22-mou-badr-indonesia-turki-qatar-pakistan</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/de/article/2026-10-22-nusron-hadir-sidang-kabinet-usai-dua-kali-mangkir-kpk</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/de/article/sahroni-korruptionsmastab-muss-bose-absicht-sein-nicht-blo-ein</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/de/article/2026-10-22-103-siswa-smpn-2-cisarua-diduga-keracunan-mbg</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/de/article/2026-10-22-job-fair-jakarta-12-ribu-lowongan</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/de/article/2026-10-22-lakers-hancurkan-warriors-127-105</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/de/article/fenerbahce-verschenkt-sieg-nur-22-gegen-slavia-prag</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://www.statelinemedia.world/de/article/dortmund-gewinnt-21-gegen-sabah-zwei-tore-von-guirassy</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://www.statelinemedia.world/de/article/2026-10-21-raja-ampat-surga-bawah-laut</loc><lastmod>2026-10-21</lastmod></url>
@@ -7889,7 +8180,6 @@
   <url><loc>https://www.statelinemedia.world/de/article/getty-images-meldet-insolvenz-an-belastet-mit-schulden-von-377</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/de/article/hattrick-von-barcola-liverpool-deklassiert-lask-6-3-in-der</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/de/article/ice-fall-in-new-york-kugel-im-nacken-eines-opfers</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://www.statelinemedia.world/de/article/ihsg-sturzt-um-133-auf-5863-ab-heier-us-inflation-zum-opfer</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/de/article/infantino-verweigert-rote-karte-nach-trump-telefon</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/de/article/iwf-warnt-asiens-wirtschaft-verlangsamt-sich-auf-44-im-jahr-2027</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/de/article/jaleswari-kritisiert-dedi-mulyadi-wegen-zu-tni-baracken-geschickter</loc><lastmod>2026-10-15</lastmod></url>
@@ -7936,6 +8226,7 @@
   <url><loc>https://www.statelinemedia.world/de/article/zelenskyj-ukraine-attackiert-russische-fabriken-weiter</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/de/article/zwei-frachtschiffe-in-der-strae-von-hormus-gesunken-ein</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/de/article/zwei-schiffe-in-rumanien-im-schwarzen-meer-in-brand-geraten-acht</loc><lastmod>2026-10-15</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/de/article/ihsg-sturzt-um-133-auf-5863-ab-mitgerissen-von-der-heien</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/de/article/10-tipps-fur-einen-urlaub-im-ausland-komfortabel-ohne-taschen</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://www.statelinemedia.world/de/article/277000-falle-von-atemwegserkrankungen-durch-rauch-von-wald-und</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://www.statelinemedia.world/de/article/7-sehenswurdigkeiten-die-man-ein-mal-im-leben-unbedingt-besuchen-muss</loc><lastmod>2026-10-14</lastmod></url>
@@ -8163,12 +8454,15 @@
   <url><loc>https://www.statelinemedia.world/ja/article/hasil-inter-vs-shakhtar-donetsk</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/hasil-lille-vs-galatasaray</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/hasil-real-madrid-vs-rb-leipzig</loc><lastmod>2026-10-22</lastmod></url>
-  <url><loc>https://www.statelinemedia.world/ja/article/laskcp3-2</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/hasil-sporting-cp-vs-lask-linz</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/2026-10-22-hari-santri-2026-upacara-serentak</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/2026-10-22-letkol-arman-tersangka-rumah-dinas-judol</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/2026-10-22-mou-badr-indonesia-turki-qatar-pakistan</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/2026-10-22-nusron-hadir-sidang-kabinet-usai-dua-kali-mangkir-kpk</loc><lastmod>2026-10-22</lastmod></url>
-  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-22-serangan-bandara-dammam-ladang-minyak-shaybah-3-tewas</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-22-lecornu-akui-gagal-paris-larang-demo-jelang-aksi-24-okt</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-22-sahroni-ukuran-korupsi-niat-jahat-bukan-rugi-negara</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-22-103-siswa-smpn-2-cisarua-diduga-keracunan-mbg</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-22-lakers-hancurkan-warriors-127-105</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/hasil-sabah-vs-dortmund</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/hasil-fenerbahce-vs-slavia-prague</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/2026-10-21-raja-ampat-surga-bawah-laut</loc><lastmod>2026-10-21</lastmod></url>
@@ -8313,7 +8607,7 @@
   <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-as-desak-israel-tindak-kekerasan-pemukim-tepi-barat</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-badai-trudy-kategori-2-meksiko</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-bgn-sidang-etik-korwil-sppg-pencambukan</loc><lastmod>2026-10-18</lastmod></url>
-  <url><loc>https://www.statelinemedia.world/ja/article/bmkg1018</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-bmkg-cuaca-ekstrem-hujan-lebat-angin-kencang</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-bus-chandra-jaya-tabrak-truk-ngawi-3-tewas</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-debt-collector-ormas-bentrok-bandung</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-ebola-kenya-kasus-meningkat</loc><lastmod>2026-10-18</lastmod></url>
@@ -8330,6 +8624,46 @@
   <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-kelelawar-rabies-los-angeles-pecah-rekor</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-keluarga-sefriel-desak-usut-bromo</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-kemenhub-2458-penerbangan-terdampak-karhutla</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-kenya-ebola-kasus-baru-total-7</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-kerusuhan-prancis-membara-1800-ditangkap</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-kolkata-durga-puja-terinjak-injak-19-tewas</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-ledakan-latihan-wainwright-7-tewas-rs-kewalahan</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-limoges-balai-kota-menara-runtuh-dibakar-perusuh</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-mesir-siaga-bela-arab-saudi-sidang-darurat-parlemen</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-mui-kaji-mendalam-fatwa-haram-vape</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-namu-balai-kota-diserbu-warga-tiket-ludes</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-napoleon-bonaparte-meninggal-dunia</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-pabrik-obat-ilegal-tramadol-bandung-digerebek</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-pdip-pecat-bupati-klaten-hamenang</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-pelari-itb-ultra-marathon-cianjur</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/polda-riau82</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-polisi-albania-tembakkan-peluru-karet-7-petugas-dibebastugaskan</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-prancis-rusuh-terburuk-dasawarsa-1200-ditangkap</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-protes-biaya-hidup-menyebar-4-negara-eropa</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-ricuh-persita-vs-persija-suar-babak-kedua-tertunda</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-royal-caribbean-wanita-selamat-20-jam-laut-ionia</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-semeru-erupsi-beruntun-level-iii-siaga</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-semeru-erupsi-lagi-dini-hari-29-gempa-letusan</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-serangan-drone-ukraina-st-petersburg-terminal-minyak-terbakar</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-serangan-selat-hormuz-rekor-tertinggi</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-smelter-pt-oss-konawe-meledak-tak-ada-korban</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-sri-lanka-padam-listrik-se-negara-surplus-solar</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-survei-ppi-654-persen-puas-pemerintah-prabowo</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-tersangka-pencucian-uang-75-juta-ditangkap-bangkok</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-tnbts-batasi-akses-penanjakan-bromo</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-tragedi-pantai-batu-pampang-sumbawa</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-truk-seruduk-peziarah-gwalior</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-truk-terjang-laga-sepak-bola-anak-kansas-2-tewas-11-luka</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-trump-akui-bunuh-pemimpin-iran-kelewatan</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-18-trump-batalkan-sanksi-rusia-zelensky-kecewa</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/hasil-bayern-vs-leipzig</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/hasil-bologna-vs-inter</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/hasil-leeds-vs-man-united</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/hasil-lille-vs-brest</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/hasil-real-betis-vs-barcelona</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/psg-1-3psg</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/hasil-venezia-vs-napoli</loc><lastmod>2026-10-18</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/tni-allpg5</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/2026-10-17-luthfi-dian-juara-dunia-junior-bwf-kairo-ja</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/2026-10-17-asap-karhutla-masuk-jakarta-pramono-siagakan-faskes</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/jkn-mobile</loc><lastmod>2026-10-17</lastmod></url>
@@ -8347,6 +8681,18 @@
   <url><loc>https://www.statelinemedia.world/ja/article/krisis-bbm-hari-kelima-antrean-eceran-mahal-manado</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/iphone-duoebay4999</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/2026-10-17-tni-amankan-senjata-caracal-dirampas-opm-maybrat</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-17-anak-krakatau-erupsi-lima-kali-abu-banten-lampung</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-17-asn-pppk-barsel-meninggal-kabut-asap</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-17-bos-tk-china-seumur-hidup-racuni-247-anak</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/bpk-2-7320</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-17-china-usulkan-kontrol-ekspor-teknologi-ai-chip</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-17-garudayaksa-comeback-arema-3-1-pakansari</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-17-gempa-m57-guncang-khuzdar-pakistan</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-17-gempa-m69-kamchatka-rusia</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-17-harga-emas-antam-naik-17-oktober-2026</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-17-karhutla-gunung-ringgit-pasuruan-api-terlihat-sidoarjo</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/2026-10-17-kebakaran-resort-cox-bazar-bangladesh-10-tewas</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/km-prima-sentosa-26</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/ac-hattrick-cisserossoneri-4-0</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/anthropicipo15</loc><lastmod>2026-10-16</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/bayan-resources3025261000</loc><lastmod>2026-10-16</lastmod></url>
@@ -8407,7 +8753,6 @@
   <url><loc>https://www.statelinemedia.world/ja/article/farel-prayoga4000</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/gempa-beruntun-sukabumi-bogor-bmkg-ja</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/getty-images37</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://www.statelinemedia.world/ja/article/ihsg-1335863</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/infantinobalogun</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/inquest-tiger-yorkshire-william-chapman-ja</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/izin-konser-andrea-bocelli-borobudur-dicabut-polisi-ja</loc><lastmod>2026-10-15</lastmod></url>
@@ -8426,7 +8771,6 @@
   <url><loc>https://www.statelinemedia.world/ja/article/ruben-onsu-sarwendah-konflik-memanas-ja</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/rusia-serang-energi-ukraina-gencatan-senjata-ja</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/spacexussf-481</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://www.statelinemedia.world/ja/article/syarat-ketentuan-ja</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/tandyo-budi-revita-ksad-maruli-wakil-panglima-tni-ja</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/trump-bangun-kasus-deportasi-ilhan-omar-ja</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/trump-batalkan-livestream-eksekusi-fort-hood-ja</loc><lastmod>2026-10-15</lastmod></url>
@@ -8467,6 +8811,7 @@
   <url><loc>https://www.statelinemedia.world/ja/article/smrc-mdkdm</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/jaleswari-soroti-dedi-mulyadi-barak-tni</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/ukraina-tuduh-spacex-batasi-starlink</loc><lastmod>2026-10-15</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ja/article/ihsg-1335863</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/3dprmenkeu</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/alergi-penyebab-cara-mengatasi-ja</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ja/article/cara-daftar-beasiswa-luar-negeri-ja</loc><lastmod>2026-10-14</lastmod></url>
@@ -8655,6 +9000,15 @@
   <url><loc>https://www.statelinemedia.world/ms/article/galatasaray-bangkit-4-2-ke-atas-lille-osimhen-bobol-bekas-kelab</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ms/article/real-madrid-bantai-rb-leipzig-4-1-sempurna-di-liga-champions</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ms/article/kejutan-di-lisbon-lask-linz-permalukan-sporting-cp-3-2</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ms/article/hari-santri-2026-upacara-serentak-0700-tema-dan-agenda</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ms/article/lecornu-akui-keamanan-gagal-paris-larang-demo-jelang-aksi-24-okt</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ms/article/lt-kol-arman-tersangka-rumah-dinas-tni-jadi-markas-judol</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ms/article/mou-badr-ri-turki-qatar-pakistan-sepakat-kerja-sama-pertahanan</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ms/article/nusron-hadir-sidang-kabinet-selepas-dua-kali-mangkir-kpk</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ms/article/sahroni-ukuran-korupsi-harus-niat-jahat-bukan-sekadar-rugi-negara</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ms/article/susu-uht-disyaki-punca-103-pelajar-smpn-2-cisarua-keracunan-mbg</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ms/article/pelaburan-ikn-rp6-56-trilion-sasarkan-ibu-negara-politik-2028</loc><lastmod>2026-10-22</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ms/article/lakers-belasah-warriors-127-105-dalam-aksi-pembuka-nba</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ms/article/fenerbahce-lepaskan-kemenangan-diikat-slavia-praha-2-2</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ms/article/dortmund-menang-2-1-ke-atas-sabah-dua-gol-guirassy</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ms/article/raja-ampat-papua-syurga-bawah-laut-terbaik-dunia</loc><lastmod>2026-10-21</lastmod></url>
@@ -8803,7 +9157,6 @@
   <url><loc>https://www.statelinemedia.world/ms/article/gempa-m41-guncang-bogor-getaran-terasa-hingga-pamijahan</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ms/article/getty-images-fail-bankrap-terperangkap-hutang-rm108-bilion</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ms/article/hat-trick-barcola-liverpool-bantai-lask-6-3-di-liga-champions</loc><lastmod>2026-10-15</lastmod></url>
-  <url><loc>https://www.statelinemedia.world/ms/article/ihsg-anjlok-133-ke-5863-terseret-inflasi-as-yang-panas</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ms/article/japto-kekal-pimpin-pemuda-pancasila-secara-aklamasi</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ms/article/jerome-polin-murka-pejabat-kalimantan-nirempati-soal-karhutla</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ms/article/kalah-diserang-harimau-mangsa-yorkshire-alami-gangguan-jiwa</loc><lastmod>2026-10-15</lastmod></url>
@@ -8824,6 +9177,7 @@
   <url><loc>https://www.statelinemedia.world/ms/article/bangkai-kapal-tertua-dunia-ditemukan-di-turki-berusia-4700-tahun</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ms/article/as-pertimbang-longgarkan-sanksi-kapal-shadow-fleet-rusia</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ms/article/amaludin-syarif-ikon-sampul-mp3-4shared-meninggal-dunia</loc><lastmod>2026-10-15</lastmod></url>
+  <url><loc>https://www.statelinemedia.world/ms/article/ihsg-anjlok-133-ke-5863-terseret-inflasi-as-yang-panas</loc><lastmod>2026-10-15</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ms/article/serangan-houthi-ganggu-umrah-jemaah-depok-was-was</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ms/article/vitamin-c-manfaat-dan-keperluan-hariannya</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://www.statelinemedia.world/ms/article/usus-buntu-gejala-yang-jangan-diabaikan</loc><lastmod>2026-10-14</lastmod></url>
