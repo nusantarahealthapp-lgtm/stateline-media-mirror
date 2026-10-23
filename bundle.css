@@ -268,9 +268,14 @@ a.badge:hover{background:var(--yellow)}
 .live-item{display:flex;gap:14px;padding:12px 0;border-bottom:1px solid var(--line)}
 .live-time{font-family:var(--font-mono);font-weight:700;white-space:nowrap}
 .datastrip{display:flex;gap:18px;flex-wrap:wrap;align-items:center;border:1px solid var(--line);
-  border-left:6px solid var(--yellow);padding:10px 16px;margin:18px 0;background:#fff;
-  font-family:var(--font-mono);font-size:13px}
+  border-left:6px solid var(--yellow);padding:10px 16px;margin:18px 0;background:var(--card);
+  color:var(--ink);font-family:var(--font-mono);font-size:13px}
 .ds-label{font-weight:700;letter-spacing:.08em;text-transform:uppercase}
+.ds-up{color:#1a7f37;font-weight:700}
+.ds-dn{color:#cf222e;font-weight:700}
+[data-theme="dark"] .ds-up{color:#3fb950}
+[data-theme="dark"] .ds-dn{color:#f85149}
+.ds-time{margin-left:auto;color:var(--gray);font-size:12px;white-space:nowrap}
 .holiday-next{border:2px solid var(--ink);background:var(--yellow);padding:22px 26px;margin:20px 0;max-width:720px}
 .holiday-next h2{font-family:var(--font-black);font-size:26px;text-transform:uppercase;margin:8px 0}
 .hol-date{font-family:var(--font-black);font-size:30px;min-width:52px;text-align:center}
@@ -287,6 +292,10 @@ a.badge:hover{background:var(--yellow)}
 /* IMGFIX 2026-10-21: kartu seragam 16/9 + picture block (perintah Abdul) */
 .card img{width:100%;aspect-ratio:16/9;object-fit:cover}
 .card picture,.hero-main picture,.cover-figure picture{display:block}
+
+/* Tagline masthead (ditambahkan 2026-10-23 — tagline kembali ke header) */
+.brand-tag{font-size:11px;letter-spacing:.14em;text-transform:uppercase;opacity:.72;white-space:nowrap;font-weight:600}
+@media (max-width:860px){.brand-tag{display:none}}
 
 /* ===== feature-eeat.css ===== */
 /* ============================================================

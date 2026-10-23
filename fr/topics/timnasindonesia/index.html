@@ -37,10 +37,57 @@
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="preconnect" href="https://cdn.statelinemedia.world">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700;800;900&family=Archivo+Black&family=JetBrains+Mono:wght@400;700&family=Inter:wght@400;500;600;700&display=swap">
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700;800;900&family=Archivo+Black&family=JetBrains+Mono:wght@400;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/bundle.css?v=8ab709ae">
+<style>
+/* Critical CSS (webperf 2026-10-23) — salinan aturan di atas lipatan dari
+   static/style.css agar first paint stabil selagi bundle.css dimuat async.
+   Bila mengubah aturan ini di style.css, sesuaikan juga blok ini. */
+:root{--black:#0a0a0a;--paper:#fafafa;--card:#ffffff;--ink:#111111;--gray:#6b6b6b;--line:#e5e5e5;--yellow:#f0cd2d;--red:#d4202c;--font-head:'Archivo',Helvetica,Arial,sans-serif;--font-black:'Archivo Black','Archivo',Helvetica,Arial,sans-serif;--font-mono:'JetBrains Mono',ui-monospace,monospace}
+[data-theme="dark"]{--paper:#0a0a0a;--card:#141414;--ink:#f4f4f4;--gray:#999;--line:#262626}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:var(--font-head);background:var(--paper);color:var(--ink);-webkit-font-smoothing:antialiased;line-height:1.6}
+a{color:inherit;text-decoration:none}
+img{display:block;max-width:100%;height:auto}
+.wrap{max-width:1280px;margin:0 auto;padding:0 20px}
+.util{background:#fff;border-bottom:1px solid var(--line);font-size:11px}
+[data-theme="dark"] .util{background:#111;border-color:#262626}
+.util-inner{display:flex;justify-content:space-between;align-items:center;padding-top:7px;padding-bottom:7px}
+#today{font-family:var(--font-mono);font-size:10px;letter-spacing:.08em;color:#555;text-transform:uppercase}
+.util-right{display:flex;align-items:center;gap:18px}
+.vnav{background:var(--black);color:#fff;position:sticky;top:0;z-index:60}
+.vnav-inner{display:flex;align-items:center;gap:24px;min-height:64px}
+.nav-toggle{display:none}
+.brand-logo{height:38px;width:auto}
+.brand-tag{font-size:11px;letter-spacing:.14em;text-transform:uppercase;opacity:.72;white-space:nowrap;font-weight:600}
+.vnav-links{display:flex;gap:24px;margin-left:6px;flex-wrap:wrap}
+.vnav-links a{font-weight:800;font-size:13px;letter-spacing:.05em;color:#fff;text-transform:uppercase;padding:4px 0;position:relative;white-space:nowrap}
+.vnav-social{margin-left:auto;display:flex;gap:14px}
+.badge{display:inline-block;font-weight:800;font-size:12px;letter-spacing:.06em;text-transform:uppercase;border-bottom:3px solid var(--yellow);padding-bottom:3px}
+.hero-grid{display:grid;grid-template-columns:2fr 1fr;gap:24px}
+.hero-main{position:relative;display:block;background:var(--black)}
+.hero-main img{width:100%;aspect-ratio:16/9;object-fit:cover}
+.hero-overlay{background:var(--black);color:#fff;padding:26px 30px}
+.hero-overlay h2{font-family:var(--font-black);font-size:clamp(26px,3.6vw,44px);line-height:1.06;letter-spacing:-.01em;margin-bottom:12px}
+.section{margin-top:44px}
+h2.section-title{font-family:var(--font-black);font-size:24px;letter-spacing:.02em;text-transform:uppercase;border-bottom:4px solid var(--ink);padding-bottom:10px;margin-bottom:22px}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:26px}
+.card{background:var(--card);border:1px solid var(--line);display:block}
+.card .cover{width:100%;aspect-ratio:16/10;object-fit:cover}
+.article-wrap{max-width:1280px;margin:0 auto;padding:0 20px}
+.breadcrumb{font-family:var(--font-mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--gray);margin:26px 0 14px}
+.article-title{font-family:var(--font-black);font-size:clamp(30px,4.4vw,54px);line-height:1.06;letter-spacing:-.01em;max-width:20ch;margin-bottom:16px}
+.article-meta{display:flex;flex-wrap:wrap;gap:14px;align-items:center;margin-bottom:26px}
+.cover-figure{margin:0 0 8px}
+.cover-figure img{width:100%;aspect-ratio:21/9;object-fit:cover}
+.lead{font-size:20px;font-weight:600;line-height:1.6;max-width:68ch;margin:30px auto}
+@media (max-width:860px){.hero-grid{grid-template-columns:1fr}.grid{grid-template-columns:1fr}.vnav-links{display:none}}
+</style>
+<link rel="preload" as="style" href="/bundle.css?v=4b9b2d1e" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="/bundle.css?v=4b9b2d1e"></noscript>
 
 <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
 <script>
@@ -103,7 +150,8 @@
 <header class="vnav">
   <div class="wrap vnav-inner">
     <button class="nav-toggle" id="navtoggle" aria-label="Buka menu navigasi" aria-expanded="false" aria-controls="navmenu"><span></span><span></span><span></span></button>
-    <a class="brand" href="/"><img src="/logo-stateline.png?v=8ab709ae" alt="Stateline MEDIA" class="brand-logo" width="137" height="76"></a>
+    <a class="brand" href="/"><img src="/logo-stateline.png?v=4b9b2d1e" alt="Stateline MEDIA" class="brand-logo" width="137" height="76"></a>
+    <span class="brand-tag">L'actualité sans frontières</span>
     <nav class="vnav-links" id="navmenu"><a href="/fr/" class="">Accueil</a><a href="/fr/category/national" class="">National</a><a href="/fr/category/monde" class="">Monde</a><a href="/fr/category/politique" class="">Politique</a><a href="/fr/category/economie" class="">Économie</a><a href="/fr/category/sports" class="">Sports</a><span class="nav-dropdown"><button class="nav-dropbtn active" aria-haspopup="true">Plus &#9662;</button><span class="nav-menu"><a href="/fr/category/droit" class="">Droit</a><a href="/fr/category/catastrophes" class="">Catastrophes</a><a href="/fr/category/technologie" class="">Technologie</a><a href="/fr/category/divertissement" class="">Divertissement</a><a href="/fr/category/sante" class="">Santé</a><a href="/stories/" class="">Web Stories</a><a href="/fr/topics/" class="active">Sujets</a></span></span><a href="/fr/pages/search" aria-label="Rechercher"><svg class="svg-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg><span>Rechercher</span></a></nav>
     <div class="vnav-social">
       <a href="https://www.tiktok.com/@statelinemediaid" target="_blank" rel="noopener" aria-label="TikTok">TikTok</a>
@@ -115,7 +163,7 @@
 <main><div class="wrap section"><nav class="breadcrumb"><a href="/fr/">Accueil</a> / <a href="/fr/topics/">Sujets</a> / #TimnasIndonesia</nav><h1 class="section-title">#TimnasIndonesia <span class="tag-count">(13)</span></h1><div class="grid"><a class="card" href="/fr/article/le-match-amical-de-laquipe-nationale-dindonasie-en-jordanie"><img class="cover" src="https://cdn.statelinemedia.world/images/uji-coba-timnas-yordania-batal-1-thumb.jpg" alt="Le match amical de l&#x27;Ã©quipe nationale d&#x27;IndonÃ©sie en Jordanie…" width="480" height="270" loading="lazy"><div class="card-body"><span class="badge">Sports</span><h3>Le match amical de l&#x27;Ã©quipe nationale d&#x27;IndonÃ©sie en Jordanie…</h3><p class="excerpt">Le projet de deux matchs à l&#x27;extérieur de l&#x27;équipe d&#x27;Indonésie au Moyen-Orient — la rumeur évoque la Jordanie et le Koweït — lors de la FIFA Matchday de novembre 2026 risque d&#x27;être annulé pour des raisons de sécurité.</p><span class="meta"><time datetime="2026-10-14">14 Octobre 2026</time> &bull; 4 min de lecture</span></div></a><a class="card" href="/fr/article/taisei-marukawa-obtient-sa-naturalisation-premier-candidat-a-la"><img class="cover" src="https://cdn.statelinemedia.world/images/taisei-marukawa-naturalisasi-1-thumb.jpg" alt="Taisei Marukawa obtient sa naturalisation, premier candidat à la…" width="480" height="270" loading="lazy"><div class="card-body"><span class="badge">Sports</span><h3>Taisei Marukawa obtient sa naturalisation, premier candidat à la…</h3><p class="excerpt">Taisei Marukawa (Dewa United, 29 ans) entame le processus de naturalisation pour devenir citoyen indonÃ©sien en octobre 2026 ; les documents requis ont Ã©tÃ© dÃ©posÃ©s et sont dÃ©sormais en attente d&#x27;approbation.</p><span class="meta"><time datetime="2026-10-14">14 Octobre 2026</time> &bull; 3 min de lecture</span></div></a><a class="card" href="/fr/article/conditions-de-naturalisation-fifa-par-la-voie-de-la-residence-le"><img class="cover" src="https://cdn.statelinemedia.world/images/syarat-naturalisasi-fifa-residensi-1-thumb.jpg" alt="Conditions de naturalisation FIFA par la voie de la résidence : le…" width="480" height="270" loading="lazy"><div class="card-body"><span class="badge">Sports</span><h3>Conditions de naturalisation FIFA par la voie de la résidence : le…</h3><p class="excerpt">L&#x27;ailier de Dewa United d&#x27;origine japonaise, Taisei Marukawa, entame une procédure de naturalisation pour devenir citoyen indonésien en octobre 2026 et a déjà remis les documents requis.</p><span class="meta"><time datetime="2026-10-14">14 Octobre 2026</time> &bull; 3 min de lecture</span></div></a><a class="card" href="/fr/article/lindonesie-championne-de-la-coupe-de-lasean-2026-35-ans-de-jeune"><img class="cover" src="https://cdn.statelinemedia.world/images/timnas-juara-fifa-asean-cup-2026-1-thumb.jpg" alt="L&#x27;Indonésie championne de la Coupe de l&#x27;ASEAN 2026, 35 ans de jeûne" width="480" height="270" loading="lazy"><div class="card-body"><span class="badge">Sports</span><h3>L&#x27;Indonésie championne de la Coupe de l&#x27;ASEAN 2026, 35 ans de jeûne</h3><p class="excerpt">L&#x27;Indonésie a remporté la Coupe de l&#x27;ASEAN 2026 après avoir battu la Thaïlande à 4-2 après une remise de 2-2 lors de la finale au stade principal de Gelora Bung Karno, le lundi 5 octobre 2026.</p><span class="meta"><time datetime="2026-10-14">14 Octobre 2026</time> &bull; 3 min de lecture</span></div></a><a class="card" href="/fr/article/test-du-championnat-dindonesie-contre-la-jordanie-menace-dannulation"><img class="cover" src="https://cdn.statelinemedia.world/images/uji-coba-timnas-yordania-batal-1-thumb.jpg" alt="Test du championnat d&#x27;Indonésie contre la Jordanie menacé d&#x27;annulation" width="480" height="270" loading="lazy"><div class="card-body"><span class="badge">Sports</span><h3>Test du championnat d&#x27;Indonésie contre la Jordanie menacé d&#x27;annulation</h3><p class="excerpt">Le projet de deux matchs à l&#x27;extérieur de l&#x27;équipe nationale d&#x27;Indonésie au Moyen-Orient — selon les rumeurs en Jordanie et au Koweït — lors de la FIFA Matchday de novembre 2026 menace d&#x27;être annulé en raison de facteurs de sécurité.</p><span class="meta"><time datetime="2026-10-14">14 Octobre 2026</time> &bull; 4 min de lecture</span></div></a><a class="card" href="/fr/article/liste-des-joueurs-naturalises-de-lequipe-nationale-dindonesie-2026"><img class="cover" src="https://cdn.statelinemedia.world/images/pemain-naturalisasi-timnas-indonesia-1-thumb.jpg" alt="Liste des joueurs naturalisés de l&#x27;équipe nationale d&#x27;Indonésie 2026…" width="480" height="270" loading="lazy"><div class="card-body"><span class="badge">Sports</span><h3>Liste des joueurs naturalisés de l&#x27;équipe nationale d&#x27;Indonésie 2026…</h3><p class="excerpt">Sur les 23 joueurs convoqués en équipe nationale d&#x27;Indonésie en 2026, seuls 6 sont nés en Indonésie ; les autres sont des joueurs naturalisés.</p><span class="meta"><time datetime="2026-10-14">14 Octobre 2026</time> &bull; 3 min de lecture</span></div></a><a class="card" href="/fr/article/lequipe-nationale-dindonesie-remporte-la-fifa-asean-cup-2026"><img class="cover" src="https://cdn.statelinemedia.world/images/timnas-juara-fifa-asean-cup-2026-1-thumb.jpg" alt="L&#x27;équipe nationale d&#x27;Indonésie remporte la FIFA ASEAN Cup 2026,…" width="480" height="270" loading="lazy"><div class="card-body"><span class="badge">Sports</span><h3>L&#x27;équipe nationale d&#x27;Indonésie remporte la FIFA ASEAN Cup 2026,…</h3><p class="excerpt">L&#x27;équipe nationale d&#x27;Indonésie a remporté la FIFA ASEAN Cup 2026 après avoir battu la Thaïlande aux tirs au but 4-2, à l&#x27;issue d&#x27;un match nul 2-2 en finale au Stadion Utama Gelora Bung Karno, lundi 5 octobre 2026.</p><span class="meta"><time datetime="2026-10-14">14 Octobre 2026</time> &bull; 3 min de lecture</span></div></a><a class="card" href="/fr/article/classement-fifa-de-lindonesie-en-hausse-a-la-116e-place-erick"><img class="cover" src="https://cdn.statelinemedia.world/images/ranking-fifa-indonesia-116-1-thumb.jpg" alt="Classement FIFA de l&#x27;Indonésie en hausse à la 116e place, Erick…" width="480" height="270" loading="lazy"><div class="card-body"><span class="badge">Sports</span><h3>Classement FIFA de l&#x27;Indonésie en hausse à la 116e place, Erick…</h3><p class="excerpt">L&#x27;équipe nationale d&#x27;Indonésie a bondi à la 116e place mondiale avec 1.168,25 points lors de la mise à jour du classement FIFA, mercredi 7 octobre 2026 — gagnant une place par rapport à sa position précédente.</p><span class="meta"><time datetime="2026-10-14">14 Octobre 2026</time> &bull; 3 min de lecture</span></div></a><a class="card" href="/fr/article/classement-fifa-lindonesie-grimpe-a-la-116e-place-erick-thohir"><img class="cover" src="https://cdn.statelinemedia.world/images/ranking-fifa-indonesia-116-1-thumb.jpg" alt="Classement FIFA : l&#x27;Indonésie grimpe à la 116e place, Erick Thohir…" width="480" height="270" loading="lazy"><div class="card-body"><span class="badge">Sports</span><h3>Classement FIFA : l&#x27;Indonésie grimpe à la 116e place, Erick Thohir…</h3><p class="excerpt">L&#x27;équipe nationale d&#x27;Indonésie a bondi au 116e rang mondial avec 1.168,25 points lors de la mise à jour du classement FIFA, mercredi 7 octobre 2026 — une progression d&#x27;une place par rapport à sa position précédente.</p><span class="meta"><time datetime="2026-10-14">14 Octobre 2026</time> &bull; 3 min de lecture</span></div></a><a class="card" href="/fr/article/sandy-walsh-est-retabli-pret-a-disputer-ses-debuts-avec-le-persib"><img class="cover" src="https://cdn.statelinemedia.world/images/sandy-walsh-pulih-debut-persib-1-thumb.jpg" alt="Sandy Walsh est rétabli, prêt à disputer ses débuts avec le Persib…" width="480" height="270" loading="lazy"><div class="card-body"><span class="badge">Sports</span><h3>Sandy Walsh est rétabli, prêt à disputer ses débuts avec le Persib…</h3><p class="excerpt">Sandy Walsh (31) a été déclaré rétabli après avoir suivi un programme de réhabilitation d&#x27;environ un mois et a repris l&#x27;entraînement complet avec le Persib.</p><span class="meta"><time datetime="2026-10-14">14 Octobre 2026</time> &bull; 3 min de lecture</span></div></a><a class="card" href="/fr/article/sandy-walsh-retabli-pret-a-faire-ses-debuts-avec-persib-bandung"><img class="cover" src="https://cdn.statelinemedia.world/images/sandy-walsh-pulih-debut-persib-1-thumb.jpg" alt="Sandy Walsh rétabli, prêt à faire ses débuts avec Persib Bandung" width="480" height="270" loading="lazy"><div class="card-body"><span class="badge">Sports</span><h3>Sandy Walsh rétabli, prêt à faire ses débuts avec Persib Bandung</h3><p class="excerpt">Sandy Walsh (31) a été déclaré rétabli après avoir suivi un programme de rééducation pendant près d&#x27;un mois et a repris les entraînements complets avec Persib.</p><span class="meta"><time datetime="2026-10-14">14 Octobre 2026</time> &bull; 3 min de lecture</span></div></a><a class="card" href="/fr/article/taisei-marukawa-entame-sa-naturalisation-premier-candidat-a-la"><img class="cover" src="https://cdn.statelinemedia.world/images/taisei-marukawa-naturalisasi-1-thumb.jpg" alt="Taisei Marukawa entame sa naturalisation, premier candidat à la…" width="480" height="270" loading="lazy"><div class="card-body"><span class="badge">Sports</span><h3>Taisei Marukawa entame sa naturalisation, premier candidat à la…</h3><p class="excerpt">Taisei Marukawa (Dewa United, 29 ans) entame une procédure de naturalisation pour devenir citoyen indonésien en octobre 2026 ; les documents requis ont été soumis et il attend désormais l&#x27;approbation.</p><span class="meta"><time datetime="2026-10-14">14 Octobre 2026</time> &bull; 3 min de lecture</span></div></a><a class="card" href="/fr/article/naturalisation-fifa-par-la-voie-de-la-residence-le-cas-de-taisei"><img class="cover" src="https://cdn.statelinemedia.world/images/syarat-naturalisasi-fifa-residensi-1-thumb.jpg" alt="Naturalisation FIFA par la voie de la résidence : le cas de Taisei…" width="480" height="270" loading="lazy"><div class="card-body"><span class="badge">Sports</span><h3>Naturalisation FIFA par la voie de la résidence : le cas de Taisei…</h3><p class="excerpt">L&#x27;ailier de Dewa United originaire du Japon, Taisei Marukawa, a entamé une procédure de naturalisation pour devenir citoyen indonésien (WNI) en octobre 2026 et a déjà soumis les documents requis.</p><span class="meta"><time datetime="2026-10-14">14 Octobre 2026</time> &bull; 3 min de lecture</span></div></a></div></div></main>
 <footer class="vfooter">
   <div class="wrap vfoot-grid">
-    <div><img src="/logo-stateline.png?v=8ab709ae" alt="Stateline MEDIA" class="vfoot-logo" width="137" height="76"><div class="newsletter"><h4>Les dernières nouvelles par e-mail</h4><form class="nl-form" data-lang="fr" data-ok="Merci ! Votre e-mail est inscrit." data-invalid="Adresse e-mail invalide." data-err="Échec de l&#x27;enregistrement. Réessayez plus tard." novalidate><input type="email" name="email" required placeholder="Votre adresse e-mail" aria-label="email"><button type="submit" aria-label="S&#x27;abonner"><svg class="svg-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg> S&#x27;abonner</button><p class="nl-msg" role="status" aria-live="polite"></p></form><script>(function(){var f=document.querySelector(".newsletter form.nl-form");if(!f||f.dataset.bound)return;f.dataset.bound="1";var msg=f.querySelector(".nl-msg"),em=f.querySelector("input[name=email]");f.addEventListener("submit",function(ev){ev.preventDefault();var v=(em.value||"").trim();msg.className="nl-msg";msg.textContent="";if(!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(v)){msg.textContent=f.dataset.invalid;msg.classList.add("err");return;}var b=this.querySelector("button");b.disabled=true;fetch("/api/newsletter",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({email:v,lang:f.dataset.lang||"id"})}).then(function(r){return{ok:r.ok};}).then(function(res){b.disabled=false;if(res.ok){msg.textContent=f.dataset.ok;msg.classList.add("ok");f.reset();}else{msg.textContent=f.dataset.err;msg.classList.add("err");}}).catch(function(){b.disabled=false;msg.textContent=f.dataset.err;msg.classList.add("err");});});})();</script></div><div class="pushsub"><h4>Notifications des dernières nouvelles</h4><button type="button" id="pushbtn" class="pushbtn" aria-label="Aktifkan notifikasi"><svg class="svg-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.73 21a2 2 0 0 1-3.46 0"/></svg> Activer les notifications</button><p class="push-note" id="pushnote"></p></div></div>
+    <div><img src="/logo-stateline.png?v=4b9b2d1e" alt="Stateline MEDIA" class="vfoot-logo" width="137" height="76"><div class="newsletter"><h4>Les dernières nouvelles par e-mail</h4><form class="nl-form" data-lang="fr" data-ok="Merci ! Votre e-mail est inscrit." data-invalid="Adresse e-mail invalide." data-err="Échec de l&#x27;enregistrement. Réessayez plus tard." novalidate><input type="email" name="email" required placeholder="Votre adresse e-mail" aria-label="email"><button type="submit" aria-label="S&#x27;abonner"><svg class="svg-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg> S&#x27;abonner</button><p class="nl-msg" role="status" aria-live="polite"></p></form><script>(function(){var f=document.querySelector(".newsletter form.nl-form");if(!f||f.dataset.bound)return;f.dataset.bound="1";var msg=f.querySelector(".nl-msg"),em=f.querySelector("input[name=email]");f.addEventListener("submit",function(ev){ev.preventDefault();var v=(em.value||"").trim();msg.className="nl-msg";msg.textContent="";if(!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(v)){msg.textContent=f.dataset.invalid;msg.classList.add("err");return;}var b=this.querySelector("button");b.disabled=true;fetch("/api/newsletter",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({email:v,lang:f.dataset.lang||"id"})}).then(function(r){return{ok:r.ok};}).then(function(res){b.disabled=false;if(res.ok){msg.textContent=f.dataset.ok;msg.classList.add("ok");f.reset();}else{msg.textContent=f.dataset.err;msg.classList.add("err");}}).catch(function(){b.disabled=false;msg.textContent=f.dataset.err;msg.classList.add("err");});});})();</script></div><div class="pushsub"><h4>Notifications des dernières nouvelles</h4><button type="button" id="pushbtn" class="pushbtn" aria-label="Aktifkan notifikasi"><svg class="svg-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.73 21a2 2 0 0 1-3.46 0"/></svg> Activer les notifications</button><p class="push-note" id="pushnote"></p></div></div>
     <div class="vfoot-links"><h4>Rubriques</h4><div><a href="/fr/category/national">National</a><a href="/fr/category/monde">Monde</a><a href="/fr/category/politique">Politique</a><a href="/fr/category/droit">Droit</a><a href="/fr/category/economie">Économie</a><a href="/fr/category/catastrophes">Catastrophes</a><a href="/fr/category/technologie">Technologie</a><a href="/fr/category/sports">Sports</a><a href="/fr/category/divertissement">Divertissement</a><a href="/fr/category/sante">Santé</a><a href="/fr/topics/">Sujets</a></div></div>
     <div class="vfoot-links"><h4>Plus</h4><div><a href="/fr/pages/a-propos">À Propos</a><a href="/fr/pages/redaction">Rédaction et Contact</a><a href="/fr/pages/confidentialite">Politique de Confidentialité</a><a href="/fr/pages/search">Recherche</a><a href="/fr/pages/index">Index des actualités</a><a href="#" onclick="window.smConsent && window.smConsent.buka(); return false;">Paramètres des cookies</a></div></div>
     <div class="vfoot-links"><h4>Suivez-nous</h4><div class="socials">
@@ -126,7 +174,7 @@
         <a href="https://www.youtube.com/@StatelineMediaTV" target="_blank" rel="noopener">YouTube</a>
       </div></div>
   </div>
-  <div class="wrap vfoot-copy"><p>&copy; 2026 Stateline MEDIA. Tous droits réservés.</p><p>Rapide • Factuel • Sans détour</p></div>
+  <div class="wrap vfoot-copy"><p>&copy; 2026 Stateline MEDIA. Tous droits réservés.</p><p>L'actualité sans frontières</p></div>
 </footer>
 <script>
 (function(){
@@ -419,6 +467,55 @@ function copyLink(btn){
         bq.textContent = "M " + g.Magnitude + " — " + g.Wilayah + " (" + g.Tanggal + " " + g.Jam + ")";
       })
       .catch(function(){ var w = document.getElementById("bmkg-quake"); if (w) w.style.display = "none"; });
+  }
+
+  // --- Gempa dunia terkini USGS (M4.5+, 24 jam terakhir) ---
+  var uq = document.getElementById("usgs-text");
+  if (uq) {
+    fetch("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_day.geojson")
+      .then(function(r){ return r.json(); })
+      .then(function(d){
+        var f = (d.features || [])[0];
+        if (!f) throw new Error("empty");
+        var p = f.properties;
+        var t = new Date(p.time);
+        var tstr = t.toLocaleDateString("en-GB", {day: "2-digit", month: "short"}) + " " +
+                   t.toLocaleTimeString("en-GB", {hour: "2-digit", minute: "2-digit"});
+        uq.textContent = "M " + (Math.round(p.mag * 10) / 10) + " — " + p.place + " (" + tstr + ")";
+      })
+      .catch(function(){ var w = document.getElementById("usgs-quake"); if (w) w.style.display = "none"; });
+  }
+})();
+</script>
+<script>
+// Adsterra lazy-load (webperf 2026-10-23): script iklan disuntik hanya saat
+// slot .adsterra-slot mendekati viewport (rootMargin 600px), dengan fallback
+// paksa 6 detik. URL script & ID container tidak berubah dari markup lama —
+// yang bergeser hanya waktu muatnya, agar render awal/LCP tidak berebut
+// bandwidth dengan iklan. Maks 1x suntik per slot.
+(function(){
+  var SRC = "https://bauval.org/21/66003e597fd3804df1790efd414e78b9";
+  function load(el){
+    if (el.getAttribute("data-ad-loaded")) return;
+    el.setAttribute("data-ad-loaded", "1");
+    var s = document.createElement("script");
+    s.async = true;
+    s.setAttribute("data-cfasync", "false");
+    s.src = SRC;
+    el.appendChild(s);
+  }
+  var slots = document.querySelectorAll(".adsterra-slot");
+  if (!slots.length) return;
+  if ("IntersectionObserver" in window) {
+    var io = new IntersectionObserver(function(entries){
+      entries.forEach(function(e){
+        if (e.isIntersecting) { load(e.target); io.unobserve(e.target); }
+      });
+    }, {rootMargin: "600px 0px"});
+    slots.forEach(function(el){ io.observe(el); });
+    setTimeout(function(){ slots.forEach(load); }, 6000);
+  } else {
+    slots.forEach(load);
   }
 })();
 </script>

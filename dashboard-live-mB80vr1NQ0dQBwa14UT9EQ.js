@@ -102,6 +102,49 @@ function drawModels(modelDetails) {
   el.innerHTML = html;
 }
 
+function drawPaperclip(pc) {
+  const el = document.getElementById('paperclip');
+  if (!el || !pc || !pc.agents) return;
+  const num = n => (n || 0).toLocaleString('id-ID');
+  const cost = c => (c > 0 ? '$' + (c / 100).toFixed(2) : '—');
+  const th = 'style="text-align:right;padding:6px 4px;border-bottom:1px solid #2a3a5a;color:#8b93a7;font-weight:600"';
+  const thL = 'style="text-align:left;padding:6px 4px;border-bottom:1px solid #2a3a5a;color:#8b93a7;font-weight:600"';
+  const td = 'style="text-align:right;padding:6px 4px;border-bottom:1px solid #1a2030"';
+  const tdL = 'style="text-align:left;padding:6px 4px;border-bottom:1px solid #1a2030"';
+  let html = '<table style="width:100%;border-collapse:collapse;font-size:.82em">';
+  html += '<tr><th ' + thL + '>Agen</th><th ' + th + '>Run<br>hari ini</th><th ' + th + '>Token masuk</th><th ' + th + '>Token keluar</th><th ' + th + '>Biaya<br>hari ini</th><th ' + th + '>Run<br>7 hari</th><th ' + th + '>Token<br>7 hari</th><th ' + th + '>Biaya<br>7 hari</th></tr>';
+  for (const a of pc.agents) {
+    const t = a.today || {}, s = a.d7 || {};
+    const role = a.role ? ' <span style="color:#8b93a7;font-size:.85em">(' + a.role + ')</span>' : '';
+    html += '<tr><td ' + tdL + '><b>' + a.name + '</b>' + role + '</td>'
+      + '<td ' + td + '>' + num(t.runs) + '</td>'
+      + '<td ' + td + '>' + num(t.tokens_in) + '</td>'
+      + '<td ' + td + '>' + num(t.tokens_out) + '</td>'
+      + '<td ' + td + '>' + cost(t.cost_cents) + '</td>'
+      + '<td ' + td + '>' + num(s.runs) + '</td>'
+      + '<td ' + td + '>' + num((s.tokens_in || 0) + (s.tokens_out || 0)) + '</td>'
+      + '<td ' + td + '>' + cost(s.cost_cents) + '</td></tr>';
+  }
+  const tt = (pc.totals && pc.totals.today) || {}, ts = (pc.totals && pc.totals.d7) || {};
+  const b = 'style="font-weight:700"';
+  html += '<tr><td ' + tdL + ' ' + b + '>TOTAL</td>'
+    + '<td ' + td + ' ' + b + '>' + num(tt.runs) + '</td>'
+    + '<td ' + td + ' ' + b + '>' + num(tt.tokens_in) + '</td>'
+    + '<td ' + td + ' ' + b + '>' + num(tt.tokens_out) + '</td>'
+    + '<td ' + td + ' ' + b + '>' + cost(tt.cost_cents) + '</td>'
+    + '<td ' + td + ' ' + b + '>' + num(ts.runs) + '</td>'
+    + '<td ' + td + ' ' + b + '>' + num((ts.tokens_in || 0) + (ts.tokens_out || 0)) + '</td>'
+    + '<td ' + td + ' ' + b + '>' + cost(ts.cost_cents) + '</td></tr>';
+  html += '</table>';
+  if (!pc.cost_recorded) {
+    html += '<div style="font-size:.72em;color:#8b93a7;margin-top:8px">Biaya USD belum tercatat di Paperclip untuk provider ini (cost_cents = 0) — gunakan token sebagai acuan biaya.</div>';
+  }
+  if (pc.stale) {
+    html += '<div style="font-size:.72em;color:#f59e0b;margin-top:4px">⚠️ data terakhir yang tersimpan (box Paperclip belum terjangkau saat snapshot)</div>';
+  }
+  el.innerHTML = html;
+}
+
 async function pollLive() {
   const badge = document.getElementById('livebadge');
   try {
@@ -120,6 +163,7 @@ async function pollLive() {
     drawTrend(j.trend_7d);
     drawTasks(j.tasks_24h);
     drawModels(j.model_details);
+    drawPaperclip(j.paperclip);
     // Update stat cards dari live data
     const sr = document.getElementById('st-req');
     if (sr) sr.textContent = j.total_24h.toLocaleString('id-ID');
