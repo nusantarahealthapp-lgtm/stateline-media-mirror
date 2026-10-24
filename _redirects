@@ -1,4 +1,12 @@
 /kanal/* /kategori/:splat 301
+/en/topics/turki/ /en/topics/turkey/ 301
+/en/topics/pasarmodal/ /en/topics/capitalmarket/ 301
+/en/topics/msme/ /en/topics/ 301
+/en/topics/acidreflux/ /en/topics/ 301
+/en/topics/pregnantmom/ /en/topics/ 301
+/en/topics/giroud/ /en/topics/ 301
+/en/topics/venezia/ /en/topics/ 301
+/en/topics/gout/ /en/topics/ 301
 /artikel/ihsg-anjlok-inflasi-as-panas /artikel/ihsg-anjlok-1-33-persen-15-oktober-2026 301
 /en/article/ihsg-plunges-1-33-percent-on-hot-us-inflation /en/article/ihsg-raised-133-to-5863-pulled-by-hot-us-inflation 301
 /es/article/el-ihsg-se-desploma-un-133-hasta-5863-por-el-recalentamiento-de /es/article/ihsg-cae-133-hasta-5863-arrastrado-por-la-inflacion-caliente-de 301
